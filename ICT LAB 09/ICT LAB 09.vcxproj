@@ -135,6 +135,7 @@
     <ClCompile Include="Exercise - 4 _ basic calculator.cpp" />
     <ClCompile Include="Exercise - 5 _ roots of the equation.cpp" />
     <ClCompile Include="Exercise - 6 _ bill.cpp" />
+    <ClCompile Include="EXERCISE_01_Leap year.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

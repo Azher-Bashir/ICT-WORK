@@ -16,6 +16,9 @@
     <Filter Include="Source Files\lab 09">
       <UniqueIdentifier>{598b7e08-352a-4599-8951-50f80879efdb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\lab 10">
+      <UniqueIdentifier>{d162cad9-8a6a-4136-afb2-0cb94d638ee3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="Exercise - 6 _ bill.cpp">
       <Filter>Source Files\lab 09</Filter>
+    </ClCompile>
+    <ClCompile Include="EXERCISE_01_Leap year.cpp">
+      <Filter>Source Files\lab 10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
