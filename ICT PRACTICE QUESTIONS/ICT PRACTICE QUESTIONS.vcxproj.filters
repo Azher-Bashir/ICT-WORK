@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\MID 02">
+      <UniqueIdentifier>{6fcf2c2e-3897-4a05-b15c-e715c2835359}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="P1.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="print all real numbers.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="to draw a frame.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="draw a frame using nested for and ifelse.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
