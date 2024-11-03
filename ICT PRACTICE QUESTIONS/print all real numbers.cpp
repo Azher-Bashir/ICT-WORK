@@ -23,7 +23,7 @@
 //		}
 //	}
 //
-//	cout << endl << "Sum of even numbers = " << sum_even << endl << "difference of even numbers = " << diff_even << endl;
+//	cout << endl << "Sum of even numbers = " << sum_even << endl;
 //	cout << endl << "odd numbers are: ";
 //	for (i; i <= ul; i++)
 //	{
@@ -35,7 +35,8 @@
 //
 //		}
 //	}
-//	cout << endl << "Sum of odd numbers = " << sum_odd << endl << "difference of odd numbers = " << diff_odd << endl;
+//	cout << endl << "Sum of odd numbers = " << sum_odd << endl;
+//	cout << "Difference of sum of odd numbers and sum of even numbers = " << sum_even - sum_odd << endl;
 //	//system("pause");
 //	return 0;
 //}
