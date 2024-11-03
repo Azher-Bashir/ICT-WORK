@@ -13,9 +13,7 @@ int main()
 	{
 		if (sqrt(i) == int(sqrt(i)))
 			cout << i << ", ";
-			//cout << "The number (" << num << ") is a perfect square.." << endl;
-		//else
-			//cout << "The number (" << num << ") is not a perfect square.." << endl;
+
 	}
 	cout << endl;
 	return 0;
