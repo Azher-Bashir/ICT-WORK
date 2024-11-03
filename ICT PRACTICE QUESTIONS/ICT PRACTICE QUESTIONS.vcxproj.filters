@@ -16,6 +16,9 @@
     <Filter Include="Source Files\MID 02">
       <UniqueIdentifier>{6fcf2c2e-3897-4a05-b15c-e715c2835359}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\ICT PRACTICE QUESTIONS">
+      <UniqueIdentifier>{a2e70976-1317-445b-b673-9034ec901ed0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -32,6 +35,69 @@
     </ClCompile>
     <ClCompile Include="draw a frame using nested for and ifelse.cpp">
       <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="right triangle.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="check if the number is a perfect square or not.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="Armstrong number..cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="FileName.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="PERFECT NUMBER.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION NUMBER 05.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION NUMBER 08.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="palindrome..cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="reverse number.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="pattern question.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="23.cpp">
+      <Filter>Source Files\MID 02</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION_01.cpp">
+      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION_02.cpp">
+      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION_03.cpp">
+      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION_04.cpp">
+      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION_05.cpp">
+      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION_06.cpp">
+      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION_07.cpp">
+      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION_08.cpp">
+      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION_13.cpp">
+      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

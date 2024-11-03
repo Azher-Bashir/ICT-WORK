@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -127,11 +127,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="23.cpp" />
+    <ClCompile Include="Armstrong number..cpp" />
+    <ClCompile Include="check if the number is a perfect square or not.cpp" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
+    <ClCompile Include="FileName.cpp" />
     <ClCompile Include="P1.cpp" />
     <ClCompile Include="P2.cpp" />
+    <ClCompile Include="palindrome..cpp" />
+    <ClCompile Include="pattern question.cpp" />
     <ClCompile Include="print all real numbers.cpp" />
+    <ClCompile Include="PERFECT NUMBER.cpp" />
+    <ClCompile Include="QUESTION NUMBER 05.cpp" />
+    <ClCompile Include="QUESTION NUMBER 08.cpp" />
+    <ClCompile Include="QUESTION_01.cpp" />
+    <ClCompile Include="QUESTION_02.cpp" />
+    <ClCompile Include="QUESTION_03.cpp" />
+    <ClCompile Include="QUESTION_04.cpp" />
+    <ClCompile Include="QUESTION_05.cpp" />
+    <ClCompile Include="QUESTION_06.cpp" />
+    <ClCompile Include="QUESTION_07.cpp" />
+    <ClCompile Include="QUESTION_08.cpp" />
+    <ClCompile Include="QUESTION_13.cpp" />
+    <ClCompile Include="reverse number.cpp" />
+    <ClCompile Include="right triangle.cpp" />
     <ClCompile Include="to draw a frame.cpp" />
+    <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
