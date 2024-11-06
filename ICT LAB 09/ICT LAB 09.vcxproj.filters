@@ -19,6 +19,9 @@
     <Filter Include="Source Files\lab 10">
       <UniqueIdentifier>{d162cad9-8a6a-4136-afb2-0cb94d638ee3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\lab 11">
+      <UniqueIdentifier>{e4741fcf-bac2-418d-a8d5-0cf601e20680}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -44,6 +47,15 @@
     </ClCompile>
     <ClCompile Include="EXERCISE_01_Leap year.cpp">
       <Filter>Source Files\lab 10</Filter>
+    </ClCompile>
+    <ClCompile Include="L11 TASK 2.cpp">
+      <Filter>Source Files\lab 11</Filter>
+    </ClCompile>
+    <ClCompile Include="L11 TASK 3.cpp">
+      <Filter>Source Files\lab 11</Filter>
+    </ClCompile>
+    <ClCompile Include="L11 TASK 4.cpp">
+      <Filter>Source Files\lab 11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
