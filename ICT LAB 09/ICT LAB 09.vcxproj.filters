@@ -22,6 +22,9 @@
     <Filter Include="Source Files\lab 11">
       <UniqueIdentifier>{e4741fcf-bac2-418d-a8d5-0cf601e20680}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\lab 12">
+      <UniqueIdentifier>{d7878c8c-afee-4cfb-9603-cd9464b0445e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -56,6 +59,9 @@
     </ClCompile>
     <ClCompile Include="L11 TASK 4.cpp">
       <Filter>Source Files\lab 11</Filter>
+    </ClCompile>
+    <ClCompile Include="L12 TASK 1.cpp">
+      <Filter>Source Files\lab 12</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
