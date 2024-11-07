@@ -136,6 +136,7 @@
     <ClCompile Include="P2.cpp" />
     <ClCompile Include="palindrome..cpp" />
     <ClCompile Include="pattern question.cpp" />
+    <ClCompile Include="PRIME_NUMBER.cpp" />
     <ClCompile Include="print all real numbers.cpp" />
     <ClCompile Include="PERFECT NUMBER.cpp" />
     <ClCompile Include="QUESTION NUMBER 05.cpp" />
