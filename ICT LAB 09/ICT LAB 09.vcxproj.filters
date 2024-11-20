@@ -25,6 +25,9 @@
     <Filter Include="Source Files\lab 12">
       <UniqueIdentifier>{d7878c8c-afee-4cfb-9603-cd9464b0445e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\lab 13">
+      <UniqueIdentifier>{6e346b64-65ca-4208-8e2e-ada7a5b84f1d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
