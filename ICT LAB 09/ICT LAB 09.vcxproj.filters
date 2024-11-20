@@ -72,5 +72,11 @@
     <ClCompile Include="L12 TASK 3.cpp">
       <Filter>Source Files\lab 12</Filter>
     </ClCompile>
+    <ClCompile Include="L12 TASK 4.cpp">
+      <Filter>Source Files\lab 12</Filter>
+    </ClCompile>
+    <ClCompile Include="L12 TASK 5.cpp">
+      <Filter>Source Files\lab 12</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
