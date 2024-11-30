@@ -54,5 +54,8 @@
     <ClCompile Include="QUEATION_01.cpp">
       <Filter>Source Files\#03</Filter>
     </ClCompile>
+    <ClCompile Include="code 06.cpp">
+      <Filter>Source Files\#03</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
