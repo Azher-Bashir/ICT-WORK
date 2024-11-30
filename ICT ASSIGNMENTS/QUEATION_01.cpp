@@ -11,28 +11,28 @@ static double radius(double circle_area)
 	// now we knoe that area = pi * r^2
 	rad = 0;
 	rad = sqrt(circle_area / pi);
-	cout << "Radius of the circle is: " << rad;
+	cout << "Radius of the circle is: " << rad << endl;
 	return rad;
 }
 
 static double circumference()
 {
 	cir = 2 * pi * rad;
-	cout << "circumference of the circle is: " << cir;
+	cout << "circumference of the circle is: " << cir << endl;
 	return cir;
 }
 
 static double surface_area(double height, double circle_area)
 {
 	surf_area = (cir * height) + (2 * circle_area);
-	cout << "Surface area of the circle is: ";
+	cout << "Surface area of the circle is: " << surf_area << endl;
 	return surf_area;
 }
 
 static double volume(double height, double circle_area)
 {
 	vol = circle_area * height;
-	cout << "Volume of cylinder is: ";
+	cout << "Volume of cylinder is: " << vol << endl;
 	return vol;
 }
 
