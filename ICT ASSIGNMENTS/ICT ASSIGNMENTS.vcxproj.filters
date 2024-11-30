@@ -16,6 +16,9 @@
     <Filter Include="Source Files\#02">
       <UniqueIdentifier>{4ebf292f-2733-44e2-bf35-5628dcaf7ffe}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\#03">
+      <UniqueIdentifier>{9a950249-5fcc-4dc2-b0d9-4d6a69e25cd9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -48,8 +51,8 @@
     <ClCompile Include="QUESTION # 10 _ IDENTIFY THE CHARACTER TYPE.cpp">
       <Filter>Source Files\#02</Filter>
     </ClCompile>
-    <ClCompile Include="#03.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="QUEATION_01.cpp">
+      <Filter>Source Files\#03</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
