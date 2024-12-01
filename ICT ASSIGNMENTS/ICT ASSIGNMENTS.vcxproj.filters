@@ -51,7 +51,7 @@
     <ClCompile Include="QUESTION # 10 _ IDENTIFY THE CHARACTER TYPE.cpp">
       <Filter>Source Files\#02</Filter>
     </ClCompile>
-    <ClCompile Include="QUEATION_01.cpp">
+    <ClCompile Include="code 11.cpp">
       <Filter>Source Files\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 06.cpp">
@@ -67,6 +67,21 @@
       <Filter>Source Files\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 10.cpp">
+      <Filter>Source Files\#03</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PROJECTS\AZHAR-ICT-PROJECTS\ICT PROJECTS\code 01.cpp">
+      <Filter>Source Files\#03</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PROJECTS\AZHAR-ICT-PROJECTS\ICT PROJECTS\code 02.cpp">
+      <Filter>Source Files\#03</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PROJECTS\AZHAR-ICT-PROJECTS\ICT PROJECTS\code 03.cpp">
+      <Filter>Source Files\#03</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PROJECTS\AZHAR-ICT-PROJECTS\ICT PROJECTS\code 04.cpp">
+      <Filter>Source Files\#03</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PROJECTS\AZHAR-ICT-PROJECTS\ICT PROJECTS\code 05.cpp">
       <Filter>Source Files\#03</Filter>
     </ClCompile>
   </ItemGroup>
