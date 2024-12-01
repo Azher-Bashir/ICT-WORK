@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="code 06.cpp" />
+    <ClCompile Include="code 07.cpp" />
+    <ClCompile Include="code 08.cpp" />
+    <ClCompile Include="code 09.cpp" />
+    <ClCompile Include="code 10.cpp" />
     <ClCompile Include="QUEATION_01.cpp" />
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp" />
     <ClCompile Include="QUESTION # 02 _ STARS IN PYRAMID.cpp" />

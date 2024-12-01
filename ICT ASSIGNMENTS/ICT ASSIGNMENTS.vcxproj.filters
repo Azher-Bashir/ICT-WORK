@@ -57,5 +57,17 @@
     <ClCompile Include="code 06.cpp">
       <Filter>Source Files\#03</Filter>
     </ClCompile>
+    <ClCompile Include="code 07.cpp">
+      <Filter>Source Files\#03</Filter>
+    </ClCompile>
+    <ClCompile Include="code 08.cpp">
+      <Filter>Source Files\#03</Filter>
+    </ClCompile>
+    <ClCompile Include="code 09.cpp">
+      <Filter>Source Files\#03</Filter>
+    </ClCompile>
+    <ClCompile Include="code 10.cpp">
+      <Filter>Source Files\#03</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
