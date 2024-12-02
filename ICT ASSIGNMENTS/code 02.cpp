@@ -2,32 +2,38 @@
 //#include <cmath>
 //
 //using namespace std;
-//
-//static int decimal_convertor(int binary)
+//int org;
+//int decimal_convertor(int num)
 //{
-//	int i = 0;
-//	int original = binary, rem, decimal = 1;
-//	while (binary != 0)
+//	org = num;
+//	while (num != 0)
 //	{
-//		original /= 10;
-//		i++;
+//		int remainder = num % 10;
+//		if (remainder != 0 && remainder != 1)
+//		{
+//			cout << "Invalid binary number" << endl;
+//			exit(0);
+//		}
+//		num /= 10;
 //	}
-//	for (int j = 0; j <= i; i++)
+//	num = org;
+//	int decimal = 0, i = 0, rem;
+//	while (num != 0)
 //	{
-//		rem = binary % 10;
-//		binary /= 10;
-//		decimal += rem * pow(10, i);
+//		rem = num % 10;
+//		num /= 10;
+//		decimal += rem * pow(2, i);
+//		++i;
 //	}
-//	cout << "The decimal number is: " << decimal << endl;
 //	return decimal;
 //}
 //
 //int main()
 //{
-//	int binary;
-//	cout << "Enter the bnary number (only 0 & 1): ";
-//	cin >> binary;
-//	decimal_convertor(binary);
-//
+//	int num;
+//	cout << "Enter binary number to be converted: ";
+//	cin >> num;
+//	cout << "Decimal number of binary number (" << num << ") = " << decimal_convertor(num) << endl;
 //	return 0;
 //}
+//
