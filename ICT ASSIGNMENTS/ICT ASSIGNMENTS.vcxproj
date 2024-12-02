@@ -127,16 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="code 01.cpp" />
+    <ClCompile Include="code 02.cpp" />
+    <ClCompile Include="code 03.cpp" />
+    <ClCompile Include="code 04.cpp" />
+    <ClCompile Include="code 05.cpp" />
     <ClCompile Include="code 06.cpp" />
     <ClCompile Include="code 07.cpp" />
     <ClCompile Include="code 08.cpp" />
     <ClCompile Include="code 09.cpp" />
     <ClCompile Include="code 10.cpp" />
-    <ClCompile Include="D:\PROJECTS\AZHAR-ICT-PROJECTS\ICT PROJECTS\code 01.cpp" />
-    <ClCompile Include="D:\PROJECTS\AZHAR-ICT-PROJECTS\ICT PROJECTS\code 02.cpp" />
-    <ClCompile Include="D:\PROJECTS\AZHAR-ICT-PROJECTS\ICT PROJECTS\code 03.cpp" />
-    <ClCompile Include="D:\PROJECTS\AZHAR-ICT-PROJECTS\ICT PROJECTS\code 04.cpp" />
-    <ClCompile Include="D:\PROJECTS\AZHAR-ICT-PROJECTS\ICT PROJECTS\code 05.cpp" />
     <ClCompile Include="code 11.cpp" />
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp" />
     <ClCompile Include="QUESTION # 02 _ STARS IN PYRAMID.cpp" />
