@@ -28,6 +28,9 @@
     <Filter Include="Source Files\lab 13">
       <UniqueIdentifier>{6e346b64-65ca-4208-8e2e-ada7a5b84f1d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\lab 14">
+      <UniqueIdentifier>{93528e13-a935-4d82-9549-4a91b035759f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -92,6 +95,15 @@
     </ClCompile>
     <ClCompile Include="L13 TASK 5.cpp">
       <Filter>Source Files\lab 13</Filter>
+    </ClCompile>
+    <ClCompile Include="L14 TASK 2.cpp">
+      <Filter>Source Files\lab 14</Filter>
+    </ClCompile>
+    <ClCompile Include="L14 TASK 3.cpp">
+      <Filter>Source Files\lab 14</Filter>
+    </ClCompile>
+    <ClCompile Include="L14 TASK 1.cpp">
+      <Filter>Source Files\lab 14</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

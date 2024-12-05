@@ -149,6 +149,9 @@
     <ClCompile Include="L13 TASK 3.cpp" />
     <ClCompile Include="L13 TASK 4.cpp" />
     <ClCompile Include="L13 TASK 5.cpp" />
+    <ClCompile Include="L14 TASK 1.cpp" />
+    <ClCompile Include="L14 TASK 2.cpp" />
+    <ClCompile Include="L14 TASK 3.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
