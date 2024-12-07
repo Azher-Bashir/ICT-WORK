@@ -13,97 +13,103 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\lab 09">
+    <Filter Include="Source Files\FIRST SEMESTER">
+      <UniqueIdentifier>{fe765de8-565b-4afb-a3ee-554ef2f74cc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FIRST SEMESTER\lab 09">
       <UniqueIdentifier>{598b7e08-352a-4599-8951-50f80879efdb}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\lab 10">
+    <Filter Include="Source Files\FIRST SEMESTER\lab 10">
       <UniqueIdentifier>{d162cad9-8a6a-4136-afb2-0cb94d638ee3}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\lab 11">
+    <Filter Include="Source Files\FIRST SEMESTER\lab 11">
       <UniqueIdentifier>{e4741fcf-bac2-418d-a8d5-0cf601e20680}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\lab 12">
+    <Filter Include="Source Files\FIRST SEMESTER\lab 12">
       <UniqueIdentifier>{d7878c8c-afee-4cfb-9603-cd9464b0445e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\lab 13">
+    <Filter Include="Source Files\FIRST SEMESTER\lab 13">
       <UniqueIdentifier>{6e346b64-65ca-4208-8e2e-ada7a5b84f1d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\lab 14">
+    <Filter Include="Source Files\FIRST SEMESTER\lab 14">
       <UniqueIdentifier>{93528e13-a935-4d82-9549-4a91b035759f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER">
+      <UniqueIdentifier>{89d849f5-fc96-4c3d-b72f-6e2daf2c9873}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
-      <Filter>Source Files\lab 09</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 09</Filter>
     </ClCompile>
     <ClCompile Include="Exercise - 1 _ Right angle triangle.cpp">
-      <Filter>Source Files\lab 09</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 09</Filter>
     </ClCompile>
     <ClCompile Include="Exercise - 2 _ leap year.cpp">
-      <Filter>Source Files\lab 09</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 09</Filter>
     </ClCompile>
     <ClCompile Include="Exercise - 3 _ grade of student .cpp">
-      <Filter>Source Files\lab 09</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 09</Filter>
     </ClCompile>
     <ClCompile Include="Exercise - 4 _ basic calculator.cpp">
-      <Filter>Source Files\lab 09</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 09</Filter>
     </ClCompile>
     <ClCompile Include="Exercise - 5 _ roots of the equation.cpp">
-      <Filter>Source Files\lab 09</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 09</Filter>
     </ClCompile>
     <ClCompile Include="Exercise - 6 _ bill.cpp">
-      <Filter>Source Files\lab 09</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 09</Filter>
     </ClCompile>
     <ClCompile Include="EXERCISE_01_Leap year.cpp">
-      <Filter>Source Files\lab 10</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 10</Filter>
     </ClCompile>
     <ClCompile Include="L11 TASK 2.cpp">
-      <Filter>Source Files\lab 11</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 11</Filter>
     </ClCompile>
     <ClCompile Include="L11 TASK 3.cpp">
-      <Filter>Source Files\lab 11</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 11</Filter>
     </ClCompile>
     <ClCompile Include="L11 TASK 4.cpp">
-      <Filter>Source Files\lab 11</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 11</Filter>
     </ClCompile>
     <ClCompile Include="L12 TASK 1.cpp">
-      <Filter>Source Files\lab 12</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 12</Filter>
     </ClCompile>
     <ClCompile Include="L12 TASK 2.cpp">
-      <Filter>Source Files\lab 12</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 12</Filter>
     </ClCompile>
     <ClCompile Include="L12 TASK 3.cpp">
-      <Filter>Source Files\lab 12</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 12</Filter>
     </ClCompile>
     <ClCompile Include="L12 TASK 4.cpp">
-      <Filter>Source Files\lab 12</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 12</Filter>
     </ClCompile>
     <ClCompile Include="L12 TASK 5.cpp">
-      <Filter>Source Files\lab 12</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 12</Filter>
     </ClCompile>
     <ClCompile Include="L13 TASK 1.cpp">
-      <Filter>Source Files\lab 13</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 13</Filter>
     </ClCompile>
     <ClCompile Include="L13 TASK 2.cpp">
-      <Filter>Source Files\lab 13</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 13</Filter>
     </ClCompile>
     <ClCompile Include="L13 TASK 3.cpp">
-      <Filter>Source Files\lab 13</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 13</Filter>
     </ClCompile>
     <ClCompile Include="L13 TASK 4.cpp">
-      <Filter>Source Files\lab 13</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 13</Filter>
     </ClCompile>
     <ClCompile Include="L13 TASK 5.cpp">
-      <Filter>Source Files\lab 13</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 13</Filter>
     </ClCompile>
     <ClCompile Include="L14 TASK 2.cpp">
-      <Filter>Source Files\lab 14</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 14</Filter>
     </ClCompile>
     <ClCompile Include="L14 TASK 3.cpp">
-      <Filter>Source Files\lab 14</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 14</Filter>
     </ClCompile>
     <ClCompile Include="L14 TASK 1.cpp">
-      <Filter>Source Files\lab 14</Filter>
+      <Filter>Source Files\FIRST SEMESTER\lab 14</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
