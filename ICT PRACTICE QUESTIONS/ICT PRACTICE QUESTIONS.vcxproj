@@ -139,6 +139,16 @@
     <ClCompile Include="PRIME_NUMBER.cpp" />
     <ClCompile Include="print all real numbers.cpp" />
     <ClCompile Include="PERFECT NUMBER.cpp" />
+    <ClCompile Include="QUESTION 01.cpp" />
+    <ClCompile Include="QUESTION 02.cpp" />
+    <ClCompile Include="QUESTION 03.cpp" />
+    <ClCompile Include="QUESTION 13.cpp" />
+    <ClCompile Include="QUESTION 14.cpp" />
+    <ClCompile Include="QUESTION 15.cpp" />
+    <ClCompile Include="QUESTION 16.cpp" />
+    <ClCompile Include="QUESTION 17.cpp" />
+    <ClCompile Include="QUESTION 18.cpp" />
+    <ClCompile Include="QUESTION 19.cpp" />
     <ClCompile Include="QUESTION NUMBER 05.cpp" />
     <ClCompile Include="QUESTION NUMBER 08.cpp" />
     <ClCompile Include="QUESTION_01.cpp" />
