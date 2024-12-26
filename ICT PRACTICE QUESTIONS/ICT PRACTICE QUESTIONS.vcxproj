@@ -132,7 +132,13 @@
     <ClCompile Include="check if the number is a perfect square or not.cpp" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
     <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="P 1.cpp" />
+    <ClCompile Include="P 10.cpp" />
+    <ClCompile Include="P 12.cpp" />
+    <ClCompile Include="P 19.cpp" />
+    <ClCompile Include="P 9.cpp" />
     <ClCompile Include="P1.cpp" />
+    <ClCompile Include="P 13.cpp" />
     <ClCompile Include="P2.cpp" />
     <ClCompile Include="palindrome..cpp" />
     <ClCompile Include="pattern question.cpp" />
@@ -142,6 +148,8 @@
     <ClCompile Include="QUESTION 01.cpp" />
     <ClCompile Include="QUESTION 02.cpp" />
     <ClCompile Include="QUESTION 03.cpp" />
+    <ClCompile Include="QUESTION 11.cpp" />
+    <ClCompile Include="QUESTION 12.cpp" />
     <ClCompile Include="QUESTION 13.cpp" />
     <ClCompile Include="QUESTION 14.cpp" />
     <ClCompile Include="QUESTION 15.cpp" />
@@ -149,6 +157,7 @@
     <ClCompile Include="QUESTION 17.cpp" />
     <ClCompile Include="QUESTION 18.cpp" />
     <ClCompile Include="QUESTION 19.cpp" />
+    <ClCompile Include="QUESTION 20.cpp" />
     <ClCompile Include="QUESTION NUMBER 05.cpp" />
     <ClCompile Include="QUESTION NUMBER 08.cpp" />
     <ClCompile Include="QUESTION_01.cpp" />
@@ -160,10 +169,15 @@
     <ClCompile Include="QUESTION_07.cpp" />
     <ClCompile Include="QUESTION_08.cpp" />
     <ClCompile Include="QUESTION_13.cpp" />
+    <ClCompile Include="R 1.cpp" />
+    <ClCompile Include="R 2 .cpp" />
     <ClCompile Include="reverse number.cpp" />
     <ClCompile Include="right triangle.cpp" />
     <ClCompile Include="to draw a frame.cpp" />
     <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="unreversed_number.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
