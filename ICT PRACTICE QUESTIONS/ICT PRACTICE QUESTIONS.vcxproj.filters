@@ -22,6 +22,12 @@
     <Filter Include="Source Files\ICT FINAL PRACTICE QUESTIONS">
       <UniqueIdentifier>{6081029a-df74-471b-9328-9d61751fd6d5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\PRACTICE QUESTIONS %28ARSHAQ%29">
+      <UniqueIdentifier>{3ca71329-a099-49f2-b61a-80c2a4471831}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\RECURRSION PRACTICE QUESTIONS">
+      <UniqueIdentifier>{a0021fb6-e78e-4fc8-88ed-1a552a41d088}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -135,5 +141,43 @@
     <ClCompile Include="QUESTION 19.cpp">
       <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
+    <ClCompile Include="P 1.cpp">
+      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+    </ClCompile>
+    <ClCompile Include="P 9.cpp">
+      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+    </ClCompile>
+    <ClCompile Include="P 10.cpp">
+      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+    </ClCompile>
+    <ClCompile Include="P 12.cpp">
+      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+    </ClCompile>
+    <ClCompile Include="P 13.cpp">
+      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+    </ClCompile>
+    <ClCompile Include="P 19.cpp">
+      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION 11.cpp">
+      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION 12.cpp">
+      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION 20.cpp">
+      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="R 1.cpp">
+      <Filter>Source Files\RECURRSION PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="R 2 .cpp">
+      <Filter>Source Files\RECURRSION PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="unreversed_number.txt">
+      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+    </Text>
   </ItemGroup>
 </Project>
