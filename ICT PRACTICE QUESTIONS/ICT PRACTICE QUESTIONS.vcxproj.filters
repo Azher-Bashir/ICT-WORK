@@ -28,6 +28,9 @@
     <Filter Include="Source Files\RECURRSION PRACTICE QUESTIONS">
       <UniqueIdentifier>{a0021fb6-e78e-4fc8-88ed-1a552a41d088}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\OOP">
+      <UniqueIdentifier>{0f49bf3f-9f78-49d0-9784-cc3855d9cced}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -173,6 +176,15 @@
     </ClCompile>
     <ClCompile Include="R 2 .cpp">
       <Filter>Source Files\RECURRSION PRACTICE QUESTIONS</Filter>
+    </ClCompile>
+    <ClCompile Include="code 2.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="code 03.cpp">
+      <Filter>Source Files\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="code 04.cpp">
+      <Filter>Source Files\OOP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
