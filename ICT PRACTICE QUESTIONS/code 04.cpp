@@ -16,7 +16,7 @@ int main()
 	}
 
 	// oUTPUT
-	cout << "Array: ";
+	cout << "Array:= ";
 	for (int j = 0; j < size1; j++)
 	{
 		cout << umair[j] << " ";
