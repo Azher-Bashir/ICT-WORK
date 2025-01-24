@@ -24,6 +24,7 @@
     <ProjectGuid>{5b449c21-4f34-4c54-9f4a-c3a1a7ceaef1}</ProjectGuid>
     <RootNamespace>ICTASSIGNMENTS</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>PF ASSIGNMENTS</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

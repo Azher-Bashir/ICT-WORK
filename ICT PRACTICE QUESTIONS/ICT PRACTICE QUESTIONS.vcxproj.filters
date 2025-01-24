@@ -13,183 +13,192 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
-    <Filter Include="Source Files\MID 02">
-      <UniqueIdentifier>{6fcf2c2e-3897-4a05-b15c-e715c2835359}</UniqueIdentifier>
+    <Filter Include="Source Files\FIRST SEMESTER">
+      <UniqueIdentifier>{7b2a0297-1a5e-4a5f-b743-2c504215fbc6}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\ICT PRACTICE QUESTIONS">
-      <UniqueIdentifier>{a2e70976-1317-445b-b673-9034ec901ed0}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\ICT FINAL PRACTICE QUESTIONS">
+    <Filter Include="Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS">
       <UniqueIdentifier>{6081029a-df74-471b-9328-9d61751fd6d5}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\PRACTICE QUESTIONS %28ARSHAQ%29">
+    <Filter Include="Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS">
+      <UniqueIdentifier>{a2e70976-1317-445b-b673-9034ec901ed0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FIRST SEMESTER\MID 02">
+      <UniqueIdentifier>{6fcf2c2e-3897-4a05-b15c-e715c2835359}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FIRST SEMESTER\PRACTICE QUESTIONS %28ARSHAQ%29">
       <UniqueIdentifier>{3ca71329-a099-49f2-b61a-80c2a4471831}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\RECURRSION PRACTICE QUESTIONS">
+    <Filter Include="Source Files\FIRST SEMESTER\RECURRSION PRACTICE QUESTIONS">
       <UniqueIdentifier>{a0021fb6-e78e-4fc8-88ed-1a552a41d088}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\OOP">
+    <Filter Include="Source Files\SECOND SEMESTER">
+      <UniqueIdentifier>{8118f628-808b-4607-9d09-2fd026a348a9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\OOP">
       <UniqueIdentifier>{0f49bf3f-9f78-49d0-9784-cc3855d9cced}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="P2.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="print all real numbers.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="to draw a frame.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="draw a frame using nested for and ifelse.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="right triangle.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="check if the number is a perfect square or not.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="Armstrong number..cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="FileName.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="PERFECT NUMBER.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION NUMBER 05.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION NUMBER 08.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="palindrome..cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="reverse number.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="pattern question.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="23.cpp">
-      <Filter>Source Files\MID 02</Filter>
+      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION_01.cpp">
-      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION_02.cpp">
-      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION_03.cpp">
-      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION_04.cpp">
-      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION_05.cpp">
-      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION_06.cpp">
-      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION_07.cpp">
-      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION_08.cpp">
-      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION_13.cpp">
-      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="PRIME_NUMBER.cpp">
-      <Filter>Source Files\ICT PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 01.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 02.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 03.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 13.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 14.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 15.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 16.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 17.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 18.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 19.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="P 1.cpp">
-      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+      <Filter>Source Files\FIRST SEMESTER\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
     </ClCompile>
     <ClCompile Include="P 9.cpp">
-      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+      <Filter>Source Files\FIRST SEMESTER\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
     </ClCompile>
     <ClCompile Include="P 10.cpp">
-      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+      <Filter>Source Files\FIRST SEMESTER\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
     </ClCompile>
     <ClCompile Include="P 12.cpp">
-      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+      <Filter>Source Files\FIRST SEMESTER\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
     </ClCompile>
     <ClCompile Include="P 13.cpp">
-      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+      <Filter>Source Files\FIRST SEMESTER\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
     </ClCompile>
     <ClCompile Include="P 19.cpp">
-      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+      <Filter>Source Files\FIRST SEMESTER\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 11.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 12.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION 20.cpp">
-      <Filter>Source Files\ICT FINAL PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\ICT FINAL PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="R 1.cpp">
-      <Filter>Source Files\RECURRSION PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\RECURRSION PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="R 2 .cpp">
-      <Filter>Source Files\RECURRSION PRACTICE QUESTIONS</Filter>
+      <Filter>Source Files\FIRST SEMESTER\RECURRSION PRACTICE QUESTIONS</Filter>
     </ClCompile>
     <ClCompile Include="code 2.cpp">
-      <Filter>Source Files\OOP</Filter>
+      <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
     </ClCompile>
     <ClCompile Include="code 03.cpp">
-      <Filter>Source Files\OOP</Filter>
+      <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
     </ClCompile>
     <ClCompile Include="code 04.cpp">
-      <Filter>Source Files\OOP</Filter>
+      <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="code 05%3b Reading the adress of the elemet and displaying the element.cpp">
+      <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
-      <Filter>Source Files\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+      <Filter>Source Files\FIRST SEMESTER\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
     </Text>
   </ItemGroup>
 </Project>

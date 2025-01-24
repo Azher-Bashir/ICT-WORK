@@ -13,82 +13,82 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\FIRST SEMESTER">
-      <UniqueIdentifier>{2c5b2986-8962-41a8-b49f-ff60047f9cb9}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\FIRST SEMESTER\#02">
-      <UniqueIdentifier>{4ebf292f-2733-44e2-bf35-5628dcaf7ffe}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\FIRST SEMESTER\#03">
-      <UniqueIdentifier>{9a950249-5fcc-4dc2-b0d9-4d6a69e25cd9}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\SECOND SEMESTER">
       <UniqueIdentifier>{d02ced8b-b3bd-4607-ae7e-0f2269d8f007}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FIRST SEMESTER %28ICT%29">
+      <UniqueIdentifier>{2c5b2986-8962-41a8-b49f-ff60047f9cb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FIRST SEMESTER %28ICT%29\#02">
+      <UniqueIdentifier>{4ebf292f-2733-44e2-bf35-5628dcaf7ffe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FIRST SEMESTER %28ICT%29\#03">
+      <UniqueIdentifier>{9a950249-5fcc-4dc2-b0d9-4d6a69e25cd9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#02</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION # 02 _ STARS IN PYRAMID.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#02</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION # 03 _ FACTORIAL CALCULATION THROUGH FOR LOOP.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#02</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION # 04 _ square_cube_and_fact.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#02</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION # 05 _ ODD OR EVEN NUMBER.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#02</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION # 06 _ LARGEST ONE OUT.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#02</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION # 07 _ TO CHECK WETHER THE YEAR IS LEAP OR NOT.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#02</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION # 08 _ CALCULATOR.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#02</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION # 09 _ TO DETERMINE THE DAY OF THE WEEK .cpp">
-      <Filter>Source Files\FIRST SEMESTER\#02</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
     <ClCompile Include="QUESTION # 10 _ IDENTIFY THE CHARACTER TYPE.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#02</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
     <ClCompile Include="code 11.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 06.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 07.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 08.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 09.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 10.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 01.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 02.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 03.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 04.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
     <ClCompile Include="code 05.cpp">
-      <Filter>Source Files\FIRST SEMESTER\#03</Filter>
+      <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

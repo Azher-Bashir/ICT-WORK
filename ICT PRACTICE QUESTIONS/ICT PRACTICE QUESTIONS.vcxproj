@@ -132,6 +132,7 @@
     <ClCompile Include="check if the number is a perfect square or not.cpp" />
     <ClCompile Include="code 03.cpp" />
     <ClCompile Include="code 04.cpp" />
+    <ClCompile Include="code 05%3b Reading the adress of the elemet and displaying the element.cpp" />
     <ClCompile Include="code 2.cpp" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
     <ClCompile Include="FileName.cpp" />
