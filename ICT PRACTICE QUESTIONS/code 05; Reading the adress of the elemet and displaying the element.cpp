@@ -21,7 +21,7 @@ int main()
 
     int* a = &arr[2];
     int* b = &arr[3];
-
+    
     cout << &a << endl;
     cout << a << endl;
     cout << *a << endl;
