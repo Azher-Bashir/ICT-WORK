@@ -37,6 +37,9 @@
     <Filter Include="Source Files\SECOND SEMESTER">
       <UniqueIdentifier>{89d849f5-fc96-4c3d-b72f-6e2daf2c9873}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 1">
+      <UniqueIdentifier>{7e09810c-a814-4c78-8471-e93c4f047117}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -110,6 +113,21 @@
     </ClCompile>
     <ClCompile Include="L14 TASK 3.cpp">
       <Filter>Source Files\FIRST SEMESTER\lab 14</Filter>
+    </ClCompile>
+    <ClCompile Include="L1 Task1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 1</Filter>
+    </ClCompile>
+    <ClCompile Include="L1 Task2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 1</Filter>
+    </ClCompile>
+    <ClCompile Include="L1 Task4.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 1</Filter>
+    </ClCompile>
+    <ClCompile Include="unexpected.c++.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 1</Filter>
+    </ClCompile>
+    <ClCompile Include="practice.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
