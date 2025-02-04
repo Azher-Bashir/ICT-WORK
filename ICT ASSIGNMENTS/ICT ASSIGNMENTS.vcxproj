@@ -139,6 +139,7 @@
     <ClCompile Include="code 09.cpp" />
     <ClCompile Include="code 10.cpp" />
     <ClCompile Include="code 11.cpp" />
+    <ClCompile Include="practice.cpp" />
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp" />
     <ClCompile Include="QUESTION # 02 _ STARS IN PYRAMID.cpp" />
     <ClCompile Include="QUESTION # 03 _ FACTORIAL CALCULATION THROUGH FOR LOOP.cpp" />

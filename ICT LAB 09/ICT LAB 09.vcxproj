@@ -129,6 +129,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp" />
+    <ClCompile Include="code 2 re.cpp" />
+    <ClCompile Include="code 3 re.cpp" />
     <ClCompile Include="Exercise - 1 _ Right angle triangle.cpp" />
     <ClCompile Include="Exercise - 2 _ leap year.cpp" />
     <ClCompile Include="Exercise - 3 _ grade of student .cpp" />
@@ -136,6 +138,7 @@
     <ClCompile Include="Exercise - 5 _ roots of the equation.cpp" />
     <ClCompile Include="Exercise - 6 _ bill.cpp" />
     <ClCompile Include="EXERCISE_01_Leap year.cpp" />
+    <ClCompile Include="code 1 re.cpp" />
     <ClCompile Include="L1 Task1.cpp" />
     <ClCompile Include="L1 Task4.cpp" />
     <ClCompile Include="L11 TASK 2.cpp" />
@@ -155,7 +158,9 @@
     <ClCompile Include="L14 TASK 2.cpp" />
     <ClCompile Include="L14 TASK 3.cpp" />
     <ClCompile Include="L1 Task2.cpp" />
+    <ClCompile Include="L2 task 1.cpp" />
     <ClCompile Include="practice.cpp" />
+    <ClCompile Include="r4.cpp" />
     <ClCompile Include="unexpected.c++.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,30 +1,37 @@
-﻿////Fibonacci Series
-////Write a recursive function to calculate the
-////𝑁
-////N - th Fibonacci number.
-//
-//#include <iostream>
-//
+﻿//#include <iostream>
 //using namespace std;
-//int factorial = 1, num = 1;
-//static int fact(int a)
+//
+//void GetData(int arr[3][4])
 //{
-//	if (a != 0)
+//	for (int i = 0; i < 3; i++)
 //	{
-//		return a * fact(a - 1);
+//		for (int j = 0; j < 4; j++)
+//		{
+//			cout << "Enter the element of row " << i + 1 << " and column " << j + 1 << ": ";
+//			cin >> arr[i][j];
+//		}
 //	}
-//	else
+//}
+//
+//void PrintMaximumValueInRow(int arr[3][4])
+//{
+//	for (int i = 0; i < 3; i++)
 //	{
-//		return factorial;
+//		int max = arr[i][0];
+//		for (int j = 1; j < 4; j++)
+//		{
+//			if (arr[i][j] > max)
+//			{
+//				max = arr[i][j];
+//			}
+//		}
+//		cout << "The maximum value in row " << i + 1 << " is: " << max << endl;
 //	}
 //}
 //
 //int main()
 //{
-//	cout << "Enter the number of which you want to calculate the factorial: ";
-//	cin >> num;
-//
-//	cout << "" << fact(num);
-//	//cout << factorial;
-//	return 0;
+//	int arr[3][4];
+//	GetData(arr);
+//	PrintMaximumValueInRow(arr);
 //}

@@ -1,26 +1,41 @@
-//#include <iostream>
-//
+//#include<iostream>
 //using namespace std;
-//
-//int main()
-//{
-//	int arr[10], sum = 0, avg, avg[5];
-//	cout << "Enter the value of elements of the array: ";
-//	for (int i = 0; i < 10; i++)
-//	{
-//		cout << "Enter the " << i << "th element of the array.";
-//		cin >> arr[i];
+//void Encryption(char Array[], int key, int lenght) {
+//	for (int i = 0; i < lenght; i++) {
+//		Array[i] = Array[i] + key;
 //	}
-//
-//	for (int i = 0; i < 5; i++)
+//}
+//void Decryption(char Array[], int key, int lenght)
+//{
+//	for (int i = 0; i < lenght; i++)
 //	{
-//		int k = i;
-//		for (int j = i; j < i + 5; j++)
-//		{
-//			sum += arr[j];
-//		}
-//		avg = sum / 5;
-//		avg[k] = avg;
+//		Array[i] = Array[i] - key;
+//	}
+//}
+//void main()
+//{
+//	int lenght;
+//	int key;
+//	char Array[10];
+//	cout << "Enter Message" << endl;
+//	cin.getline(Array, 100);
+//	lenght = strlen(Array);
+//	cout << "Enter key for encryption" << endl;
+//	cin >> key;
+//	cout << endl;
+//	cout << "Enrcypted Message: ";
+//	Encryption(Array, key, lenght);
+//	for (int i = 0; i < lenght; i++)
+//	{
+//		cout << Array[i];
+//	}
+//	cout << endl;
+//	cout << "Decrypted Message: ";
+//	Decryption(Array, key, lenght);
+//	for (int i = 0; i < lenght; i++)
+//	{
+//		cout << Array[i];
 //	}
 //
 //}
+//
