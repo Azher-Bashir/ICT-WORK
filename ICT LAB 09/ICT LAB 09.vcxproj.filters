@@ -147,5 +147,8 @@
     <ClCompile Include="L2 task 1.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 2</Filter>
     </ClCompile>
+    <ClCompile Include="ajka code.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ajka code.cpp" />
     <ClCompile Include="all in one.cpp" />
     <ClCompile Include="code 2 re.cpp" />
     <ClCompile Include="code 3 re.cpp" />
