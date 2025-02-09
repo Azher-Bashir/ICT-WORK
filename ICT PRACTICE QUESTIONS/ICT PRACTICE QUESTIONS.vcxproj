@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="23.cpp" />
     <ClCompile Include="Armstrong number..cpp" />
+    <ClCompile Include="chapter 8 exercise 5.cpp" />
     <ClCompile Include="check if the number is a perfect square or not.cpp" />
     <ClCompile Include="code 03.cpp" />
     <ClCompile Include="code 04.cpp" />

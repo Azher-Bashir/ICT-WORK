@@ -195,6 +195,9 @@
     <ClCompile Include="code 05%3b Reading the adress of the elemet and displaying the element.cpp">
       <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
     </ClCompile>
+    <ClCompile Include="chapter 8 exercise 5.cpp">
+      <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
