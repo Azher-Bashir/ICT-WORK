@@ -43,6 +43,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 2">
       <UniqueIdentifier>{f0ab3d3e-859f-4564-b9b5-bce4ead97b2e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 3">
+      <UniqueIdentifier>{8a1eec30-c53a-4e8f-b9ac-8061321a0fe6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -150,5 +153,16 @@
     <ClCompile Include="ajka code.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 2</Filter>
     </ClCompile>
+    <ClCompile Include="L3 Task 4.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
+    </ClCompile>
+    <ClCompile Include="L3 Task 3.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="test.txt">
+      <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
+    </Text>
   </ItemGroup>
 </Project>

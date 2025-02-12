@@ -136,7 +136,9 @@
     <ClCompile Include="code 05%3b Reading the adress of the elemet and displaying the element.cpp" />
     <ClCompile Include="code 2.cpp" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
+    <ClCompile Include="dry run.cpp" />
     <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="chapter 8 exercise 6.cpp" />
     <ClCompile Include="P 1.cpp" />
     <ClCompile Include="P 10.cpp" />
     <ClCompile Include="P 12.cpp" />
