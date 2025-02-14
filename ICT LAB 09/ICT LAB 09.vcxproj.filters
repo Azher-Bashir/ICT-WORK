@@ -153,10 +153,19 @@
     <ClCompile Include="ajka code.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 2</Filter>
     </ClCompile>
-    <ClCompile Include="L3 Task 4.cpp">
+    <ClCompile Include="L3 Task.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
+    </ClCompile>
+    <ClCompile Include="L3 Task4.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
+    </ClCompile>
+    <ClCompile Include="L3 Task 1.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
     </ClCompile>
     <ClCompile Include="L3 Task 3.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
+    </ClCompile>
+    <ClCompile Include="L3 Task 2.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
     </ClCompile>
   </ItemGroup>

@@ -161,7 +161,10 @@
     <ClCompile Include="L1 Task2.cpp" />
     <ClCompile Include="L2 task 1.cpp" />
     <ClCompile Include="L3 Task 3.cpp" />
-    <ClCompile Include="L3 Task 4.cpp" />
+    <ClCompile Include="L3 Task4.cpp" />
+    <ClCompile Include="L3 Task.cpp" />
+    <ClCompile Include="L3 Task 2.cpp" />
+    <ClCompile Include="L3 Task 1.cpp" />
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="r4.cpp" />
     <ClCompile Include="unexpected.c++.cpp" />
