@@ -141,6 +141,7 @@
     <ClCompile Include="code 11.cpp" />
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp" />
+    <ClCompile Include="Question # 01.cpp" />
     <ClCompile Include="QUESTION # 02 _ STARS IN PYRAMID.cpp" />
     <ClCompile Include="QUESTION # 03 _ FACTORIAL CALCULATION THROUGH FOR LOOP.cpp" />
     <ClCompile Include="QUESTION # 04 _ square_cube_and_fact.cpp" />

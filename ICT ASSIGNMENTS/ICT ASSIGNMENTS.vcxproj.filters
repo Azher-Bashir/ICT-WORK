@@ -25,6 +25,9 @@
     <Filter Include="Source Files\FIRST SEMESTER %28ICT%29\#03">
       <UniqueIdentifier>{9a950249-5fcc-4dc2-b0d9-4d6a69e25cd9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 01">
+      <UniqueIdentifier>{4da3f93c-54fa-4955-9173-279689b4e5f4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -92,6 +95,9 @@
     </ClCompile>
     <ClCompile Include="practice.cpp">
       <Filter>Source Files\SECOND SEMESTER</Filter>
+    </ClCompile>
+    <ClCompile Include="Question # 01.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
