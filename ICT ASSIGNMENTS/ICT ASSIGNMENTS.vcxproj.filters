@@ -93,10 +93,13 @@
     <ClCompile Include="code 05.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="practice.cpp">
+    <ClCompile Include="Question # 01.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
+    </ClCompile>
+    <ClCompile Include="Umair Assignment 1.cpp">
       <Filter>Source Files\SECOND SEMESTER</Filter>
     </ClCompile>
-    <ClCompile Include="Question # 01.cpp">
+    <ClCompile Include="Question # 02.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
     </ClCompile>
   </ItemGroup>

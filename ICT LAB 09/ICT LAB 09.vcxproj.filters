@@ -46,6 +46,12 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 3">
       <UniqueIdentifier>{8a1eec30-c53a-4e8f-b9ac-8061321a0fe6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 4">
+      <UniqueIdentifier>{ff53df84-04d3-4853-a61b-46a17443c5de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\UMAIR LABS">
+      <UniqueIdentifier>{a8fe0bae-72fb-4c3e-97d0-8871e9f8bd06}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -167,6 +173,42 @@
     </ClCompile>
     <ClCompile Include="L3 Task 2.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
+    </ClCompile>
+    <ClCompile Include="L4 Task 1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 4</Filter>
+    </ClCompile>
+    <ClCompile Include="code1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 4</Filter>
+    </ClCompile>
+    <ClCompile Include="code2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 4</Filter>
+    </ClCompile>
+    <ClCompile Include="code3.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 4</Filter>
+    </ClCompile>
+    <ClCompile Include="code 4.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 4</Filter>
+    </ClCompile>
+    <ClCompile Include="code 5.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 4</Filter>
+    </ClCompile>
+    <ClCompile Include="L2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="L3.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="L4.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="L1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="L5.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="L6.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

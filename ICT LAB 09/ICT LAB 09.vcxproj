@@ -132,6 +132,11 @@
     <ClCompile Include="all in one.cpp" />
     <ClCompile Include="code 2 re.cpp" />
     <ClCompile Include="code 3 re.cpp" />
+    <ClCompile Include="code 4.cpp" />
+    <ClCompile Include="code 5.cpp" />
+    <ClCompile Include="code1.cpp" />
+    <ClCompile Include="code2.cpp" />
+    <ClCompile Include="code3.cpp" />
     <ClCompile Include="Exercise - 1 _ Right angle triangle.cpp" />
     <ClCompile Include="Exercise - 2 _ leap year.cpp" />
     <ClCompile Include="Exercise - 3 _ grade of student .cpp" />
@@ -160,13 +165,20 @@
     <ClCompile Include="L14 TASK 3.cpp" />
     <ClCompile Include="L1 Task2.cpp" />
     <ClCompile Include="L2 task 1.cpp" />
+    <ClCompile Include="L2.cpp" />
     <ClCompile Include="L3 Task 3.cpp" />
     <ClCompile Include="L3 Task4.cpp" />
     <ClCompile Include="L3 Task.cpp" />
     <ClCompile Include="L3 Task 2.cpp" />
     <ClCompile Include="L3 Task 1.cpp" />
+    <ClCompile Include="L3.cpp" />
+    <ClCompile Include="L4 Task 1.cpp" />
+    <ClCompile Include="L4.cpp" />
+    <ClCompile Include="L5.cpp" />
+    <ClCompile Include="L6.cpp" />
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="r4.cpp" />
+    <ClCompile Include="L1.cpp" />
     <ClCompile Include="unexpected.c++.cpp" />
   </ItemGroup>
   <ItemGroup>
