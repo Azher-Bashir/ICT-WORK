@@ -175,7 +175,6 @@
     <ClCompile Include="L4 Task 1.cpp" />
     <ClCompile Include="L4.cpp" />
     <ClCompile Include="L5.cpp" />
-    <ClCompile Include="L6.cpp" />
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="r4.cpp" />
     <ClCompile Include="L1.cpp" />
