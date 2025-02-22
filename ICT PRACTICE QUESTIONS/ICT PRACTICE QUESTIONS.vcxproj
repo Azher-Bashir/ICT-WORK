@@ -180,6 +180,7 @@
     <ClCompile Include="R 2 .cpp" />
     <ClCompile Include="reverse number.cpp" />
     <ClCompile Include="right triangle.cpp" />
+    <ClCompile Include="STRUCT.cpp" />
     <ClCompile Include="to draw a frame.cpp" />
     <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp" />
   </ItemGroup>

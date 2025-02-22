@@ -204,6 +204,9 @@
     <ClCompile Include="dry run.cpp">
       <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
     </ClCompile>
+    <ClCompile Include="STRUCT.cpp">
+      <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
