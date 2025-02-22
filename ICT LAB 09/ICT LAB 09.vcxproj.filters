@@ -208,19 +208,19 @@
       <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
     </ClCompile>
     <ClCompile Include="1.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
     </ClCompile>
     <ClCompile Include="2.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
     </ClCompile>
     <ClCompile Include="3.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
     </ClCompile>
     <ClCompile Include="4.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
     </ClCompile>
     <ClCompile Include="5.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
