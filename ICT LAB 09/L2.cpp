@@ -1,13 +1,25 @@
 //#include <iostream>
-//#include <cstring>
 //using namespace std;
 //
+//
+//void strCopy(char* dest, const char* src) {
+//    int i = 0;
+//    while (src[i] != '\0') {
+//        dest[i] = src[i];
+//        i++;
+//    }
+//    dest[i] = '\0';
+//}
+//
 //void removeVowels(char** str) {
-//    int len = strlen(*str);
+//    int len = 0;
+//    while ((*str)[len] != '\0') len++;
+//
 //    char* newStr = new char[len + 1];
 //    int j = 0;
 //    for (int i = 0; i < len; i++) {
-//        if (!strchr("AEIOUaeiou", (*str)[i])) {
+//        if ((*str)[i] != 'A' && (*str)[i] != 'E' && (*str)[i] != 'I' && (*str)[i] != 'O' && (*str)[i] != 'U' &&
+//            (*str)[i] != 'a' && (*str)[i] != 'e' && (*str)[i] != 'i' && (*str)[i] != 'o' && (*str)[i] != 'u') {
 //            newStr[j++] = (*str)[i];
 //        }
 //    }
@@ -17,8 +29,8 @@
 //}
 //
 //int main() {
-//    char* str = new char[strlen("I am a Programmer") + 1];
-//    strcpy(str, "I am a Programmer");
+//    char* str = new char[18];
+//    strCopy(str, "I am a Programmer");
 //    removeVowels(&str);
 //    cout << "Modified String: " << str << endl;
 //    delete[] str;
