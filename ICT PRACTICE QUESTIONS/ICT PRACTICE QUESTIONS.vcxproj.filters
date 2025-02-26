@@ -37,6 +37,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\OOP">
       <UniqueIdentifier>{0f49bf3f-9f78-49d0-9784-cc3855d9cced}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\MID-1 Practice">
+      <UniqueIdentifier>{c1657d83-ccdf-458a-a305-b44b839613ac}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -206,6 +209,27 @@
     </ClCompile>
     <ClCompile Include="STRUCT.cpp">
       <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESSTION 01.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="ARRAYS.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Encryption key.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="static array.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="struct 1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="struct2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="STRUCT_23.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

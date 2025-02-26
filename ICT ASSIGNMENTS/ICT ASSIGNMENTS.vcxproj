@@ -144,6 +144,7 @@
     <ClCompile Include="QUESTION # 02 _ STARS IN PYRAMID.cpp" />
     <ClCompile Include="QUESTION # 03 _ FACTORIAL CALCULATION THROUGH FOR LOOP.cpp" />
     <ClCompile Include="QUESTION # 04 _ square_cube_and_fact.cpp" />
+    <ClCompile Include="Question # 04.cpp" />
     <ClCompile Include="QUESTION # 05 _ ODD OR EVEN NUMBER.cpp" />
     <ClCompile Include="QUESTION # 06 _ LARGEST ONE OUT.cpp" />
     <ClCompile Include="QUESTION # 07 _ TO CHECK WETHER THE YEAR IS LEAP OR NOT.cpp" />

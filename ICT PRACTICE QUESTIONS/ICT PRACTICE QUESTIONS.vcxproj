@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="23.cpp" />
     <ClCompile Include="Armstrong number..cpp" />
+    <ClCompile Include="ARRAYS.cpp" />
     <ClCompile Include="chapter 8 exercise 5.cpp" />
     <ClCompile Include="check if the number is a perfect square or not.cpp" />
     <ClCompile Include="code 03.cpp" />
@@ -137,6 +138,7 @@
     <ClCompile Include="code 2.cpp" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
     <ClCompile Include="dry run.cpp" />
+    <ClCompile Include="Encryption key.cpp" />
     <ClCompile Include="FileName.cpp" />
     <ClCompile Include="chapter 8 exercise 6.cpp" />
     <ClCompile Include="P 1.cpp" />
@@ -152,6 +154,7 @@
     <ClCompile Include="PRIME_NUMBER.cpp" />
     <ClCompile Include="print all real numbers.cpp" />
     <ClCompile Include="PERFECT NUMBER.cpp" />
+    <ClCompile Include="QUESSTION 01.cpp" />
     <ClCompile Include="QUESTION 01.cpp" />
     <ClCompile Include="QUESTION 02.cpp" />
     <ClCompile Include="QUESTION 03.cpp" />
@@ -180,7 +183,11 @@
     <ClCompile Include="R 2 .cpp" />
     <ClCompile Include="reverse number.cpp" />
     <ClCompile Include="right triangle.cpp" />
+    <ClCompile Include="static array.cpp" />
+    <ClCompile Include="struct 1.cpp" />
     <ClCompile Include="STRUCT.cpp" />
+    <ClCompile Include="struct2.cpp" />
+    <ClCompile Include="STRUCT_23.cpp" />
     <ClCompile Include="to draw a frame.cpp" />
     <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp" />
   </ItemGroup>
