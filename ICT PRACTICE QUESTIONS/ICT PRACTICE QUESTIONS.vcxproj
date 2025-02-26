@@ -186,6 +186,7 @@
     <ClCompile Include="static array.cpp" />
     <ClCompile Include="struct 1.cpp" />
     <ClCompile Include="STRUCT.cpp" />
+    <ClCompile Include="struct2 again.cpp" />
     <ClCompile Include="struct2.cpp" />
     <ClCompile Include="STRUCT_23.cpp" />
     <ClCompile Include="to draw a frame.cpp" />

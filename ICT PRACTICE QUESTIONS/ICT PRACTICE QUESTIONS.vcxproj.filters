@@ -231,6 +231,9 @@
     <ClCompile Include="STRUCT_23.cpp">
       <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
     </ClCompile>
+    <ClCompile Include="struct2 again.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
