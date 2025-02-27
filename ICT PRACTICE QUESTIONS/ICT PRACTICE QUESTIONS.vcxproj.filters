@@ -234,6 +234,18 @@
     <ClCompile Include="struct2 again.cpp">
       <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
     </ClCompile>
+    <ClCompile Include="encryption.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="struct3.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="merge.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="STRUCT PRACTICE.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">

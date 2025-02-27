@@ -8,15 +8,23 @@
 //	int size, key;
 //	cout << "Enter the size of the array: ";
 //	cin >> size;
+//
+//
 //	cout << "Enter the key for incription: ";
 //	cin >> key;
+//
+//
 //	char* char_arr = new char[size];
+//	
+//	
 //	/*char list[100] = { "myname is Abdullah " };*/
 //
 //	for (int i = 0; i < size; i++)
 //	{
 //		cin >> char_arr[i];
 //	}
+//
+//
 //	for (int i = 0; i < size; i++)
 //	{
 //	

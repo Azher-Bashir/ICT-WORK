@@ -139,8 +139,10 @@
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
     <ClCompile Include="dry run.cpp" />
     <ClCompile Include="Encryption key.cpp" />
+    <ClCompile Include="encryption.cpp" />
     <ClCompile Include="FileName.cpp" />
     <ClCompile Include="chapter 8 exercise 6.cpp" />
+    <ClCompile Include="merge.cpp" />
     <ClCompile Include="P 1.cpp" />
     <ClCompile Include="P 10.cpp" />
     <ClCompile Include="P 12.cpp" />
@@ -185,9 +187,11 @@
     <ClCompile Include="right triangle.cpp" />
     <ClCompile Include="static array.cpp" />
     <ClCompile Include="struct 1.cpp" />
+    <ClCompile Include="STRUCT PRACTICE.cpp" />
     <ClCompile Include="STRUCT.cpp" />
     <ClCompile Include="struct2 again.cpp" />
     <ClCompile Include="struct2.cpp" />
+    <ClCompile Include="struct3.cpp" />
     <ClCompile Include="STRUCT_23.cpp" />
     <ClCompile Include="to draw a frame.cpp" />
     <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp" />
