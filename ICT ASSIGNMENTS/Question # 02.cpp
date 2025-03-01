@@ -5,11 +5,11 @@
 //void reverse(int* &arr, int size)
 //{
 //	int* arr_new = new int[size];
-//	for (int i = size - 1; i >= 0; i--)
+//	for (int i = 0; i < size; i++)
 //	{
-//		int j = 0;
-//		arr_new[i] = arr[j];
-//		j++;
+//		//int j = 0;
+//		arr_new[size - i - 1] = arr[i];
+//		//j++;
 //	}
 //
 //	arr = arr_new;
@@ -34,7 +34,7 @@
 //
 //	int* array = new int[size];
 //
-//	cout << "Enter the elements of the array: ";
+//	cout << "Enter the elements of the array: " << endl;
 //
 //	for (int i = 0; i < size; i++)
 //	{

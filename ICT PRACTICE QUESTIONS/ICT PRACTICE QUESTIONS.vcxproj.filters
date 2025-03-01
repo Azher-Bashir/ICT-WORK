@@ -246,6 +246,9 @@
     <ClCompile Include="STRUCT PRACTICE.cpp">
       <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
     </ClCompile>
+    <ClCompile Include="practice problem number 2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
