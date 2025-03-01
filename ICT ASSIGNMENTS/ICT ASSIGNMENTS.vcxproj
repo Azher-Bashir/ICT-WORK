@@ -128,31 +128,32 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="code 01.cpp" />
-    <ClCompile Include="code 02.cpp" />
-    <ClCompile Include="code 03.cpp" />
-    <ClCompile Include="code 04.cpp" />
-    <ClCompile Include="code 05.cpp" />
-    <ClCompile Include="code 06.cpp" />
-    <ClCompile Include="code 07.cpp" />
-    <ClCompile Include="code 08.cpp" />
-    <ClCompile Include="code 09.cpp" />
-    <ClCompile Include="code 10.cpp" />
-    <ClCompile Include="code 11.cpp" />
-    <ClCompile Include="Question # 03.cpp" />
+    <ClCompile Include="S1 A3 Q1.cpp" />
+    <ClCompile Include="S1 A3 Q2.cpp" />
+    <ClCompile Include="S1 A3 Q3.cpp" />
+    <ClCompile Include="S1 A3 Q4.cpp" />
+    <ClCompile Include="S1 A3 Q5.cpp" />
+    <ClCompile Include="S1 A3 Q6.cpp" />
+    <ClCompile Include="S1 A3 Q7.cpp" />
+    <ClCompile Include="S1 A3 Q8.cpp" />
+    <ClCompile Include="S1 A3 Q9.cpp" />
+    <ClCompile Include="S1 A3 Q10.cpp" />
+    <ClCompile Include="S1 A3 Q11.cpp" />
+    <ClCompile Include="S2 A1 Q3.cpp" />
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp" />
-    <ClCompile Include="Question # 01.cpp" />
+    <ClCompile Include="S2 A1 Q1.cpp" />
     <ClCompile Include="QUESTION # 02 _ STARS IN PYRAMID.cpp" />
     <ClCompile Include="QUESTION # 03 _ FACTORIAL CALCULATION THROUGH FOR LOOP.cpp" />
     <ClCompile Include="QUESTION # 04 _ square_cube_and_fact.cpp" />
-    <ClCompile Include="Question # 04.cpp" />
+    <ClCompile Include="S2 A1 Q4.cpp" />
     <ClCompile Include="QUESTION # 05 _ ODD OR EVEN NUMBER.cpp" />
     <ClCompile Include="QUESTION # 06 _ LARGEST ONE OUT.cpp" />
     <ClCompile Include="QUESTION # 07 _ TO CHECK WETHER THE YEAR IS LEAP OR NOT.cpp" />
     <ClCompile Include="QUESTION # 08 _ CALCULATOR.cpp" />
     <ClCompile Include="QUESTION # 09 _ TO DETERMINE THE DAY OF THE WEEK .cpp" />
     <ClCompile Include="QUESTION # 10 _ IDENTIFY THE CHARACTER TYPE.cpp" />
-    <ClCompile Include="Question # 02.cpp" />
+    <ClCompile Include="S2 A1 Q2.cpp" />
+    <ClCompile Include="S2 A1 Q5.cpp" />
     <ClCompile Include="Umair Assignment 1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

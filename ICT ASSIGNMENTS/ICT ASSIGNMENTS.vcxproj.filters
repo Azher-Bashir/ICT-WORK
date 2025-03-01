@@ -60,52 +60,55 @@
     <ClCompile Include="QUESTION # 10 _ IDENTIFY THE CHARACTER TYPE.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#02</Filter>
     </ClCompile>
-    <ClCompile Include="code 11.cpp">
+    <ClCompile Include="S1 A3 Q11.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="code 06.cpp">
+    <ClCompile Include="S1 A3 Q6.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="code 07.cpp">
+    <ClCompile Include="S1 A3 Q7.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="code 08.cpp">
+    <ClCompile Include="S1 A3 Q8.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="code 09.cpp">
+    <ClCompile Include="S1 A3 Q9.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="code 10.cpp">
+    <ClCompile Include="S1 A3 Q10.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="code 01.cpp">
+    <ClCompile Include="S1 A3 Q1.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="code 02.cpp">
+    <ClCompile Include="S1 A3 Q2.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="code 03.cpp">
+    <ClCompile Include="S1 A3 Q3.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="code 04.cpp">
+    <ClCompile Include="S1 A3 Q4.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="code 05.cpp">
+    <ClCompile Include="S1 A3 Q5.cpp">
       <Filter>Source Files\FIRST SEMESTER %28ICT%29\#03</Filter>
     </ClCompile>
-    <ClCompile Include="Question # 01.cpp">
+    <ClCompile Include="S2 A1 Q1.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
     </ClCompile>
     <ClCompile Include="Umair Assignment 1.cpp">
       <Filter>Source Files\SECOND SEMESTER</Filter>
     </ClCompile>
-    <ClCompile Include="Question # 02.cpp">
+    <ClCompile Include="S2 A1 Q2.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
     </ClCompile>
-    <ClCompile Include="Question # 04.cpp">
+    <ClCompile Include="S2 A1 Q4.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
     </ClCompile>
-    <ClCompile Include="Question # 03.cpp">
+    <ClCompile Include="S2 A1 Q3.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
+    </ClCompile>
+    <ClCompile Include="S2 A1 Q5.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
     </ClCompile>
   </ItemGroup>
