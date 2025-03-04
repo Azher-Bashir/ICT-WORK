@@ -54,4 +54,9 @@
 //		cout << "The arrays are not identical." << endl;
 //	cout << "The arrays are identical: " << identical(array1, array2, size1, size2) << endl;
 //
+//	delete[] array1;
+//	delete[] array2;
+//
+//	return 0;
+//
 //}

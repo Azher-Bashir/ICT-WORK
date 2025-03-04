@@ -138,10 +138,10 @@
     <ClCompile Include="code 5.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\VILLANA</Filter>
     </ClCompile>
-    <ClCompile Include="anus 1.cpp">
+    <ClCompile Include="question1.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
     </ClCompile>
-    <ClCompile Include="anus 2.cpp">
+    <ClCompile Include="question2.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
     </ClCompile>
     <ClCompile Include="hassm.cpp">
@@ -156,13 +156,13 @@
     <ClCompile Include="03.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Hussnian</Filter>
     </ClCompile>
-    <ClCompile Include="anus 3.cpp">
+    <ClCompile Include="question3.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
     </ClCompile>
-    <ClCompile Include="anus 4.cpp">
+    <ClCompile Include="question4.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
     </ClCompile>
-    <ClCompile Include="anus 5.cpp">
+    <ClCompile Include="question5.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
     </ClCompile>
     <ClCompile Include="04.cpp">

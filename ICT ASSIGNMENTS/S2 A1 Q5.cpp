@@ -57,5 +57,8 @@
 //	}
 //	cout << "The winner of the elections is; " << a.name[max_votes] << endl;
 //
+//	delete[] a.name;
+//	delete[] a.votes;
+//	delete[] a.per_votes;
 //
 //}

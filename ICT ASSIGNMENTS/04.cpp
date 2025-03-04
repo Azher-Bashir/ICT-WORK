@@ -1,53 +1,87 @@
 //#include <iostream>
+//	
 //using namespace std;
 //
-//bool areArraysEqual(int* firstArray, int* secondArray, int length) {
-//    for (int i = 0; i < length; i++) {
-//        if (firstArray[i] != secondArray[i]) {
-//            return false;
-//        }
-//    }
-//    return true;
+//bool isPrime(int n) {
+//	if (n <= 1) {
+//		return false;
+//	}
+//	for (int i = 2; i < n; i++) {
+//		if (n % i == 0) {
+//			return false;
+//		}
+//	}
+//	return true;
+//}
+//
+//int* PickLarger(int* array1, int* array2, int size) {
+//	int* output = new int[size * 2];
+//	for (int i = 0; i < size; i++) {
+//		if (array1[i] > array2[i]) {
+//			output[i] = array1[i];
+//		}
+//		else {
+//			output[i] = array2[i];
+//		}
+//	}
+//	int j = 0;
+//	for (int i = size; i < size * 2; i++) {
+//		while (true) {
+//			if (isPrime(j)) {
+//				output[i] = j;
+//				j++;
+//				break;
+//			}
+//			j++;
+//		}
+//	}
+//	return output;
+//}
+//
+//int* resize(int* array, int size) {
+//	int* resizedArray = new int[size / 2];
+//	for (int i = 0; i < size / 2; i++) {
+//		resizedArray[i] = array[i];
+//	}
+//	return resizedArray;
 //}
 //
 //int main() {
-//    int firstSize, secondSize;
-//    cout << "ENTER THE SIZE OF THE FIRST ARRAY: ";
-//    cin >> firstSize;
-//    cout << "ENTER THE SIZE OF THE SECOND ARRAY: ";
-//    cin >> secondSize;
-//
-//    if (firstSize != secondSize) {
-//        cout << "THE ARRAYS ARE NOT EQUAL IN SIZE." << endl;
-//        return 0;
-//    }
-//
-//    int* firstArray = new int[firstSize];
-//    int* secondArray = new int[secondSize];
-//
-//    cout << "ENTER THE ELEMENTS OF THE FIRST ARRAY:" << endl;
-//    for (int i = 0; i < firstSize; i++) {
-//        cin >> firstArray[i];
-//    }
-//
-//    cout << "ENTER THE ELEMENTS OF THE SECOND ARRAY:" << endl;
-//    for (int i = 0; i < secondSize; i++) {
-//        cin >> secondArray[i];
-//    }
-//
-//    bool result = areArraysEqual(firstArray, secondArray, firstSize);
-//
-//    if (result) {
-//        cout << "THE ENTERED ARRAYS ARE EQUAL TO EACH OTHER IN SIZE AND ENTRIES." << endl;
-//    }
-//    else {
-//        cout << "THE ENTERED ARRAYS ARE NOT EQUAL TO EACH OTHER IN SIZE AND ENTRIES." << endl;
-//    }
-//
-//    delete[] firstArray;
-//    delete[] secondArray;
-//
-//    return 0;
+//	int size;
+//	cout << "Enter the size of the arrays: ";
+//	cin >> size;
+//	int* array1 = new int[size];
+//	int* array2 = new int[size];
+//	cout << "Enter the elements of the first array:" << endl;
+//	for (int i = 0; i < size; i++) {
+//		cin >> array1[i];
+//	}
+//	cout << "Enter the elements of the second array:" << endl;
+//	for (int i = 0; i < size; i++) {
+//		cin >> array2[i];
+//	}
+//	int* output = PickLarger(array1, array2, size);
+//	cout << "The output array is:" << endl;
+//	for (int i = 0; i < size * 2; i++) {
+//		cout << output[i] << " ";
+//	}
+//	cout << endl;
+//	int* resizedArray1 = resize(array1, size);
+//	int* resizedArray2 = resize(array2, size);
+//	cout << "The resized first array is:" << endl;
+//	for (int i = 0; i < size / 2; i++) {
+//		cout << resizedArray1[i] << " ";
+//	}
+//	cout << endl;
+//	cout << "The resized second array is:" << endl;
+//	for (int i = 0; i < size / 2; i++) {
+//		cout << resizedArray2[i] << " ";
+//	}
+//	cout << endl;
+//	delete[] array1;
+//	delete[] array2;
+//	delete[] output;
+//	delete[] resizedArray1;
+//	delete[] resizedArray2;
+//	return 0;
 //}
-//
-//

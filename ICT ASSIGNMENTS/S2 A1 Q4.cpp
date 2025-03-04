@@ -67,14 +67,14 @@
 //    cout << "Enter elements for array 1: " << endl;
 //    for (int i = 0; i < size; i++)
 //    {
-//        cout << "Enter element " << i << ": ";
+//        cout << "Enter element " << i + 1 << ": ";
 //        cin >> array1[i];
 //    }
 //
 //    cout << "Enter elements for array 2: " << endl;
 //    for (int i = 0; i < size; i++)
 //    {
-//        cout << "Enter element " << i << ": ";
+//        cout << "Enter element " << i + 1 << ": ";
 //        cin >> array2[i];
 //    }
 //
@@ -96,3 +96,4 @@
 //
 //    return 0;
 //}
+//

@@ -1,7 +1,6 @@
 //#include <iostream>
 //using namespace std;
 //
-//// Function to perform matrix multiplication
 //int** multiply_matrices(int** matrix1, int** matrix2, int row1, int col1, int row2, int col2)
 //{
 //    if (col1 != row2)

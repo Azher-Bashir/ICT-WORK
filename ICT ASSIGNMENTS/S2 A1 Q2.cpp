@@ -44,5 +44,9 @@
 //
 //	reverse(array, size);
 //	print(array, size);
+//
+//	delete[] array;
+//
+//	return 0;
 //	
 //}

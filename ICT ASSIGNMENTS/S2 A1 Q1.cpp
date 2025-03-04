@@ -112,7 +112,28 @@
 //	}
 //	cout << endl << endl;
 //
-//	multiplication(matrix1, matrix2, rows1, rows2, coloumns1, coloumns2);
+//	int** result = multiplication(matrix1, matrix2, rows1, rows2, coloumns1, coloumns2);
+//
+//	for (int i = 0; i < rows1; i++)
+//	{
+//		delete[] matrix1[i];
+//	}
+//	delete[] matrix1;
+//
+//	for (int i = 0; i < rows2; i++)
+//	{
+//		delete[] matrix2[i];
+//	}
+//	delete[] matrix2;
+//
+//	if (result != nullptr)
+//	{
+//		for (int i = 0; i < rows1; i++)
+//		{
+//			delete[] result[i];
+//		}
+//		delete[] result;
+//	}
 //
 //	return 0;
 //
