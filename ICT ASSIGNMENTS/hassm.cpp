@@ -4,8 +4,8 @@ using namespace std;
 struct candidate
 {
 	string lastname;
-	int votesrecieved;
-	float percentage;
+	double votesrecieved;
+	double percentage = 1;
 };
 
 int main()
@@ -26,12 +26,12 @@ int main()
 	}
 	for (int x = 0; x < totalcandidates; x++)
 	{
-		ptr[x].percentage = ((ptr[x].votesrecieved / total) * 100);
+		ptr[x].percentage = (ptr[x].votesrecieved / total * 100);
 	}
-	cout << "Candidate" << "\t" << "Votes recieved" << "\t" << "% of total votes";
+	cout << "Candidate" << "\t" << "Votes recieved" << "\t" << "% of total votes" << endl;
 	for (int x = 0; x < totalcandidates; x++)
 	{
-		cout << ptr[x].lastname << "\t" << ptr[x].votesrecieved << "\t" << ptr[x].percentage << endl;
+		cout << ptr[x].lastname << "\t\t" << ptr[x].votesrecieved << "\t\t" << ptr[x].percentage << endl;
 	}
 	cout << "Total" << "\t" << total << endl;
 	cout << "The winner of election is " << ptr[max].lastname << "." << endl;
