@@ -23,8 +23,8 @@
 //
 //int main()
 //{
-//	int size1, size2;
-//	cout << "Ent erhte size of first array: ";
+//	int size1, size2, response;
+//	cout << "Enter the size of first array: ";
 //	cin >> size1;
 //	cout << "Ente the size of the second array: ";
 //	cin >> size2;
@@ -45,6 +45,13 @@
 //		cout << "Enter the " << i << "th element of the Second array: ";
 //		cin >> array2[i];
 //	}
-//	//identical(array1, array2, size1, size2);
+//	response = identical(array1, array2, size1, size2);
+//	if (response == 1)
+//	{
+//		cout << "The arrays are identical." << endl;
+//	}
+//	else
+//		cout << "The arrays are not identical." << endl;
 //	cout << "The arrays are identical: " << identical(array1, array2, size1, size2) << endl;
+//
 //}
