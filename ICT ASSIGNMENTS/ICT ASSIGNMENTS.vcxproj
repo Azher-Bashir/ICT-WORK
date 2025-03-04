@@ -133,6 +133,7 @@
     <ClCompile Include="03.cpp" />
     <ClCompile Include="anus 1.cpp" />
     <ClCompile Include="anus 2.cpp" />
+    <ClCompile Include="anus 3.cpp" />
     <ClCompile Include="code 1.cpp" />
     <ClCompile Include="code 2.cpp" />
     <ClCompile Include="code 3.cpp" />
