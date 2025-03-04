@@ -70,7 +70,7 @@ int main()
 	}
 	cout << endl;
 	cout << "the first matrix that you entered is: " << endl;
-	for (int i = 0; i < rows1; i++)
+	for (int i = 0; i < rows1; i++) 
 	{
 		for (int j = 0; j < coloumns1; j++)
 		{
