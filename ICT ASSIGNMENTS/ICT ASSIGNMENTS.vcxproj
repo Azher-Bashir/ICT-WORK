@@ -128,13 +128,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="anus 1.cpp" />
+    <ClCompile Include="anus 2.cpp" />
     <ClCompile Include="code 1.cpp" />
     <ClCompile Include="code 2.cpp" />
     <ClCompile Include="code 3.cpp" />
     <ClCompile Include="code 4.cpp" />
     <ClCompile Include="code 5.cpp" />
     <ClCompile Include="GPT.cpp" />
-    <ClCompile Include="HASSAM.cpp" />
+    <ClCompile Include="hassm.cpp" />
     <ClCompile Include="S1 A3 Q1.cpp" />
     <ClCompile Include="S1 A3 Q2.cpp" />
     <ClCompile Include="S1 A3 Q3.cpp" />

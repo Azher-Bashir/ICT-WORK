@@ -27,20 +27,21 @@
 //    }
 //}
 //
-//void pick_larger(int* array1, int* array2, int* output_array, int size1, int size2)
+//void pick_larger(int* array1, int* array2, int* output_array, int size)
 //{
-//    int total_size = size1 + size2;
-//    int new_size = total_size * 2;
-//    for (int i = 0; i < size1; i++)
+//    for (int i = 0; i < size; i++)
 //    {
-//        output_array[i] = array1[i];
-//    }
-//    for (int i = 0; i < size2; i++)
-//    {
-//        output_array[size1 + i] = array2[i];
+//        if (array1[i] > array2[i])
+//        {
+//            output_array[i] = array1[i];
+//        }
+//        else
+//        {
+//            output_array[i] = array2[i];
+//        }
 //    }
 //
-//    generate_prime_number(output_array + total_size, total_size);
+//    generate_prime_number(output_array + size, size);
 //}
 //
 //void resize_array(int*& array, int old_size, int new_size)
@@ -56,34 +57,31 @@
 //
 //int main()
 //{
-//    int size1, size2;
-//    cout << "Enter the size of the first array: ";
-//    cin >> size1;
-//    cout << "Enter the size of the second array: ";
-//    cin >> size2;
+//    int size;
+//    cout << "Enter the size of the arrays: ";
+//    cin >> size;
 //
-//    int* array1 = new int[size1];
-//    int* array2 = new int[size2];
+//    int* array1 = new int[size];
+//    int* array2 = new int[size];
 //
 //    cout << "Enter elements for array 1: " << endl;
-//    for (int i = 0; i < size1; i++)
+//    for (int i = 0; i < size; i++)
 //    {
 //        cout << "Enter element " << i << ": ";
 //        cin >> array1[i];
 //    }
 //
 //    cout << "Enter elements for array 2: " << endl;
-//    for (int i = 0; i < size2; i++)
+//    for (int i = 0; i < size; i++)
 //    {
 //        cout << "Enter element " << i << ": ";
 //        cin >> array2[i];
 //    }
 //
-//    int total_size = size1 + size2;
-//    int new_size = total_size * 2;
+//    int new_size = size * 2;
 //    int* output_array = new int[new_size];
 //
-//    pick_larger(array1, array2, output_array, size1, size2);
+//    pick_larger(array1, array2, output_array, size);
 //
 //    cout << "Output array: ";
 //    for (int i = 0; i < new_size; i++)
@@ -98,4 +96,3 @@
 //
 //    return 0;
 //}
-//

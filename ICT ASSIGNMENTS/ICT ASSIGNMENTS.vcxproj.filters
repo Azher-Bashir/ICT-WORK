@@ -31,6 +31,12 @@
     <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 01\VILLANA">
       <UniqueIdentifier>{e1f1ac32-803e-4594-ab20-b6f6e64fcc66}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 01\Hussnian">
+      <UniqueIdentifier>{c126f20c-5c5c-4794-af3b-aa8410f52648}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas">
+      <UniqueIdentifier>{5c2d254e-e129-4dfa-95c1-f3493302f8cd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -117,9 +123,6 @@
     <ClCompile Include="GPT.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
     </ClCompile>
-    <ClCompile Include="HASSAM.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\VILLANA</Filter>
-    </ClCompile>
     <ClCompile Include="code 1.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\VILLANA</Filter>
     </ClCompile>
@@ -134,6 +137,15 @@
     </ClCompile>
     <ClCompile Include="code 5.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\VILLANA</Filter>
+    </ClCompile>
+    <ClCompile Include="anus 1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
+    </ClCompile>
+    <ClCompile Include="anus 2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
+    </ClCompile>
+    <ClCompile Include="hassm.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
