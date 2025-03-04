@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GPT.cpp" />
+    <ClCompile Include="HASSAM.cpp" />
     <ClCompile Include="S1 A3 Q1.cpp" />
     <ClCompile Include="S1 A3 Q2.cpp" />
     <ClCompile Include="S1 A3 Q3.cpp" />

@@ -28,6 +28,9 @@
     <Filter Include="Source Files\FIRST SEMESTER %28ICT%29\#03">
       <UniqueIdentifier>{9a950249-5fcc-4dc2-b0d9-4d6a69e25cd9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 01\VILLANA">
+      <UniqueIdentifier>{e1f1ac32-803e-4594-ab20-b6f6e64fcc66}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -113,6 +116,9 @@
     </ClCompile>
     <ClCompile Include="GPT.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
+    </ClCompile>
+    <ClCompile Include="HASSAM.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\VILLANA</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
