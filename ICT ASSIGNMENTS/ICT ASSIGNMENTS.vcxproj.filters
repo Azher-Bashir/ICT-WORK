@@ -159,5 +159,11 @@
     <ClCompile Include="anus 3.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
     </ClCompile>
+    <ClCompile Include="anus 4.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
+    </ClCompile>
+    <ClCompile Include="anus 5.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
