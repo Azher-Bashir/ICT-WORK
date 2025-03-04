@@ -147,5 +147,14 @@
     <ClCompile Include="hassm.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
     </ClCompile>
+    <ClCompile Include="01.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Hussnian</Filter>
+    </ClCompile>
+    <ClCompile Include="02.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Hussnian</Filter>
+    </ClCompile>
+    <ClCompile Include="03.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Hussnian</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

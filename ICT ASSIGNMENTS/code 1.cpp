@@ -24,7 +24,6 @@
 //		cout << endl;
 //	}
 //
-//	// Cleanup memory
 //	for (int i = 0; i < row1; i++) {
 //		delete[] Matrix3[i];
 //	}
