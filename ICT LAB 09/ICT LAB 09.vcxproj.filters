@@ -52,6 +52,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\UMAIR LABS">
       <UniqueIdentifier>{a8fe0bae-72fb-4c3e-97d0-8871e9f8bd06}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 5">
+      <UniqueIdentifier>{3b1669c7-0642-4f45-a5c4-de8d4409dc7a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -221,6 +224,12 @@
     </ClCompile>
     <ClCompile Include="5.cpp">
       <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="L5 T1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 5</Filter>
+    </ClCompile>
+    <ClCompile Include="L5 T2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 5</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

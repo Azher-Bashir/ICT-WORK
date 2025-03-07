@@ -179,6 +179,8 @@
     <ClCompile Include="L3.cpp" />
     <ClCompile Include="L4 Task 1.cpp" />
     <ClCompile Include="L4.cpp" />
+    <ClCompile Include="L5 T1.cpp" />
+    <ClCompile Include="L5 T2.cpp" />
     <ClCompile Include="L5.cpp" />
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="r4.cpp" />
