@@ -5,10 +5,12 @@
 //
 //struct election_data
 //{
+////private:
 //	string* name;
 //	double* votes;
 //	double* per_votes;
 //	int total = 0;
+////public:
 //};
 //
 //int main()
