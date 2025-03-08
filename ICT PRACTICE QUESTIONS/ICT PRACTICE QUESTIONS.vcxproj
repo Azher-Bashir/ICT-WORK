@@ -154,6 +154,7 @@
     <ClCompile Include="palindrome..cpp" />
     <ClCompile Include="pattern question.cpp" />
     <ClCompile Include="practice problem number 2.cpp" />
+    <ClCompile Include="practice1.cpp" />
     <ClCompile Include="PRIME_NUMBER.cpp" />
     <ClCompile Include="print all real numbers.cpp" />
     <ClCompile Include="PERFECT NUMBER.cpp" />

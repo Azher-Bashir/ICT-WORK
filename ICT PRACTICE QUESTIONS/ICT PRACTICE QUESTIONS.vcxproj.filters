@@ -40,6 +40,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\MID-1 Practice">
       <UniqueIdentifier>{c1657d83-ccdf-458a-a305-b44b839613ac}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\CLASSES%28STRT OF OOP%29">
+      <UniqueIdentifier>{3d19a31b-883a-425d-bac2-7d309990bb99}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -248,6 +251,9 @@
     </ClCompile>
     <ClCompile Include="practice problem number 2.cpp">
       <Filter>Source Files\SECOND SEMESTER\MID-1 Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="practice1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\CLASSES%28STRT OF OOP%29</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
