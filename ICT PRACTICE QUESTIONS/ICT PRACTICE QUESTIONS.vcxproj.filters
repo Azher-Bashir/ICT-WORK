@@ -264,6 +264,15 @@
     <ClCompile Include="cde 2.cpp">
       <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
     </ClCompile>
+    <ClCompile Include="code003.cpp">
+      <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
+    </ClCompile>
+    <ClCompile Include="code004.cpp">
+      <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
+    </ClCompile>
+    <ClCompile Include="code005.cpp">
+      <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
@@ -273,6 +282,15 @@
       <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
     </Text>
     <Text Include="name.txt">
+      <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
+    </Text>
+    <Text Include="number.txt">
+      <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
+    </Text>
+    <Text Include="sentence.txt">
+      <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
+    </Text>
+    <Text Include="average.txt">
       <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
     </Text>
   </ItemGroup>

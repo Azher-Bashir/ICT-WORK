@@ -138,6 +138,9 @@
     <ClCompile Include="code 05%3b Reading the adress of the elemet and displaying the element.cpp" />
     <ClCompile Include="code 1.cpp" />
     <ClCompile Include="code 2.cpp" />
+    <ClCompile Include="code003.cpp" />
+    <ClCompile Include="code004.cpp" />
+    <ClCompile Include="code005.cpp" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
     <ClCompile Include="dry run.cpp" />
     <ClCompile Include="Encryption key.cpp" />
@@ -201,8 +204,11 @@
     <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="average.txt" />
     <Text Include="data.txt" />
     <Text Include="name.txt" />
+    <Text Include="number.txt" />
+    <Text Include="sentence.txt" />
     <Text Include="unreversed_number.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
