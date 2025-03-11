@@ -17,7 +17,7 @@
 //		{
 //			for (int j = 0; j < coloumns2; j++)
 //			{
-//					sum = 0;
+//				sum = 0;
 //				for (int k = 0; k < coloumns1; k++)
 //				{
 //					{

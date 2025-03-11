@@ -3,12 +3,12 @@
 //#include <iostream>
 //using namespace std;
 //
-//static void reverse(int* arr, int size)
+//void reverse(int* arr, int size)
 //{
 //	int* temp = new int[size];
-//	for (int x = 0; x < size; x++)
+//	for (int i = 0; i < size; i++)
 //	{
-//		temp[x] = arr[size - x - 1];
+//		temp[i] = arr[size - i - 1];
 //	}
 //	for (int x = 0; x < size; x++)
 //	{
@@ -17,7 +17,7 @@
 //	delete[] temp;
 //}
 //
-//static void display(int* arr, int size)
+//void display(int* arr, int size)
 //{
 //	for (int x = 0; x < size; x++)
 //	{
@@ -29,7 +29,8 @@
 //int main()
 //{
 //	int size;
-//	cout << "Enter the size of the array: "; cin >> size;
+//	cout << "Enter the size of the array: "; 
+//	cin >> size;
 //	int* arr = new int[size];
 //	for (int x = 0; x < size; x++)
 //	{
@@ -38,5 +39,4 @@
 //	reverse(arr, size);
 //	display(arr, size);
 //	delete[] arr;
-//	system("Pause");
 //}

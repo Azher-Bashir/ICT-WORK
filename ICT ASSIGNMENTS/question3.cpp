@@ -7,8 +7,10 @@
 //using namespace std;
 //
 //bool are_arrays_identical(int* arr1, int* arr2, int length) {
-//    for (int i = 0; i < length; i++) {
-//        if (arr1[i] != arr2[i]) {
+//    for (int i = 0; i < length; i++) 
+//{
+//        if (arr1[i] != arr2[i])
+//        {
 //            return false;
 //        }
 //    }

@@ -120,9 +120,6 @@
     <ClCompile Include="S2 A1 Q5.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
     </ClCompile>
-    <ClCompile Include="GPT.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01</Filter>
-    </ClCompile>
     <ClCompile Include="code 1.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\VILLANA</Filter>
     </ClCompile>
@@ -142,9 +139,6 @@
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
     </ClCompile>
     <ClCompile Include="question2.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
-    </ClCompile>
-    <ClCompile Include="hassm.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas</Filter>
     </ClCompile>
     <ClCompile Include="01.cpp">

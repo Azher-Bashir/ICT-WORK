@@ -1,3 +1,6 @@
+//Take name of the candidates participating in an election and taek there votes too from the user then caculate there percentage and tell which one of the candidaae is winner
+//
+//
 //#include <iostream>
 //#include <string>
 //
@@ -5,12 +8,10 @@
 //
 //struct election_data
 //{
-////private:
 //	string* name;
 //	double* votes;
 //	double* per_votes;
 //	int total = 0;
-////public:
 //};
 //
 //int main()

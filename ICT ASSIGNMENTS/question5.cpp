@@ -3,63 +3,62 @@
 //
 //using namespace std;
 //
-//void inputData(string names[], int votes[], int numCandidates, int& totalVotes);
-//void calculatePercentages(int votes[], double percentages[], int numCandidates, int totalVotes);
-//void displayResults(string names[], int votes[], double percentages[], int numCandidates, int totalVotes);
-//int findWinner(int votes[], int numCandidates);
+//struct election_data
+//{
+//	string* name;
+//	double* votes;
+//	double* per_votes;
+//	int total = 0;
+//};
 //
-//int main() {
-//    const int numCandidates = 5;
-//    string names[numCandidates];
-//    int votes[numCandidates];
-//    double percentages[numCandidates];
-//    int totalVotes = 0;
+//int main()
+//{
+//	election_data a;
+//	int max_votes = 0;
+//	a.name = new string[5];
+//	a.votes = new double[5];
+//	a.per_votes = new double[5];
+//	cout << "Enter the names of the candidates: \n";
+//	for (int i = 0; i < 5; i++)
+//	{
+//		cout << "Enter the " << i + 1 << " name of the candidate: ";
+//		getline(cin, a.name[i]);
+//	}
+//	cout << endl;
+//	cout << "Enter the votes casted to each person in the same order: " << endl;
+//	for (int i = 0; i < 5; i++)
+//	{
+//		cout << "Enter the votes for " << i + 1 << " person: ";
+//		cin >> a.votes[i];
 //
-//    inputData(names, votes, numCandidates, totalVotes);
-//    calculatePercentages(votes, percentages, numCandidates, totalVotes);
-//    displayResults(names, votes, percentages, numCandidates, totalVotes);
+//		a.total += a.votes[i];
+//	}
 //
-//    int winnerIndex = findWinner(votes, numCandidates);
-//    cout << "The Winner of the Election is " << names[winnerIndex] << "." << endl;
+//	for (int i = 0; i < 5; i++)
+//	{
+//		a.per_votes[i] = a.votes[i] / a.total * 100;
+//	}
+//	cout << endl;
+//	cout << "The data you entered for the candidates and there result is: " << endl;
+//	cout << "CANDIDATES" << '\t' << "VOTES RECIEVED" << '\t' << "% OF TOTAL VOTES" << endl;
 //
-//    return 0;
+//	for (int i = 0; i < 5; i++)
+//	{
+//		cout << a.name[i] << '\t' << '\t' << a.votes[i] << '\t' << '\t' << a.per_votes[i] << "%" << endl;
+//	}
+//	cout << endl;
+//	cout << "Total number of votes casted are: " << a.total << endl;
+//	for (int i = 0; i < 4; i++)
+//	{
+//		if (a.votes[max_votes] > a.votes[i + 1])
+//		{
+//			max_votes = i;
+//		}
+//	}
+//	cout << "The winner of the elections is; " << a.name[max_votes] << endl;
+//
+//	delete[] a.name;
+//	delete[] a.votes;
+//	delete[] a.per_votes;
+//
 //}
-//
-//void inputData(string names[], int votes[], int numCandidates, int& totalVotes) {
-//    for (int i = 0; i < numCandidates; i++) {
-//        cout << "Please enter the surname of candidate number " << i + 1 << ": ";
-//        cin >> names[i];
-//        cout << "Please enter the vote count for " << names[i] << ": ";
-//        cin >> votes[i];
-//        totalVotes += votes[i];
-//    }
-//}
-//
-//void calculatePercentages(int votes[], double percentages[], int numCandidates, int totalVotes) {
-//    for (int i = 0; i < numCandidates; i++) {
-//        percentages[i] = (static_cast<double>(votes[i]) / totalVotes) * 100;
-//    }
-//}
-//
-//void displayResults(string names[], int votes[], double percentages[], int numCandidates, int totalVotes) {
-//    cout << "Candidate" << "\t" << "Votes Received" << "\t" << "% of Total Votes" << endl;
-//    for (int i = 0; i < numCandidates; i++) {
-//        cout << names[i] << "\t\t" << votes[i] << "\t\t" << percentages[i] << "%" << endl;
-//    }
-//    cout << "Total " << totalVotes << endl;
-//}
-//
-//int findWinner(int votes[], int numCandidates) {
-//    int maxVotes = votes[0];
-//    int maxIndex = 0;
-//    for (int i = 1; i < numCandidates; i++) {
-//        if (votes[i] > maxVotes) {
-//            maxVotes = votes[i];
-//            maxIndex = i;
-//        }
-//    }
-//    return maxIndex;
-//}
-//
-//
-//
