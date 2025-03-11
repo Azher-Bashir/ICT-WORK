@@ -43,6 +43,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\CLASSES%28STRT OF OOP%29">
       <UniqueIdentifier>{3d19a31b-883a-425d-bac2-7d309990bb99}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\RAFAY ALI KHAN">
+      <UniqueIdentifier>{c8895256-d5b3-483f-8586-f661743690da}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -255,10 +258,22 @@
     <ClCompile Include="practice1.cpp">
       <Filter>Source Files\SECOND SEMESTER\CLASSES%28STRT OF OOP%29</Filter>
     </ClCompile>
+    <ClCompile Include="code 1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
+    </ClCompile>
+    <ClCompile Include="cde 2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
       <Filter>Source Files\FIRST SEMESTER\PRACTICE QUESTIONS %28ARSHAQ%29</Filter>
+    </Text>
+    <Text Include="data.txt">
+      <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
+    </Text>
+    <Text Include="name.txt">
+      <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
     </Text>
   </ItemGroup>
 </Project>

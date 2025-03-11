@@ -130,11 +130,13 @@
     <ClCompile Include="23.cpp" />
     <ClCompile Include="Armstrong number..cpp" />
     <ClCompile Include="ARRAYS.cpp" />
+    <ClCompile Include="cde 2.cpp" />
     <ClCompile Include="chapter 8 exercise 5.cpp" />
     <ClCompile Include="check if the number is a perfect square or not.cpp" />
     <ClCompile Include="code 03.cpp" />
     <ClCompile Include="code 04.cpp" />
     <ClCompile Include="code 05%3b Reading the adress of the elemet and displaying the element.cpp" />
+    <ClCompile Include="code 1.cpp" />
     <ClCompile Include="code 2.cpp" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
     <ClCompile Include="dry run.cpp" />
@@ -199,6 +201,8 @@
     <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="data.txt" />
+    <Text Include="name.txt" />
     <Text Include="unreversed_number.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
