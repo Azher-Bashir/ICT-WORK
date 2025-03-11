@@ -1,1 +1,2 @@
-5 5 5 Average of the three numbers is : 5
+5 5 5 
+Average of the three numbers is : 5
