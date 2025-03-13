@@ -55,6 +55,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 5">
       <UniqueIdentifier>{3b1669c7-0642-4f45-a5c4-de8d4409dc7a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 6">
+      <UniqueIdentifier>{56802b35-d711-4f9d-9f3a-d2ec55855582}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -236,6 +239,9 @@
     </ClCompile>
     <ClCompile Include="7.cpp">
       <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="L6 T1 %28Dry run%29.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 6</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
