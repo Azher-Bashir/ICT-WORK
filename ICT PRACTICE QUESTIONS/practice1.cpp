@@ -1,7 +1,88 @@
-//#include<iostream>
-//#include <string>
-//using namespace std;
-//
+#include<iostream>
+#include <string>
+using namespace std;
+
+class charac
+{
+
+	int age;
+	double height;
+	string name;
+public:
+	void get_data(string, double, int);
+	int set_data(string, double , int);
+	void print();
+};
+
+void charac::get_data(string n, double h, int a)
+{
+	cout << "Enter name: ";
+	getline(cin, n);
+	cout << "Enter height: ";
+	cin >> h;
+	cout << "Enter age: ";
+	cin >> a;
+
+	set_data(n, h, a);
+}
+
+int charac::set_data(string n, double h, int a)
+{
+	int size = 0;
+	name = n;
+	height = h;
+	age = a;
+
+	return size;
+}
+
+void charac::print()
+{
+	cout << name << endl; 
+	cout << height << endl;
+	cout << age << endl;
+}
+
+int main()
+{
+	charac a;
+
+	string name = "";
+	double hei = 0;
+	int age = 0;
+	a.get_data(name, hei, age);
+	a.set_data(name, hei, age);
+	a.print();
+	return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //class mighty_raju
 //{
 //	string name;
