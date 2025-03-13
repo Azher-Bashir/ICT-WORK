@@ -9,18 +9,18 @@
 //    int found = 0;
 //    while (found < count)
 //    {
-//        bool isPrime = true;
+//        bool prime = true;
 //        if (num <= 1)
-//            isPrime = false;
+//            prime = false;
 //        for (int i = 2; i * i <= num; i++)
 //        {
 //            if (num % i == 0)
 //            {
-//                isPrime = false;
+//                prime = false;
 //                break;
 //            }
 //        }
-//        if (isPrime)
+//        if (prime)
 //        {
 //            primes[found] = num;
 //            found++;

@@ -3,7 +3,7 @@
 //
 //int** multiply_matrices(int** matrix1, int** matrix2, int row1, int col1, int row2, int col2)
 //{
-//    if (col1 != row2)
+//    if (col1 != row2) // r1 * c1     r2 * c2
 //    {
 //        cout << "The matrices cannot be multiplied." << endl;
 //        return nullptr;
@@ -25,9 +25,9 @@
 //                result[i][j] += matrix1[i][k] * matrix2[k][j];
 //            }
 //        }
-//    }
 //
-//    return result;
+//        return result;
+//    }
 //}
 //
 //int main()
@@ -72,7 +72,7 @@
 //
 //    int** result = multiply_matrices(matrix1, matrix2, row1, col1, row2, col2);
 //
-//    if (result != nullptr)
+//    if (result != 0)
 //    {
 //        cout << "The result of the matrix multiplication is: " << endl;
 //        for (int i = 0; i < row1; i++)

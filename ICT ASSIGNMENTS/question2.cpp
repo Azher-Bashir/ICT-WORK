@@ -1,5 +1,5 @@
-////Write a program that dynamically allocates memory for 1D array.Make a function which reverses the array elements
-////and a function to display the reversed array
+//write a program that dynamically allocates memory for 1d array.make a function which reverses the array elements
+//and a function to display the reversed array
 //#include <iostream>
 //using namespace std;
 //
@@ -29,12 +29,12 @@
 //int main()
 //{
 //	int size;
-//	cout << "Enter the size of the array: "; 
+//	cout << "enter the size of the array: "; 
 //	cin >> size;
 //	int* arr = new int[size];
 //	for (int x = 0; x < size; x++)
 //	{
-//		cout << "Enter element " << x << ": "; cin >> arr[x];
+//		cout << "enter element " << x << ": "; cin >> arr[x];
 //	}
 //	reverse(arr, size);
 //	display(arr, size);
