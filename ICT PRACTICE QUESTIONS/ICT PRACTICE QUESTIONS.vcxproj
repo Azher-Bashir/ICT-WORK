@@ -213,6 +213,9 @@
     <Text Include="sentence.txt" />
     <Text Include="unreversed_number.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

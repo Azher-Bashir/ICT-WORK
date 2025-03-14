@@ -300,4 +300,9 @@
       <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
     </Text>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h">
+      <Filter>Source Files\SECOND SEMESTER\CLASSES%28STRT OF OOP%29</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
