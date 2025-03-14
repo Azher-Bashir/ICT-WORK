@@ -273,6 +273,12 @@
     <ClCompile Include="code005.cpp">
       <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
     </ClCompile>
+    <ClCompile Include="COMPARISON B\W STRUCT AND CLASS.cpp">
+      <Filter>Source Files\SECOND SEMESTER</Filter>
+    </ClCompile>
+    <ClCompile Include="practice 2 gcr.cpp">
+      <Filter>Source Files\SECOND SEMESTER\CLASSES%28STRT OF OOP%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">

@@ -141,6 +141,7 @@
     <ClCompile Include="code003.cpp" />
     <ClCompile Include="code004.cpp" />
     <ClCompile Include="code005.cpp" />
+    <ClCompile Include="COMPARISON B\W STRUCT AND CLASS.cpp" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
     <ClCompile Include="dry run.cpp" />
     <ClCompile Include="Encryption key.cpp" />
@@ -158,6 +159,7 @@
     <ClCompile Include="P2.cpp" />
     <ClCompile Include="palindrome..cpp" />
     <ClCompile Include="pattern question.cpp" />
+    <ClCompile Include="practice 2 gcr.cpp" />
     <ClCompile Include="practice problem number 2.cpp" />
     <ClCompile Include="practice1.cpp" />
     <ClCompile Include="PRIME_NUMBER.cpp" />
