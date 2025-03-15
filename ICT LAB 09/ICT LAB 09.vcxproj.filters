@@ -246,6 +246,9 @@
     <ClCompile Include="L6 T6.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 6</Filter>
     </ClCompile>
+    <ClCompile Include="8.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
