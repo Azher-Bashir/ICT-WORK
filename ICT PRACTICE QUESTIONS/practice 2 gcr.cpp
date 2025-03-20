@@ -1,4 +1,5 @@
 //#include <iostream>
+////#include <header.h>
 //using namespace std;
 //
 //class swimming_pool
@@ -7,16 +8,23 @@
 //	double length;
 //	double width, height;
 //	double filling_rate, draining_rate;
+//	friend void no_one(swimming_pool &obj);
 //
 //public:
 //	//swimming_pool();
 //	swimming_pool(double, double, double, double, double);
 //	swimming_pool(const swimming_pool& depth);
 //	swimming_pool(double = 1.3, double = 32.23);
-//	friend void no_one(swimming_pool &obj);
 //	void print();
 //
 //};
+//void no_one(swimming_pool& obj)
+//{
+//	obj = obj.length;
+//	//length = 0;
+//}
+//
+//
 //void swimming_pool::print()
 //{
 //	cout << length << endl;

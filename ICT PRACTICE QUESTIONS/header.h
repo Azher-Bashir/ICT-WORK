@@ -1,6 +1,6 @@
 //#pragma once
-//#ifndef swimming_pool.h
-//#define swimming_pool.h
+//#ifndef header.h
+//#define header.h
 //class swimming_pool
 //{
 //private:
