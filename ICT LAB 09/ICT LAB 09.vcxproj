@@ -188,6 +188,7 @@
     <ClCompile Include="L5.cpp" />
     <ClCompile Include="L6 T1 %28Dry run%29.cpp" />
     <ClCompile Include="L6 T6.cpp" />
+    <ClCompile Include="L7 T1.cpp" />
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="r4.cpp" />
     <ClCompile Include="L1.cpp" />
@@ -195,6 +196,9 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="temperature.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

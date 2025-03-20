@@ -58,6 +58,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 6">
       <UniqueIdentifier>{56802b35-d711-4f9d-9f3a-d2ec55855582}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 7">
+      <UniqueIdentifier>{54b365ee-5f3d-4b7e-a6d7-b82074e3c8aa}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -252,10 +255,18 @@
     <ClCompile Include="9.cpp">
       <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
     </ClCompile>
+    <ClCompile Include="L7 T1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
       <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="temperature.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
