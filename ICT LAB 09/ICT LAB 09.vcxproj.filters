@@ -61,6 +61,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 7">
       <UniqueIdentifier>{54b365ee-5f3d-4b7e-a6d7-b82074e3c8aa}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA">
+      <UniqueIdentifier>{41865604-edb1-4492-8f7d-54a47e5600d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -258,6 +261,21 @@
     <ClCompile Include="L7 T1.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 7</Filter>
     </ClCompile>
+    <ClCompile Include="temperature.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7</Filter>
+    </ClCompile>
+    <ClCompile Include="TemperatureC.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
+    </ClCompile>
+    <ClCompile Include="TemperatureC.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
+    </ClCompile>
+    <ClCompile Include="TemperatureF.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
@@ -265,8 +283,11 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="temperature.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="Temperature.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7</Filter>
+    </ClInclude>
+    <ClInclude Include="TemperatureF.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

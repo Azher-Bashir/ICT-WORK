@@ -189,16 +189,22 @@
     <ClCompile Include="L6 T1 %28Dry run%29.cpp" />
     <ClCompile Include="L6 T6.cpp" />
     <ClCompile Include="L7 T1.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="r4.cpp" />
     <ClCompile Include="L1.cpp" />
+    <ClCompile Include="temperature.cpp" />
+    <ClCompile Include="TemperatureC.cpp" />
+    <ClCompile Include="TemperatureC.h" />
+    <ClCompile Include="TemperatureF.cpp" />
     <ClCompile Include="unexpected.c++.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="temperature.h" />
+    <ClInclude Include="Temperature.h" />
+    <ClInclude Include="TemperatureF.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
