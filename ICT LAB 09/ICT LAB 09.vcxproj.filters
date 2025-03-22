@@ -64,6 +64,12 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA">
       <UniqueIdentifier>{41865604-edb1-4492-8f7d-54a47e5600d3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 7\MY WORKING">
+      <UniqueIdentifier>{1aa02c5b-ae58-402c-afe6-624ab27432cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\UMAIR MIDTERM">
+      <UniqueIdentifier>{4df6fa63-d65c-4565-b17e-4e234acc1e87}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -258,12 +264,6 @@
     <ClCompile Include="9.cpp">
       <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
     </ClCompile>
-    <ClCompile Include="L7 T1.cpp">
-      <Filter>Source Files\SECOND SEMESTER\LAB 7</Filter>
-    </ClCompile>
-    <ClCompile Include="temperature.cpp">
-      <Filter>Source Files\SECOND SEMESTER\LAB 7</Filter>
-    </ClCompile>
     <ClCompile Include="TemperatureC.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
     </ClCompile>
@@ -276,6 +276,33 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
     </ClCompile>
+    <ClCompile Include="EX02.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
+    </ClCompile>
+    <ClCompile Include="EX02 TNP.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
+    </ClCompile>
+    <ClCompile Include="L7 T1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\MY WORKING</Filter>
+    </ClCompile>
+    <ClCompile Include="L7 T2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\MY WORKING</Filter>
+    </ClCompile>
+    <ClCompile Include="temperature.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\MY WORKING</Filter>
+    </ClCompile>
+    <ClCompile Include="Tempmain.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
+    </ClCompile>
+    <ClCompile Include="MAIN1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
+    </ClCompile>
+    <ClCompile Include="M1 Q1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR MIDTERM</Filter>
+    </ClCompile>
+    <ClCompile Include="M1 Q2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR MIDTERM</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
@@ -283,10 +310,13 @@
     </Text>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Temperature.h">
-      <Filter>Source Files\SECOND SEMESTER\LAB 7</Filter>
-    </ClInclude>
     <ClInclude Include="TemperatureF.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
+    </ClInclude>
+    <ClInclude Include="Temperature.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\MY WORKING</Filter>
+    </ClInclude>
+    <ClInclude Include="TempConversion.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
     </ClInclude>
   </ItemGroup>

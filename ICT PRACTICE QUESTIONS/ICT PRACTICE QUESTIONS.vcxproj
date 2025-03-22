@@ -202,6 +202,7 @@
     <ClCompile Include="struct2.cpp" />
     <ClCompile Include="struct3.cpp" />
     <ClCompile Include="STRUCT_23.cpp" />
+    <ClCompile Include="this pointer.cpp" />
     <ClCompile Include="to draw a frame.cpp" />
     <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp" />
   </ItemGroup>
