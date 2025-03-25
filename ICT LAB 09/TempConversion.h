@@ -1,7 +1,7 @@
 //#pragma once
 //// TemperatureConversion.h
-//#ifndef TEMP_CONVERSION_H
-//#define TEMP_CONVERSION_H
+//#ifndef TEMPCONVERSION_H
+//#define TEMPCONVERSION_H
 //
 //class TemperatureC;
 //class TemperatureF;
