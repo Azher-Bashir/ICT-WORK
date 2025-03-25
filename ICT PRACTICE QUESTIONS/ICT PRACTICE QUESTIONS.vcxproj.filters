@@ -282,6 +282,9 @@
     <ClCompile Include="this pointer.cpp">
       <Filter>Source Files\SECOND SEMESTER\CLASSES%28STRT OF OOP%29</Filter>
     </ClCompile>
+    <ClCompile Include="ENCAPSULATION.cpp">
+      <Filter>Source Files\SECOND SEMESTER\CLASSES%28STRT OF OOP%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">

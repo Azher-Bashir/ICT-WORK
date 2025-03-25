@@ -144,6 +144,7 @@
     <ClCompile Include="COMPARISON B\W STRUCT AND CLASS.cpp" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
     <ClCompile Include="dry run.cpp" />
+    <ClCompile Include="ENCAPSULATION.cpp" />
     <ClCompile Include="Encryption key.cpp" />
     <ClCompile Include="encryption.cpp" />
     <ClCompile Include="FileName.cpp" />
