@@ -210,7 +210,7 @@
     <Text Include="test.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Temperature.h" />
+    <ClInclude Include="Temperature1.h" />
     <ClInclude Include="TemperatureF.h" />
     <ClInclude Include="TempConversion.h" />
   </ItemGroup>

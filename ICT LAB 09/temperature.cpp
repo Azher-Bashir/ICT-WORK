@@ -1,4 +1,4 @@
-//#include "temperature.h"
+//#include "temperature1.h"
 //
 //TemperatureF::TemperatureF() {
 //    f = 0;
