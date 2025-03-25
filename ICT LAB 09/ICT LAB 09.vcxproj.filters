@@ -313,11 +313,11 @@
     <ClInclude Include="TemperatureF.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
     </ClInclude>
-    <ClInclude Include="Temperature.h">
-      <Filter>Source Files\SECOND SEMESTER\LAB 7\MY WORKING</Filter>
-    </ClInclude>
     <ClInclude Include="TempConversion.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 7\HUSSNAIN &amp; TALHA</Filter>
+    </ClInclude>
+    <ClInclude Include="Temperature1.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 7\MY WORKING</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
