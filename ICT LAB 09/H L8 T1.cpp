@@ -115,24 +115,24 @@
 //    int choice1 = 0, choice2 = 0, capacity, size;
 //    double price, discount;
 //    string manufacturer, color, author, name;
-//    cout << "\n************* WELCOME TO ONLINE SHOP****************** \n";
-//    cout << "\nPress 1 for Electronics." << "\nPress 2 for Books\n";
+//    cout << endl << "_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-WELCOME TO THE ONLINE SHOP_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_- " << endl;
+//    cout << endl << "Press 1 for Electronics." << endl << "Press 2 for Books" << endl;
 //
 //    cin >> choice1;
 //    if (choice1 == 1) {
-//        cout << "\nPress 1 for MP3Players." << "\nPress 2 for TV\n";
+//        cout << endl << "Press 1 for MP3Players." << endl << "Press 2 for TV" << endl;
 //        cin >> choice2;
 //        if (choice2 == 1) {
-//            cout << "\nSet Attributes\n";
+//            cout << endl << "Set Attributes" << endl;
 //            cout << "Price: ";
 //            cin >> price;
-//            cout << "\nDiscount in% : ";
+//            cout << endl << "Discount in% : ";
 //            cin >> discount;
-//            cout << "\nManufacturer: ";
+//            cout << endl << "Manufacturer: ";
 //            cin >> manufacturer;
-//            cout << "\nColor: ";
+//            cout << endl << "Color: ";
 //            cin >> color;
-//            cout << "\nCapacity in GB : ";
+//            cout << endl << "Capacity in GB : ";
 //            cin >> capacity;
 //            mp3 m1(price, discount, manufacturer, capacity, color);
 //            if (m1.get_capacity() == 1)
@@ -142,36 +142,36 @@
 //            cout << "Sale Price: " << m1.sale_price() << endl;
 //        }
 //        else if (choice2 == 2) {
-//            cout << "\nSet Attributes\n";
+//            cout << endl << "Set Attributes" << endl;
 //            cout << "Price: ";
 //            cin >> price;
-//            cout << "\nDiscount in% : ";
+//            cout << endl << "Discount in% : ";
 //            cin >> discount;
-//            cout << "\nManufacturer: ";
+//            cout << endl << "Manufacturer: ";
 //            cin >> manufacturer;
-//            cout << "\nSize: ";
+//            cout << endl << "Size: ";
 //            cin >> size;
 //            tv t1(price, discount, manufacturer, size);
 //            cout << "Sale Price: " << t1.sale_price() << endl;
 //        }
 //        else
-//            cout << "\nInvalid value... try again later";
+//            cout << endl << "Invalid value... try again later";
 //    }
 //    else if (choice1 == 2) {
-//        cout << "\nSet Attributes\n";
+//        cout << endl << "Set Attributes" << endl;
 //        cout << "Price: ";
 //        cin >> price;
-//        cout << "\nDiscount in% : ";
+//        cout << endl << "Discount in% : ";
 //        cin >> discount;
-//        cout << "\nAuthor: ";
+//        cout << endl << "Author: ";
 //        cin >> author;
-//        cout << "\nName: ";
+//        cout << endl << "Name: ";
 //        cin >> name;
 //        book b1(price, discount, author, name);
 //        cout << "Sale Price: " << b1.sale_price() << endl;
 //    }
 //    else
-//        cout << "\nInvalid value... try again later";
+//        cout << endl << "Invalid value... try again later";
 //
 //    return 0;
 //}
