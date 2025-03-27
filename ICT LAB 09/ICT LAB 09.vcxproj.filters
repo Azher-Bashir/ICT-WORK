@@ -70,6 +70,12 @@
     <Filter Include="Source Files\SECOND SEMESTER\UMAIR MIDTERM">
       <UniqueIdentifier>{4df6fa63-d65c-4565-b17e-4e234acc1e87}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 8">
+      <UniqueIdentifier>{c8dff827-42e3-4ea7-a1fd-8ebcbd2a579a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 8\hussnian">
+      <UniqueIdentifier>{0daed1b1-334f-4404-a0d1-ea476ad6903f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -302,6 +308,18 @@
     </ClCompile>
     <ClCompile Include="M1 Q2.cpp">
       <Filter>Source Files\SECOND SEMESTER\UMAIR MIDTERM</Filter>
+    </ClCompile>
+    <ClCompile Include="L8 T1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 8</Filter>
+    </ClCompile>
+    <ClCompile Include="L8 T2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 8</Filter>
+    </ClCompile>
+    <ClCompile Include="H L8 T1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 8\hussnian</Filter>
+    </ClCompile>
+    <ClCompile Include="H L8 T2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 8\hussnian</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

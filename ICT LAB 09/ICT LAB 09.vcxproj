@@ -156,6 +156,8 @@
     <ClCompile Include="Exercise - 6 _ bill.cpp" />
     <ClCompile Include="EXERCISE_01_Leap year.cpp" />
     <ClCompile Include="code 1 re.cpp" />
+    <ClCompile Include="H L8 T1.cpp" />
+    <ClCompile Include="H L8 T2.cpp" />
     <ClCompile Include="L1 Task1.cpp" />
     <ClCompile Include="L1 Task4.cpp" />
     <ClCompile Include="L11 TASK 2.cpp" />
@@ -192,6 +194,8 @@
     <ClCompile Include="L6 T6.cpp" />
     <ClCompile Include="L7 T1.cpp" />
     <ClCompile Include="L7 T2.cpp" />
+    <ClCompile Include="L8 T1.cpp" />
+    <ClCompile Include="L8 T2.cpp" />
     <ClCompile Include="M1 Q1.cpp" />
     <ClCompile Include="M1 Q2.cpp" />
     <ClCompile Include="main.cpp" />
