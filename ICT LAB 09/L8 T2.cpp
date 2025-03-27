@@ -85,9 +85,25 @@
 //
 //int main()
 //{
-//    rectangle rect("Red", 4, 5, 6);
+//    string color;
+//    int num_sides;
+//    double length, width;
+//
+//    cout << "Enter the color of the rectangle: ";
+//    cin >> color;
+//    cout << "Enter the number of sides of the rectangle: ";
+//    cin >> num_sides;
+//    cout << "Enter the length of the rectangle: ";
+//    cin >> length;
+//    cout << "Enter the width of the rectangle: ";
+//    cin >> width;
+//
+//    rectangle rect(color, num_sides, length, width);
 //    cout << "Color: " << rect.get_color() << endl;
 //    cout << "Number of Sides: " << rect.get_sides() << endl;
+//    cout << "Length: " << length << endl;
+//    cout << "Width: " << width << endl;
 //    cout << "Area: " << rect.calculate_area() << endl;
+//
 //    return 0;
 //}
