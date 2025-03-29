@@ -133,6 +133,8 @@
     <ClCompile Include="03.cpp" />
     <ClCompile Include="04.cpp" />
     <ClCompile Include="05.cpp" />
+    <ClCompile Include="ENCAPSULATION.cpp" />
+    <ClCompile Include="EXAMPLE.cpp" />
     <ClCompile Include="question1.cpp" />
     <ClCompile Include="question2.cpp" />
     <ClCompile Include="question3.cpp" />
@@ -169,6 +171,8 @@
     <ClCompile Include="QUESTION # 10 _ IDENTIFY THE CHARACTER TYPE.cpp" />
     <ClCompile Include="S2 A1 Q2.cpp" />
     <ClCompile Include="S2 A1 Q5.cpp" />
+    <ClCompile Include="S2 A2 Q1%28copilot%29.cpp" />
+    <ClCompile Include="S2 A2 Q1.cpp" />
     <ClCompile Include="Umair Assignment 1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

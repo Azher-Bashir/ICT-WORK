@@ -37,6 +37,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 01\Anas">
       <UniqueIdentifier>{5c2d254e-e129-4dfa-95c1-f3493302f8cd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02">
+      <UniqueIdentifier>{c8b9708c-0efd-49cd-9a4e-313ba6c9087a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -164,6 +167,18 @@
     </ClCompile>
     <ClCompile Include="05.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Hussnian</Filter>
+    </ClCompile>
+    <ClCompile Include="S2 A2 Q1%28copilot%29.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
+    </ClCompile>
+    <ClCompile Include="S2 A2 Q1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
+    </ClCompile>
+    <ClCompile Include="EXAMPLE.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
+    </ClCompile>
+    <ClCompile Include="ENCAPSULATION.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
