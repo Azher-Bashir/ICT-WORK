@@ -19,9 +19,20 @@ public:
 	int get_rows();
 	int get_cols();
 	int** sparse(int, int);
+	void get_nonZero(int*);
+	void get_sparse_rep(int**);
+
 	void print_matrix();
 };
 
+void sparse_matrix::get_nonZero(int* nonZeroEntries)
+{
+	non_zero = nonZeroEntries;
+}
+void sparse_matrix::get_sparse_rep(int** sparseRep)
+{
+	sparse_rep = sparseRep;
+}
 int** sparse_matrix::sparse(int r, int c)
 {
 	rows = r;
