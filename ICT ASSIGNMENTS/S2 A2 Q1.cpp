@@ -25,13 +25,26 @@ public:
 	void print_matrix();
 };
 
+sparse_matrix::sparse_matrix()
+{
+	rows = 0;
+	cols = 0;
+	non_zero = 0;
+}
+sparse_matrix::sparse_matrix(int r, int c)
+{
+	cols = c;
+	rows = r;
+
+	matrix = new int* [rows];
+	for (int i = 0; i < rows; i++)
+	{
+		matrix[i] = new int[cols];
+	}
+}
 void sparse_matrix::get_nonZero(int* nonZeroEntries)
 {
 	non_zero = nonZeroEntries;
-}
-void sparse_matrix::get_sparse_rep(int** sparseRep)
-{
-	sparse_rep = sparseRep;
 }
 int** sparse_matrix::sparse(int r, int c)
 {
@@ -43,24 +56,13 @@ int** sparse_matrix::sparse(int r, int c)
 	{
 		sparse_rep[i] = new int[3 * non_zero[i]];
 	}
+	return sparse_rep;
 }
-sparse_matrix::sparse_matrix()
+void sparse_matrix::get_sparse_rep(int** sparseRep)
 {
-	rows = 0;
-	cols = 0;
-	non_zero = 0;
+	sparse_rep = sparseRep;
 }
-sparse_matrix::sparse_matrix(int r, int c)
-{
-	this->rows = r;
-	this->cols = c;
 
-	matrix = new int* [rows];
-	for (int i = 0; i < rows; i++)
-	{
-		matrix[i] = new int[cols];
-	}
-}
 void sparse_matrix::set_rows(int rows)
 {
 	this->rows = rows;
