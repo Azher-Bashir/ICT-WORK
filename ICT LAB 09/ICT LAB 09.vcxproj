@@ -146,7 +146,7 @@
     <ClCompile Include="code1.cpp" />
     <ClCompile Include="code2.cpp" />
     <ClCompile Include="code3.cpp" />
-    <ClCompile Include="English.h.cpp" />
+    <ClCompile Include="English.cpp" />
     <ClCompile Include="EX02 TNP.cpp" />
     <ClCompile Include="EX02.cpp" />
     <ClCompile Include="Exercise - 1 _ Right angle triangle.cpp" />
@@ -159,6 +159,7 @@
     <ClCompile Include="code 1 re.cpp" />
     <ClCompile Include="H L8 T1.cpp" />
     <ClCompile Include="H L8 T2.cpp" />
+    <ClCompile Include="History.cpp" />
     <ClCompile Include="L1 Task1.cpp" />
     <ClCompile Include="L1 Task4.cpp" />
     <ClCompile Include="L11 TASK 2.cpp" />
@@ -202,6 +203,7 @@
     <ClCompile Include="M1 Q2.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MAIN1.cpp" />
+    <ClCompile Include="Math.cpp" />
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="r4.cpp" />
     <ClCompile Include="L1.cpp" />

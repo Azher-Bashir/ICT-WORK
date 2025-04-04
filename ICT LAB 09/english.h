@@ -5,9 +5,9 @@
 class english_marks:public student
 {
 private:
-	double attendence, projecct, midterm, final_exam;
+	double attendance, project, midterm, final_exam;
 public:
-	english_marks(string, string, string, double, double, double, double);
+	english_marks(string, string, double, double, double, double);
 	double English_grade() const;
 };
 #endif

@@ -324,13 +324,19 @@
     <ClCompile Include="H L8 T2.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 8\hussnian</Filter>
     </ClCompile>
-    <ClCompile Include="L9 T1%28main%29.cpp">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClCompile>
     <ClCompile Include="Student.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
     </ClCompile>
-    <ClCompile Include="English.h.cpp">
+    <ClCompile Include="Math.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClCompile>
+    <ClCompile Include="English.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClCompile>
+    <ClCompile Include="History.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClCompile>
+    <ClCompile Include="L9 T1%28main%29.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
     </ClCompile>
   </ItemGroup>
