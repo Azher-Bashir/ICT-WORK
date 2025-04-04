@@ -3,6 +3,7 @@
 #include "english.h"
 #include "history.h"
 #include "math.h"
+using namespace std;
 
 int main() {
     StudentManager manager;
@@ -13,7 +14,7 @@ int main() {
     // Generate report
     manager.return_report("result.txt");
 
-    std::cout << "Student data imported and report generated successfully." << std::endl;
+    cout << "Student data imported and report generated successfully." << endl;
 
     return 0;
 }

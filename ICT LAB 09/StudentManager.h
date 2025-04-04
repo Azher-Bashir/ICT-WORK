@@ -4,6 +4,8 @@
 
 #include "student.h"
 
+using namespace std;
+
 class StudentManager {
 private:
     student** students;
