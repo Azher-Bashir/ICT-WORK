@@ -146,6 +146,7 @@
     <ClCompile Include="code1.cpp" />
     <ClCompile Include="code2.cpp" />
     <ClCompile Include="code3.cpp" />
+    <ClCompile Include="English.h.cpp" />
     <ClCompile Include="EX02 TNP.cpp" />
     <ClCompile Include="EX02.cpp" />
     <ClCompile Include="Exercise - 1 _ Right angle triangle.cpp" />
@@ -196,6 +197,7 @@
     <ClCompile Include="L7 T2.cpp" />
     <ClCompile Include="L8 T1.cpp" />
     <ClCompile Include="L8 T2.cpp" />
+    <ClCompile Include="L9 T1%28main%29.cpp" />
     <ClCompile Include="M1 Q1.cpp" />
     <ClCompile Include="M1 Q2.cpp" />
     <ClCompile Include="main.cpp" />
@@ -203,6 +205,7 @@
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="r4.cpp" />
     <ClCompile Include="L1.cpp" />
+    <ClCompile Include="Student.cpp" />
     <ClCompile Include="temperature.cpp" />
     <ClCompile Include="TemperatureC.cpp" />
     <ClCompile Include="TemperatureC.h" />
@@ -211,9 +214,15 @@
     <ClCompile Include="unexpected.c++.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="result.txt" />
+    <Text Include="Student.txt" />
     <Text Include="test.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="english.h" />
+    <ClInclude Include="history.h" />
+    <ClInclude Include="math.h" />
+    <ClInclude Include="student.h" />
     <ClInclude Include="Temperature1.h" />
     <ClInclude Include="TemperatureF.h" />
     <ClInclude Include="TempConversion.h" />

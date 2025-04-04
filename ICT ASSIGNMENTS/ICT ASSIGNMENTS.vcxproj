@@ -133,6 +133,7 @@
     <ClCompile Include="03.cpp" />
     <ClCompile Include="04.cpp" />
     <ClCompile Include="05.cpp" />
+    <ClCompile Include="A2 Q1.cpp" />
     <ClCompile Include="ENCAPSULATION.cpp" />
     <ClCompile Include="EXAMPLE.cpp" />
     <ClCompile Include="question1.cpp" />

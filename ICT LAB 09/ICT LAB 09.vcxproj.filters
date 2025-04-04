@@ -76,6 +76,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 8\hussnian">
       <UniqueIdentifier>{0daed1b1-334f-4404-a0d1-ea476ad6903f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 9 %28OEL%29">
+      <UniqueIdentifier>{2af86b20-7a02-4b2d-bab8-ad26d4e298c4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -321,10 +324,25 @@
     <ClCompile Include="H L8 T2.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 8\hussnian</Filter>
     </ClCompile>
+    <ClCompile Include="L9 T1%28main%29.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClCompile>
+    <ClCompile Include="English.h.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
       <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
+    </Text>
+    <Text Include="Student.txt">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </Text>
+    <Text Include="result.txt">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
@@ -336,6 +354,18 @@
     </ClInclude>
     <ClInclude Include="Temperature1.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 7\MY WORKING</Filter>
+    </ClInclude>
+    <ClInclude Include="student.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClInclude>
+    <ClInclude Include="english.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClInclude>
+    <ClInclude Include="history.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClInclude>
+    <ClInclude Include="math.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

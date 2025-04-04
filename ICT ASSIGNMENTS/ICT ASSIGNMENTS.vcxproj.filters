@@ -180,5 +180,8 @@
     <ClCompile Include="ENCAPSULATION.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
     </ClCompile>
+    <ClCompile Include="A2 Q1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
