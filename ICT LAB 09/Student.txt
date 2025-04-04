@@ -1,0 +1,6 @@
+John Doe English 90 85 88 92
+Jane Smith History 78 82 89
+Alice Johnson Math 85 90 88 92 87 93
+Bob Brown English 80 75 78 82
+Charlie Davis History 88 85 90
+Diana Evans Math 92 95 90 88 85 91

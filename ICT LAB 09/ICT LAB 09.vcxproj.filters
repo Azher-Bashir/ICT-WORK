@@ -339,6 +339,9 @@
     <ClCompile Include="L9 T1%28main%29.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
     </ClCompile>
+    <ClCompile Include="StudentManager.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
@@ -371,6 +374,9 @@
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
     </ClInclude>
     <ClInclude Include="math.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentManager.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
     </ClInclude>
   </ItemGroup>

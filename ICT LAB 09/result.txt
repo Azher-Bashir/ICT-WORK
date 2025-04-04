@@ -1,0 +1,6 @@
+John Doe - English - Final Grade: 88.5
+Jane Smith - History - Final Grade: 83.8
+Alice Johnson - Math - Final Grade: 90.7167
+Bob Brown - English - Final Grade: 78.5
+Charlie Davis - History - Final Grade: 87.75
+Diana Evans - Math - Final Grade: 88.8833

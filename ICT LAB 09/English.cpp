@@ -1,10 +1,8 @@
-#include <iostream>
-#include "student.h"
 #include "english.h"
+#include <iostream>
 
-english_marks::english_marks(string firstName, string lastName, double att, double proj, double mid, double finalEx):student(firstName, lastName, "English"), attendance(att), project(proj), midterm(mid), final_exam(finalEx) 
-{
-
+english_marks::english_marks(string fName, string lName, double att, double proj, double mid, double finalEx)
+    : student(fName, lName, "English"), attendance(att), project(proj), midterm(mid), final_exam(finalEx) {
 }
 
 double english_marks::English_grade() const {
