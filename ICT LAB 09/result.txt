@@ -1,6 +1,10 @@
-Azher Bashir - English - Final Grade: 88.5
-Waleed Naeem - English - Final Grade: 78.5
-Umair Amjad - History - Final Grade: 87.75
-Hussanin Tahir - History - Final Grade: 83.8
-Muhammad Bin - Math - Final Grade: 90.7167
-Villana  - Math - Final Grade: 88.8833
++----------------------+----------+---------------+
+| Name                 | Course   | Final Grade   |
++----------------------+----------+---------------+
+| Azher Bashir         | English  | 88.5          |
+| Waleed Naeem         | English  | 78.5          |
+| Umair Amjad          | History  | 87.75         |
+| Hussanin Tahir       | History  | 83.8          |
+| Muhammad Bin         | Math     | 90.7167       |
+| Villana              | Math     | 88.8833       |
++----------------------+----------+---------------+

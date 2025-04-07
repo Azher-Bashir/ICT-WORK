@@ -79,6 +79,12 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 9 %28OEL%29">
       <UniqueIdentifier>{2af86b20-7a02-4b2d-bab8-ad26d4e298c4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN">
+      <UniqueIdentifier>{a02d1129-d652-4104-a691-85327122928e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\abdullah javaid">
+      <UniqueIdentifier>{0fdda95f-608c-44d7-92f3-0b10dbdebe12}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -342,6 +348,12 @@
     <ClCompile Include="StudentManager.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
     </ClCompile>
+    <ClCompile Include="lmain.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN</Filter>
+    </ClCompile>
+    <ClCompile Include="lsource.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
@@ -352,6 +364,12 @@
     </Text>
     <Text Include="result.txt">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </Text>
+    <Text Include="students.txt">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN</Filter>
+    </Text>
+    <Text Include="results.txt">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
@@ -378,6 +396,9 @@
     </ClInclude>
     <ClInclude Include="StudentManager.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
+    </ClInclude>
+    <ClInclude Include="lheader.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

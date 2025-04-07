@@ -1,21 +1,18 @@
-//#pragma once
 //#ifndef STUDENT_H
 //#define STUDENT_H
-//#include <iostream>
+//
 //#include <string>
 //using namespace std;
 //
-//class student
-//{
-//private:
+//class student {
+//protected:
 //    string f_name, l_name, course;
 //public:
-//    student();
-//    student(string, string, string);
-//    void set_name(string, string);
-//    void set_course(string);
-//    string get_full_name();
-//    string get_course();
-//    void print_info();
+//    student(string fName, string lName, string course) : f_name(fName), l_name(lName), course(course) {}
+//    virtual ~student() {}
+//    string get_full_name() const { return f_name + " " + l_name; }
+//    string get_course() const { return course; }
+//    virtual double get_grade() const = 0; // Pure virtual function
 //};
-//#endif
+//
+//#endif // STUDENT_H
