@@ -40,6 +40,18 @@
     <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02">
       <UniqueIdentifier>{c8b9708c-0efd-49cd-9a4e-313ba6c9087a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02\HUSSNIAN">
+      <UniqueIdentifier>{ef58750d-e36c-4112-9566-f2883855daf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02\villana">
+      <UniqueIdentifier>{e0b40e54-4663-4865-b412-3a8e7a23da36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02\muhammad">
+      <UniqueIdentifier>{398c25c5-c03b-4f5f-b223-6767ad9f1b31}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02\FAIZAN">
+      <UniqueIdentifier>{885112ca-f9da-401f-b652-44d091988120}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -171,7 +183,7 @@
     <ClCompile Include="S2 A2 Q1%28copilot%29.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
     </ClCompile>
-    <ClCompile Include="S2 A2 Q1.cpp">
+    <ClCompile Include="A2  Q1.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
     </ClCompile>
     <ClCompile Include="EXAMPLE.cpp">
@@ -180,8 +192,55 @@
     <ClCompile Include="ENCAPSULATION.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
     </ClCompile>
-    <ClCompile Include="A2 Q1.cpp">
+    <ClCompile Include="sparse_matrix.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
     </ClCompile>
+    <ClCompile Include="HUSSNAIN ASSIGNMENT2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
+    </ClCompile>
+    <ClCompile Include="functions main.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\HUSSNIAN</Filter>
+    </ClCompile>
+    <ClCompile Include="function.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\HUSSNIAN</Filter>
+    </ClCompile>
+    <ClCompile Include="6028.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\villana</Filter>
+    </ClCompile>
+    <ClCompile Include="6028 main.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\villana</Filter>
+    </ClCompile>
+    <ClCompile Include="code.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\muhammad</Filter>
+    </ClCompile>
+    <ClCompile Include="declare.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\muhammad</Filter>
+    </ClCompile>
+    <ClCompile Include="faiz.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\FAIZAN</Filter>
+    </ClCompile>
+    <ClCompile Include="fdeclare.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\FAIZAN</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="sparse_matrix.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
+    </ClInclude>
+    <ClInclude Include="FUNCTIONS.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\HUSSNIAN</Filter>
+    </ClInclude>
+    <ClInclude Include="PF_Assigment.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\villana</Filter>
+    </ClInclude>
+    <ClInclude Include="sparse.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\muhammad</Filter>
+    </ClInclude>
+    <ClInclude Include="fdeclare.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\FAIZAN</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
