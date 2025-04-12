@@ -46,6 +46,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\RAFAY ALI KHAN">
       <UniqueIdentifier>{c8895256-d5b3-483f-8586-f661743690da}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\S2 M2 PRACTICE">
+      <UniqueIdentifier>{073b1ee8-1e43-4ee6-ad14-6f5f08932ced}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -287,6 +290,15 @@
     </ClCompile>
     <ClCompile Include="COMPOSITION.cpp">
       <Filter>Source Files\SECOND SEMESTER\CLASSES%28STRT OF OOP%29</Filter>
+    </ClCompile>
+    <ClCompile Include="01.cpp">
+      <Filter>Source Files\SECOND SEMESTER\S2 M2 PRACTICE</Filter>
+    </ClCompile>
+    <ClCompile Include="02.cpp">
+      <Filter>Source Files\SECOND SEMESTER\S2 M2 PRACTICE</Filter>
+    </ClCompile>
+    <ClCompile Include="03.cpp">
+      <Filter>Source Files\SECOND SEMESTER\S2 M2 PRACTICE</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

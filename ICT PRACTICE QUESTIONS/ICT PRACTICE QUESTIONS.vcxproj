@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="01.cpp" />
+    <ClCompile Include="02.cpp" />
+    <ClCompile Include="03.cpp" />
     <ClCompile Include="23.cpp" />
     <ClCompile Include="Armstrong number..cpp" />
     <ClCompile Include="ARRAYS.cpp" />

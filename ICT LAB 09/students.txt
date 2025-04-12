@@ -1,6 +1,5 @@
-Azher Bashir English 90 85 80 88
-Waleed Naeem English 75 70 80 79
-Umair Amjad History 85 80 90
+awais sajid English 75 70 80 79
+jodut Amjad History 85 80 90
 Hussanin Tahir History 80 85 90
-Muhammad Bin Math 85 90 88 92 95 90
+Muhammad Math 85 90 88 92 95 90
 

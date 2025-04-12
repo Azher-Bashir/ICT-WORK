@@ -1,5 +1,6 @@
-Azher Bashir - English - Final Grade: 84.9 - A
-Waleed Naeem - English - Final Grade: 76.2 - A
-Umair Amjad - History - Final Grade: 85.25 - A
-Hussanin Tahir - History - Final Grade: 85.75 - A
-Muhammad Bin - Math - Final Grade: 89.8 - A
+First Name     Last Name      Course    Grade     
+--------------------------------------------------
+awais          sajid		  English   76.20     
+jodut          Amjad          History   85.50     
+Hussanin       Tahir          History   85.50     
+Muhammad                      Math      91.40     

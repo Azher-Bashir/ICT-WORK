@@ -82,7 +82,10 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN">
       <UniqueIdentifier>{a02d1129-d652-4104-a691-85327122928e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\abdullah javaid">
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH">
+      <UniqueIdentifier>{a22ef5e7-557c-443a-a077-8c2516c91b45}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD">
       <UniqueIdentifier>{0fdda95f-608c-44d7-92f3-0b10dbdebe12}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -330,46 +333,61 @@
     <ClCompile Include="H L8 T2.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 8\hussnian</Filter>
     </ClCompile>
-    <ClCompile Include="Student.cpp">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClCompile>
-    <ClCompile Include="Math.cpp">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClCompile>
-    <ClCompile Include="English.cpp">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClCompile>
-    <ClCompile Include="History.cpp">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClCompile>
-    <ClCompile Include="L9 T1%28main%29.cpp">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClCompile>
-    <ClCompile Include="StudentManager.cpp">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClCompile>
     <ClCompile Include="lmain.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN</Filter>
     </ClCompile>
     <ClCompile Include="lsource.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN</Filter>
     </ClCompile>
+    <ClCompile Include="English.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClCompile>
+    <ClCompile Include="History.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClCompile>
+    <ClCompile Include="L9 T1%28main%29.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentManager.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClCompile>
+    <ClCompile Include="student1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD</Filter>
+    </ClCompile>
+    <ClCompile Include="manager.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD</Filter>
+    </ClCompile>
+    <ClCompile Include="main2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
       <Filter>Source Files\SECOND SEMESTER\LAB 3</Filter>
-    </Text>
-    <Text Include="Student.txt">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </Text>
-    <Text Include="result.txt">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
     </Text>
     <Text Include="students.txt">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN</Filter>
     </Text>
     <Text Include="results.txt">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN</Filter>
+    </Text>
+    <Text Include="result.txt">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </Text>
+    <Text Include="Student.txt">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </Text>
+    <Text Include="students1.txt">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD</Filter>
+    </Text>
+    <Text Include="results2.txt">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
@@ -382,23 +400,29 @@
     <ClInclude Include="Temperature1.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 7\MY WORKING</Filter>
     </ClInclude>
-    <ClInclude Include="student.h">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClInclude>
-    <ClInclude Include="english.h">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClInclude>
-    <ClInclude Include="history.h">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClInclude>
-    <ClInclude Include="math.h">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClInclude>
-    <ClInclude Include="StudentManager.h">
-      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29</Filter>
-    </ClInclude>
     <ClInclude Include="lheader.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\USMAN</Filter>
+    </ClInclude>
+    <ClInclude Include="english.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClInclude>
+    <ClInclude Include="history.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClInclude>
+    <ClInclude Include="math.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClInclude>
+    <ClInclude Include="student.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentManager.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\TRASH</Filter>
+    </ClInclude>
+    <ClInclude Include="student1.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD</Filter>
+    </ClInclude>
+    <ClInclude Include="manager.h">
+      <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

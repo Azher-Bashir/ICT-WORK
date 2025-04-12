@@ -205,11 +205,14 @@
     <ClCompile Include="M1 Q2.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="MAIN1.cpp" />
+    <ClCompile Include="main2.cpp" />
+    <ClCompile Include="manager.cpp" />
     <ClCompile Include="Math.cpp" />
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="r4.cpp" />
     <ClCompile Include="L1.cpp" />
     <ClCompile Include="Student.cpp" />
+    <ClCompile Include="student1.cpp" />
     <ClCompile Include="StudentManager.cpp" />
     <ClCompile Include="temperature.cpp" />
     <ClCompile Include="TemperatureC.cpp" />
@@ -221,16 +224,20 @@
   <ItemGroup>
     <Text Include="result.txt" />
     <Text Include="results.txt" />
+    <Text Include="results2.txt" />
     <Text Include="Student.txt" />
     <Text Include="students.txt" />
+    <Text Include="students1.txt" />
     <Text Include="test.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="english.h" />
     <ClInclude Include="history.h" />
     <ClInclude Include="lheader.h" />
+    <ClInclude Include="manager.h" />
     <ClInclude Include="math.h" />
     <ClInclude Include="student.h" />
+    <ClInclude Include="student1.h" />
     <ClInclude Include="StudentManager.h" />
     <ClInclude Include="Temperature1.h" />
     <ClInclude Include="TemperatureF.h" />
