@@ -300,6 +300,9 @@
     <ClCompile Include="03.cpp">
       <Filter>Source Files\SECOND SEMESTER\S2 M2 PRACTICE</Filter>
     </ClCompile>
+    <ClCompile Include="CONSTRUXCTOR exp.cpp">
+      <Filter>Source Files\SECOND SEMESTER\S2 M2 PRACTICE</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">

@@ -146,6 +146,7 @@
     <ClCompile Include="code005.cpp" />
     <ClCompile Include="COMPARISON B\W STRUCT AND CLASS.cpp" />
     <ClCompile Include="COMPOSITION.cpp" />
+    <ClCompile Include="CONSTRUXCTOR exp.cpp" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
     <ClCompile Include="dry run.cpp" />
     <ClCompile Include="ENCAPSULATION.cpp" />
