@@ -88,6 +88,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD">
       <UniqueIdentifier>{0fdda95f-608c-44d7-92f3-0b10dbdebe12}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 10">
+      <UniqueIdentifier>{5f95c3af-f178-4d3e-affd-5c9a3df3b7c1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -365,6 +368,9 @@
     </ClCompile>
     <ClCompile Include="main2.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD</Filter>
+    </ClCompile>
+    <ClCompile Include="S2 L10 T1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

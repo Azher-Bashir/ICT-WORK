@@ -29,6 +29,7 @@
 //    string fName, lName, course;
 //    double g1, g2, g3, g4, g5, g6;
 //
+//    // Count the number of lines
 //    int count = 0;
 //    string temp;
 //    while (getline(file, temp))
@@ -36,41 +37,67 @@
 //    file.clear();
 //    file.seekg(0);
 //
+//    // Allocate memory for students
 //    students = new student * [count];
 //    studentCount = count;
 //    int index = 0;
 //
+//    // Only add condition for missing last name
 //    while (file >> fName) {
-//        lName = "";
-//        course = "";
-//        file >> lName;
-//
+//        if (!(file >> lName)) {
+//            // If we can't read the second token, stop
+//            break;
+//        }
+//        // Check if the second token is actually the course
 //        if (lName == "English" || lName == "History" || lName == "Math") {
 //            course = lName;
 //            lName = "";
 //        }
 //        else {
-//            file >> course;
+//            // Otherwise, read the next token as course
+//            if (!(file >> course)) {
+//                cout << "Error reading course for student: " << fName << endl;
+//                continue;
+//            }
 //        }
 //
 //        g1 = g2 = g3 = g4 = g5 = g6 = 0;
 //
 //        if (course == "English") {
-//            file >> g1 >> g2 >> g3 >> g4;
+//            if (!(file >> g1 >> g2 >> g3 >> g4)) {
+//                cout << "Error reading grades for English: " << fName << endl;
+//                continue;
+//            }
 //            students[index] = new english_marks(fName, lName, g1, g2, g3, g4);
 //        }
 //        else if (course == "History") {
-//            file >> g1 >> g2 >> g3;
+//            if (!(file >> g1 >> g2 >> g3)) {
+//                cout << "Error reading grades for History: " << fName << endl;
+//                continue;
+//            }
 //            students[index] = new history_marks(fName, lName, g1, g2, g3);
 //        }
 //        else if (course == "Math") {
-//            file >> g1 >> g2 >> g3 >> g4 >> g5 >> g6;
+//            if (!(file >> g1 >> g2 >> g3 >> g4 >> g5 >> g6)) {
+//                cout << "Error reading grades for Math: " << fName << endl;
+//                continue;
+//            }
 //            students[index] = new math_marks(fName, lName, g1, g2, g3, g4, g5, g6);
+//        }
+//        else {
+//            cout << "Unrecognized course: " << course
+//                << " for student: " << fName << " " << lName << endl;
+//            continue;
 //        }
 //        index++;
 //    }
+//
+//    // Update student count
+//    studentCount = index;
 //    file.close();
 //}
+//
+//
 //
 //void StudentManager::return_report(const string& filename) {
 //    ofstream outFile(filename);

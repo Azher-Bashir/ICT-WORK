@@ -1,10 +1,10 @@
 +----------------------+----------+---------------+
 | Name                 | Course   | Final Grade   |
 +----------------------+----------+---------------+
-| Azher Bashir         | English  | 88.5          |
+| Azher Bashir         | Math     | 84.4167       |
 | Waleed Naeem         | English  | 78.5          |
 | Umair Amjad          | History  | 87.75         |
-| Hussanin Tahir       | History  | 83.8          |
+| Hussanin Tahir       | English  | 59.1          |
 | Muhammad Bin         | Math     | 90.7167       |
 | Villana              | Math     | 88.8833       |
 +----------------------+----------+---------------+

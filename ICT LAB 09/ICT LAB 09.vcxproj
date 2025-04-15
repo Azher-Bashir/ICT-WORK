@@ -211,6 +211,7 @@
     <ClCompile Include="practice.cpp" />
     <ClCompile Include="r4.cpp" />
     <ClCompile Include="L1.cpp" />
+    <ClCompile Include="S2 L10 T1.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="student1.cpp" />
     <ClCompile Include="StudentManager.cpp" />
