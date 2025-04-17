@@ -52,6 +52,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02\FAIZAN">
       <UniqueIdentifier>{885112ca-f9da-401f-b652-44d091988120}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 03">
+      <UniqueIdentifier>{927dfc49-88b5-40dd-aea7-7a8e5a7d7cec}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -224,6 +227,9 @@
     </ClCompile>
     <ClCompile Include="fdeclare.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\FAIZAN</Filter>
+    </ClCompile>
+    <ClCompile Include="Show room.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

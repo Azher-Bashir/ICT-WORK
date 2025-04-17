@@ -141,6 +141,7 @@
     <ClCompile Include="fdeclare.cpp" />
     <ClCompile Include="function.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Show room.cpp" />
     <ClCompile Include="sparse_matrix.cpp" />
     <ClCompile Include="ENCAPSULATION.cpp" />
     <ClCompile Include="EXAMPLE.cpp" />
