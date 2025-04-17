@@ -133,6 +133,7 @@
     <ClCompile Include="23.cpp" />
     <ClCompile Include="Armstrong number..cpp" />
     <ClCompile Include="ARRAYS.cpp" />
+    <ClCompile Include="CALCULATOR WITH DIFFERENT DATA TYPES.cpp" />
     <ClCompile Include="cde 2.cpp" />
     <ClCompile Include="chapter 8 exercise 5.cpp" />
     <ClCompile Include="check if the number is a perfect square or not.cpp" />
