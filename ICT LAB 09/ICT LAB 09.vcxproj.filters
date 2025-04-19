@@ -372,6 +372,18 @@
     <ClCompile Include="S2 L10 T1.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 10</Filter>
     </ClCompile>
+    <ClCompile Include="L6.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="L7.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="L8.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="L9.cpp">
+      <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
