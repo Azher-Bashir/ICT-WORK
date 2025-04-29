@@ -55,6 +55,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 03">
       <UniqueIdentifier>{927dfc49-88b5-40dd-aea7-7a8e5a7d7cec}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02\EXTRA">
+      <UniqueIdentifier>{fa336815-64ff-4838-9d6c-7524d4be9c14}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -183,22 +186,7 @@
     <ClCompile Include="05.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 01\Hussnian</Filter>
     </ClCompile>
-    <ClCompile Include="S2 A2 Q1%28copilot%29.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
-    </ClCompile>
-    <ClCompile Include="A2  Q1.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
-    </ClCompile>
-    <ClCompile Include="EXAMPLE.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
-    </ClCompile>
-    <ClCompile Include="ENCAPSULATION.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
-    </ClCompile>
     <ClCompile Include="sparse_matrix.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
-    </ClCompile>
-    <ClCompile Include="HUSSNAIN ASSIGNMENT2.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
@@ -230,6 +218,21 @@
     </ClCompile>
     <ClCompile Include="Show room.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03</Filter>
+    </ClCompile>
+    <ClCompile Include="EXAMPLE.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="HUSSNAIN ASSIGNMENT2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="S2 A2 Q1%28copilot%29.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="ENCAPSULATION.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="A2  Q1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\EXTRA</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

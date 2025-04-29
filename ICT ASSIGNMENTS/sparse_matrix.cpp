@@ -1030,8 +1030,10 @@
 //    }
 //
 //    int* current_index = new int[cols]();
-//    for (int i = 0; i < rows; i++) {
-//        for (int j = 1; j < 2 * non_zero[i] + 1; j += 2) {
+//    for (int i = 0; i < rows; i++) 
+//    {
+//        for (int j = 1; j < 2 * non_zero[i] + 1; j += 2) 
+//        {
 //            int col = sparse_rep[i][j];
 //            int value = sparse_rep[i][j + 1];
 //            int index = current_index[col] * 2 + 1;
@@ -1049,4 +1051,17 @@
 //    transposed_matrix.sparse_to_dense();
 //
 //    return transposed_matrix;
+//}
+//
+//bool sparse_matrix :: is_sparse() const {
+//    int total_elements = rows * cols;
+//    int total_non_zero = 0;
+//
+//    // Calculate the total number of non-zero elements
+//    for (int i = 0; i < rows; i++) {
+//        total_non_zero += non_zero[i];
+//    }
+//
+//    // A matrix is sparse if non-zero elements are less than 50% of total elements
+//    return total_non_zero < (total_elements / 2);
 //}

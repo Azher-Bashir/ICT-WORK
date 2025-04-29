@@ -213,9 +213,15 @@
     <ClCompile Include="manager.cpp" />
     <ClCompile Include="Math.cpp" />
     <ClCompile Include="practice.cpp" />
+    <ClCompile Include="QUESTION 1.cpp" />
     <ClCompile Include="r4.cpp" />
     <ClCompile Include="L1.cpp" />
     <ClCompile Include="S2 L10 T1.cpp" />
+    <ClCompile Include="S2 L11 T1.cpp" />
+    <ClCompile Include="S2 L11 T2.cpp" />
+    <ClCompile Include="S2 L11 T3.cpp" />
+    <ClCompile Include="S2 L12 T1.cpp" />
+    <ClCompile Include="S2 L13 T1.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="student1.cpp" />
     <ClCompile Include="StudentManager.cpp" />

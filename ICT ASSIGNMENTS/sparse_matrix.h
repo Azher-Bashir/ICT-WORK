@@ -29,6 +29,7 @@
 //    sparse_matrix subtract_matrix(sparse_matrix&);
 //    sparse_matrix multiply_matrix(sparse_matrix&);
 //    sparse_matrix transpose();
+//    bool is_sparse() const;
 //};
 //
 //#endif // SPARSE_MATRIX_H

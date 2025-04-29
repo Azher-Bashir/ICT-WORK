@@ -55,9 +55,6 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 5">
       <UniqueIdentifier>{3b1669c7-0642-4f45-a5c4-de8d4409dc7a}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\SECOND SEMESTER\LAB 6">
-      <UniqueIdentifier>{56802b35-d711-4f9d-9f3a-d2ec55855582}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Source Files\SECOND SEMESTER\LAB 7">
       <UniqueIdentifier>{54b365ee-5f3d-4b7e-a6d7-b82074e3c8aa}</UniqueIdentifier>
     </Filter>
@@ -90,6 +87,21 @@
     </Filter>
     <Filter Include="Source Files\SECOND SEMESTER\LAB 10">
       <UniqueIdentifier>{5f95c3af-f178-4d3e-affd-5c9a3df3b7c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\QUIZ 2">
+      <UniqueIdentifier>{47804d4e-ce1a-42e5-a805-9de27e3e4cae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 11">
+      <UniqueIdentifier>{03487a79-731e-432e-8928-f55d23034395}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 6">
+      <UniqueIdentifier>{56802b35-d711-4f9d-9f3a-d2ec55855582}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 12">
+      <UniqueIdentifier>{38e72136-e64e-4fe0-8010-6fcbd1bc0599}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\LAB 13">
+      <UniqueIdentifier>{4e6ba3d1-a51a-44af-ba65-78c8f59a3d95}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -383,6 +395,24 @@
     </ClCompile>
     <ClCompile Include="L9.cpp">
       <Filter>Source Files\SECOND SEMESTER\UMAIR LABS</Filter>
+    </ClCompile>
+    <ClCompile Include="QUESTION 1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\QUIZ 2</Filter>
+    </ClCompile>
+    <ClCompile Include="S2 L11 T1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 11</Filter>
+    </ClCompile>
+    <ClCompile Include="S2 L11 T2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 11</Filter>
+    </ClCompile>
+    <ClCompile Include="S2 L11 T3.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 11</Filter>
+    </ClCompile>
+    <ClCompile Include="S2 L12 T1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 12</Filter>
+    </ClCompile>
+    <ClCompile Include="S2 L13 T1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\LAB 13</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
