@@ -306,6 +306,9 @@
     <ClCompile Include="CALCULATOR WITH DIFFERENT DATA TYPES.cpp">
       <Filter>Source Files\SECOND SEMESTER</Filter>
     </ClCompile>
+    <ClCompile Include="WAJEEH PRACTICE 1.cpp">
+      <Filter>Source Files\FIRST SEMESTER</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
