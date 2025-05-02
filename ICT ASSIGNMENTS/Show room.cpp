@@ -1,56 +1,54 @@
-#include <iostream>]
-using namespace std;
-
-class vehical
-{
-private:
-	int size_available;
-	int size_not_avail;
-	string* vehicals_available;
-	string* vehicals_not_available;
-public:
-	vehical();
-	vehical(string*, string*, int, int);
-	void set_available(string*);
-	void set_not_available(string*);
-	void set_no_of_cars(int, int);
-	string* get_available();
-	string* get_not_available();
-	string get_no_of_cars();
-};
-vehical::vehical()
-{
-	size_available = 0;
-	size_not_avail = 0;
-	vehicals_available = nullptr;
-	vehicals_not_available = nullptr;
-}
-vehical::vehical(string* available, string* not_available, int size_avail, int size_not_avail)
-{
-	vehicals_available = available;
-	vehicals_not_available = not_available;
-	size_available = size_avail;
-	this->size_not_avail = size_not_avail;
-}
-void vehical::set_available(string* available)
-{
-	vehicals_available = available;
-}
-void vehical::set_not_available(string* not_available)
-{
-	vehicals_not_available = not_available;
-}
-void vehical::set_no_of_cars(int available, int not_available)
-{
-	size_available = available;
-	size_not_avail = not_available;
-}
-string* vehical::get_available()
-{
-	return vehicals_available;
-}
-string* vehical::get_not_available()
-{
-	return vehicals_not_available;
-}
-string 
+//#include <iostream>
+//using namespace std;
+//
+//class vehical
+//{
+//private:
+//	string modle;
+//	int year;
+//	double price_per_day;
+//	bool availability_status;
+//public:
+//	vehical();
+//	vehical(string , int , double , bool );
+//	void set_availability(bool);
+//	bool get_avaialability();
+//	virtual double calculate_rent(int days) = 0;
+//	string get_modle();
+//};
+//vehical::vehical()
+//{
+//	modle = "";
+//	year = 0;
+//	price_per_day = 0;
+//	availability_status = true;
+//}
+//vehical::vehical(string modle, int year, double price_per_day, bool availability_status)
+//{
+//	this->modle = modle;
+//	this->year = year;
+//	this->price_per_day = price_per_day;
+//	this->availability_status = availability_status;
+//}
+//void vehical::set_availability(bool avail)
+//{
+//	availability_status = avail;
+//}
+//bool vehical::get_avaialability()
+//{
+//	return availability_status;
+//}
+//string vehical::get_modle()
+//{
+//	return modle;
+//}
+//
+//
+//
+//
+//
+//
+//int main()
+//{
+//	return 0;
+//}

@@ -234,6 +234,9 @@
     <ClCompile Include="A2  Q1.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\EXTRA</Filter>
     </ClCompile>
+    <ClCompile Include="vilana_assigment.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sparse_matrix.h">
