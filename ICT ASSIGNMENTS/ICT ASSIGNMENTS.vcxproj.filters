@@ -64,6 +64,15 @@
     <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 03\MY_ASSIGNMENT%255c">
       <UniqueIdentifier>{6a4e2a15-ee2b-4402-a36b-cc5e25ad501b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 03\MUHAMMAD">
+      <UniqueIdentifier>{bcff58d1-9f85-46c6-ba4f-ef2030c6e03b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN">
+      <UniqueIdentifier>{54b11bed-35de-4890-ae61-71f89a1d28df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02\hasssam">
+      <UniqueIdentifier>{4c28a820-82f2-472c-a9a9-0ee2b3c0ce65}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -261,6 +270,24 @@
     <ClCompile Include="wajeeh assignment 3 pf\SimpleMain.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
     </ClCompile>
+    <ClCompile Include="24L-6150\Customer.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="24L-6150\Date.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="24L-6150\main.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="24L-6150\Transaction.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="24L-6150\Vehicle.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="hassam assignment 2\sparsematrix.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\hasssam</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sparse_matrix.h">
@@ -304,6 +331,24 @@
     </ClInclude>
     <ClInclude Include="wajeeh assignment 3 pf\UserInfo.h">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
+    </ClInclude>
+    <ClInclude Include="24L-6150\Customer.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="24L-6150\Date.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="24L-6150\List.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="24L-6150\Transaction.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="24L-6150\Vehicle.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\HUSSNAIN</Filter>
+    </ClInclude>
+    <ClInclude Include="hassam assignment 2\sparsematrix.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\hasssam</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
