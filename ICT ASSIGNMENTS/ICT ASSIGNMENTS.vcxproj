@@ -186,7 +186,8 @@
     <ClCompile Include="A2  Q1.cpp" />
     <ClCompile Include="functions main.cpp" />
     <ClCompile Include="Umair Assignment 1.cpp" />
-    <ClCompile Include="vilana_assigment.cpp" />
+    <ClCompile Include="MY.cpp" />
+    <ClCompile Include="WAJEEH.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fdeclare.h" />
