@@ -187,7 +187,12 @@
     <ClCompile Include="A2  Q1.cpp" />
     <ClCompile Include="functions main.cpp" />
     <ClCompile Include="Umair Assignment 1.cpp" />
-    <ClCompile Include="MY.cpp" />
+    <ClCompile Include="MY%28ALL IN ONE%29.cpp" />
+    <ClCompile Include="VehicleRentalSystem_2\VehicleRentalSystem\Client.cpp" />
+    <ClCompile Include="VehicleRentalSystem_2\VehicleRentalSystem\main.cpp" />
+    <ClCompile Include="VehicleRentalSystem_2\VehicleRentalSystem\RentalDate.cpp" />
+    <ClCompile Include="VehicleRentalSystem_2\VehicleRentalSystem\RentalRecord.cpp" />
+    <ClCompile Include="VehicleRentalSystem_2\VehicleRentalSystem\VehicleTypes.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\BasicVehicle.h" />
@@ -199,6 +204,14 @@
     <ClInclude Include="FUNCTIONS.h" />
     <ClInclude Include="sparse.h" />
     <ClInclude Include="sparse_matrix.h" />
+    <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\Client.h" />
+    <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\CustomList.h" />
+    <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\RentalDate.h" />
+    <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\RentalRecord.h" />
+    <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\VehicleTypes.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="VehicleRentalSystem_2\VehicleRentalSystem\CustomList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
