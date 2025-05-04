@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\SimpleMain.cpp" />
     <ClCompile Include="faiz.cpp" />
     <ClCompile Include="01.cpp" />
     <ClCompile Include="02.cpp" />
@@ -187,9 +188,12 @@
     <ClCompile Include="functions main.cpp" />
     <ClCompile Include="Umair Assignment 1.cpp" />
     <ClCompile Include="MY.cpp" />
-    <ClCompile Include="WAJEEH.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\BasicVehicle.h" />
+    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\RentalData.h" />
+    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\SimpleDate.h" />
+    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\UserInfo.h" />
     <ClInclude Include="fdeclare.h" />
     <ClInclude Include="PF_Assigment.h" />
     <ClInclude Include="FUNCTIONS.h" />

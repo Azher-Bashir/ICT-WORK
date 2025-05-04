@@ -58,6 +58,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02\EXTRA">
       <UniqueIdentifier>{fa336815-64ff-4838-9d6c-7524d4be9c14}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen">
+      <UniqueIdentifier>{43545f8b-7624-41ae-94f1-8291f518f2b7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -237,8 +240,8 @@
     <ClCompile Include="MY.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03</Filter>
     </ClCompile>
-    <ClCompile Include="WAJEEH.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03</Filter>
+    <ClCompile Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\SimpleMain.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -256,6 +259,18 @@
     </ClInclude>
     <ClInclude Include="fdeclare.h">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\FAIZAN</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\BasicVehicle.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\RentalData.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\SimpleDate.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\UserInfo.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
