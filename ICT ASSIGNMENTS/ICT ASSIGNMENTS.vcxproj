@@ -128,7 +128,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\SimpleMain.cpp" />
     <ClCompile Include="faiz.cpp" />
     <ClCompile Include="01.cpp" />
     <ClCompile Include="02.cpp" />
@@ -193,12 +192,9 @@
     <ClCompile Include="VehicleRentalSystem_2\VehicleRentalSystem\RentalDate.cpp" />
     <ClCompile Include="VehicleRentalSystem_2\VehicleRentalSystem\RentalRecord.cpp" />
     <ClCompile Include="VehicleRentalSystem_2\VehicleRentalSystem\VehicleTypes.cpp" />
+    <ClCompile Include="wajeeh assignment 3 pf\SimpleMain.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\BasicVehicle.h" />
-    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\RentalData.h" />
-    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\SimpleDate.h" />
-    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\UserInfo.h" />
     <ClInclude Include="fdeclare.h" />
     <ClInclude Include="PF_Assigment.h" />
     <ClInclude Include="FUNCTIONS.h" />
@@ -209,6 +205,10 @@
     <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\RentalDate.h" />
     <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\RentalRecord.h" />
     <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\VehicleTypes.h" />
+    <ClInclude Include="wajeeh assignment 3 pf\BasicVehicle.h" />
+    <ClInclude Include="wajeeh assignment 3 pf\RentalData.h" />
+    <ClInclude Include="wajeeh assignment 3 pf\SimpleDate.h" />
+    <ClInclude Include="wajeeh assignment 3 pf\UserInfo.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="VehicleRentalSystem_2\VehicleRentalSystem\CustomList.cpp" />

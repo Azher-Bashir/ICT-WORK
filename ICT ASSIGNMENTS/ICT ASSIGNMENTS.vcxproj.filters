@@ -240,9 +240,6 @@
     <ClCompile Include="A2  Q1.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\EXTRA</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\SimpleMain.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
-    </ClCompile>
     <ClCompile Include="MY%28ALL IN ONE%29.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\MY_ASSIGNMENT%255c</Filter>
     </ClCompile>
@@ -261,6 +258,9 @@
     <ClCompile Include="VehicleRentalSystem_2\VehicleRentalSystem\main.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\MY_ASSIGNMENT%255c</Filter>
     </ClCompile>
+    <ClCompile Include="wajeeh assignment 3 pf\SimpleMain.cpp">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sparse_matrix.h">
@@ -278,18 +278,6 @@
     <ClInclude Include="fdeclare.h">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\FAIZAN</Filter>
     </ClInclude>
-    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\BasicVehicle.h">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
-    </ClInclude>
-    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\RentalData.h">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
-    </ClInclude>
-    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\SimpleDate.h">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
-    </ClInclude>
-    <ClInclude Include="C:\Users\USER\Downloads\Compressed\SimpleVehicleRentalSystem\UserInfo.h">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
-    </ClInclude>
     <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\Client.h">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\MY_ASSIGNMENT%255c</Filter>
     </ClInclude>
@@ -304,6 +292,18 @@
     </ClInclude>
     <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\VehicleTypes.h">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\MY_ASSIGNMENT%255c</Filter>
+    </ClInclude>
+    <ClInclude Include="wajeeh assignment 3 pf\BasicVehicle.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
+    </ClInclude>
+    <ClInclude Include="wajeeh assignment 3 pf\RentalData.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
+    </ClInclude>
+    <ClInclude Include="wajeeh assignment 3 pf\SimpleDate.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
+    </ClInclude>
+    <ClInclude Include="wajeeh assignment 3 pf\UserInfo.h">
+      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\wajeeh_ud_deen</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
