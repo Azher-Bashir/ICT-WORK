@@ -12,7 +12,7 @@
 //double VehicleBase::getDailyPrice() const { return dailyPrice; }
 //bool VehicleBase::getAvailability() const { return isAvailable; }
 //VehicleBase::~VehicleBase() {}
-//
+//\
 //CarType::CarType() : VehicleBase() {}
 //
 //double CarType::calculateRentalCost(int days) const {

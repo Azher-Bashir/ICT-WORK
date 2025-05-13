@@ -10,6 +10,7 @@
 //    int currentSize;
 //
 //public:
+//
 //    CustomList();
 //    void addItem(DataType item);
 //    DataType getData(int position);

@@ -309,6 +309,9 @@
     <ClCompile Include="WAJEEH PRACTICE 1.cpp">
       <Filter>Source Files\FIRST SEMESTER</Filter>
     </ClCompile>
+    <ClCompile Include="task1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">

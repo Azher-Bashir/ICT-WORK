@@ -209,6 +209,7 @@
     <ClCompile Include="struct2.cpp" />
     <ClCompile Include="struct3.cpp" />
     <ClCompile Include="STRUCT_23.cpp" />
+    <ClCompile Include="task1.cpp" />
     <ClCompile Include="this pointer.cpp" />
     <ClCompile Include="to draw a frame.cpp" />
     <ClCompile Include="WAJEEH PRACTICE 1.cpp" />
