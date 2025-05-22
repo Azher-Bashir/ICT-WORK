@@ -49,6 +49,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\S2 M2 PRACTICE">
       <UniqueIdentifier>{073b1ee8-1e43-4ee6-ad14-6f5f08932ced}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\SECOND SEMESTER\EXTRA">
+      <UniqueIdentifier>{bd309fbd-cd5e-4b58-807f-679b6e4ac400}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -311,6 +314,33 @@
     </ClCompile>
     <ClCompile Include="task1.cpp">
       <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Downloads\FileNa.cpp">
+      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Downloads\file.cpp">
+      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Downloads\FileNe.cpp">
+      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Downloads\Question 2.cpp">
+      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Downloads\Question 1.cpp">
+      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Downloads\sss.cpp">
+      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Downloads\FileName.cpp">
+      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\USER\Downloads\Question 3.cpp">
+      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
+    </ClCompile>
+    <ClCompile Include="final practice.cpp">
+      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

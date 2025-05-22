@@ -133,6 +133,14 @@
     <ClCompile Include="23.cpp" />
     <ClCompile Include="Armstrong number..cpp" />
     <ClCompile Include="ARRAYS.cpp" />
+    <ClCompile Include="C:\Users\USER\Downloads\file.cpp" />
+    <ClCompile Include="C:\Users\USER\Downloads\FileNa.cpp" />
+    <ClCompile Include="C:\Users\USER\Downloads\FileName.cpp" />
+    <ClCompile Include="C:\Users\USER\Downloads\FileNe.cpp" />
+    <ClCompile Include="C:\Users\USER\Downloads\Question 1.cpp" />
+    <ClCompile Include="C:\Users\USER\Downloads\Question 2.cpp" />
+    <ClCompile Include="C:\Users\USER\Downloads\Question 3.cpp" />
+    <ClCompile Include="C:\Users\USER\Downloads\sss.cpp" />
     <ClCompile Include="CALCULATOR WITH DIFFERENT DATA TYPES.cpp" />
     <ClCompile Include="cde 2.cpp" />
     <ClCompile Include="chapter 8 exercise 5.cpp" />
@@ -155,6 +163,7 @@
     <ClCompile Include="encryption.cpp" />
     <ClCompile Include="FileName.cpp" />
     <ClCompile Include="chapter 8 exercise 6.cpp" />
+    <ClCompile Include="final practice.cpp" />
     <ClCompile Include="merge.cpp" />
     <ClCompile Include="P 1.cpp" />
     <ClCompile Include="P 10.cpp" />
