@@ -8,7 +8,7 @@
 //SparseMatrix::SparseMatrix(int r, int c) : rows(r), cols(c), nonZeroCount(0), elements(nullptr) {
 //    cout << "SparseMatrix created with dimensions " << rows << "x" << cols << endl;
 //}
-//
+//   JN7
 //// Copy Constructor
 //SparseMatrix::SparseMatrix(const SparseMatrix& other) : rows(other.rows), cols(other.cols), nonZeroCount(other.nonZeroCount) {
 //    if (nonZeroCount > 0) {
@@ -28,7 +28,7 @@
 //SparseMatrix::~SparseMatrix() {
 //    clear();
 //}
-//
+//ui8
 //// Clear memory
 //void SparseMatrix::clear() {
 //    if (elements) {
@@ -53,7 +53,7 @@
 //SparseMatrix SparseMatrix::subtract(const SparseMatrix& other) const {
 //    if (rows != other.rows || cols != other.cols) {
 //        throw invalid_argument("Matrix dimensions must match for subtraction.");
-//    }
+//    }   
 //
 //    SparseMatrix result(rows, cols);
 //    int maxCount = nonZeroCount + other.nonZeroCount;

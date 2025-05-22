@@ -133,6 +133,7 @@
     <ClCompile Include="24L-6150\main.cpp" />
     <ClCompile Include="24L-6150\Transaction.cpp" />
     <ClCompile Include="24L-6150\Vehicle.cpp" />
+    <ClCompile Include="EXTRA QUESTION.cpp" />
     <ClCompile Include="faiz.cpp" />
     <ClCompile Include="01.cpp" />
     <ClCompile Include="02.cpp" />
@@ -223,6 +224,7 @@
     <ClInclude Include="wajeeh assignment 3 pf\UserInfo.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="EXTRA_QUESTION_224l-6150.CPP" />
     <None Include="VehicleRentalSystem_2\VehicleRentalSystem\CustomList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

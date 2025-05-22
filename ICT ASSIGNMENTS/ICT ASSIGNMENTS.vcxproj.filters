@@ -288,6 +288,9 @@
     <ClCompile Include="hassam assignment 2\sparsematrix.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\hasssam</Filter>
     </ClCompile>
+    <ClCompile Include="EXTRA QUESTION.cpp">
+      <Filter>Source Files\SECOND SEMESTER</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sparse_matrix.h">
@@ -354,6 +357,9 @@
   <ItemGroup>
     <None Include="VehicleRentalSystem_2\VehicleRentalSystem\CustomList.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\MY_ASSIGNMENT%255c</Filter>
+    </None>
+    <None Include="EXTRA_QUESTION_224l-6150.CPP">
+      <Filter>Source Files\SECOND SEMESTER</Filter>
     </None>
   </ItemGroup>
 </Project>
