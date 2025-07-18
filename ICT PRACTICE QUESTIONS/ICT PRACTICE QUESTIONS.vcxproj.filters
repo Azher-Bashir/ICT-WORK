@@ -81,9 +81,6 @@
     <ClCompile Include="Write a C++ code that checks if a number is an Armstrong number..cpp">
       <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
-    <ClCompile Include="FileName.cpp">
-      <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
-    </ClCompile>
     <ClCompile Include="PERFECT NUMBER.cpp">
       <Filter>Source Files\FIRST SEMESTER\MID 02</Filter>
     </ClCompile>
@@ -314,33 +311,6 @@
     </ClCompile>
     <ClCompile Include="task1.cpp">
       <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\USER\Downloads\FileNa.cpp">
-      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\USER\Downloads\file.cpp">
-      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\USER\Downloads\FileNe.cpp">
-      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\USER\Downloads\Question 2.cpp">
-      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\USER\Downloads\Question 1.cpp">
-      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\USER\Downloads\sss.cpp">
-      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\USER\Downloads\FileName.cpp">
-      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
-    </ClCompile>
-    <ClCompile Include="C:\Users\USER\Downloads\Question 3.cpp">
-      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
-    </ClCompile>
-    <ClCompile Include="final practice.cpp">
-      <Filter>Source Files\SECOND SEMESTER\EXTRA</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

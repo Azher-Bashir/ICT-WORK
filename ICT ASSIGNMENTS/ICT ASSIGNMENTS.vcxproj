@@ -140,8 +140,6 @@
     <ClCompile Include="03.cpp" />
     <ClCompile Include="04.cpp" />
     <ClCompile Include="05.cpp" />
-    <ClCompile Include="6028 main.cpp" />
-    <ClCompile Include="6028.cpp" />
     <ClCompile Include="code.cpp" />
     <ClCompile Include="declare.cpp" />
     <ClCompile Include="fdeclare.cpp" />
@@ -224,7 +222,6 @@
     <ClInclude Include="wajeeh assignment 3 pf\UserInfo.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="EXTRA_QUESTION_224l-6150.CPP" />
     <None Include="VehicleRentalSystem_2\VehicleRentalSystem\CustomList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

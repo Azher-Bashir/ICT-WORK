@@ -213,12 +213,6 @@
     <ClCompile Include="function.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\HUSSNIAN</Filter>
     </ClCompile>
-    <ClCompile Include="6028.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\villana</Filter>
-    </ClCompile>
-    <ClCompile Include="6028 main.cpp">
-      <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\villana</Filter>
-    </ClCompile>
     <ClCompile Include="code.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\muhammad</Filter>
     </ClCompile>
@@ -357,9 +351,6 @@
   <ItemGroup>
     <None Include="VehicleRentalSystem_2\VehicleRentalSystem\CustomList.cpp">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 03\MY_ASSIGNMENT%255c</Filter>
-    </None>
-    <None Include="EXTRA_QUESTION_224l-6150.CPP">
-      <Filter>Source Files\SECOND SEMESTER</Filter>
     </None>
   </ItemGroup>
 </Project>
