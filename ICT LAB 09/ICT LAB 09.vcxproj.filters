@@ -103,6 +103,12 @@
     <Filter Include="Source Files\SECOND SEMESTER\LAB 13">
       <UniqueIdentifier>{4e6ba3d1-a51a-44af-ba65-78c8f59a3d95}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER">
+      <UniqueIdentifier>{2f1fab1f-47b3-4452-9acb-d33e1f9ac5d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER\LAB 1">
+      <UniqueIdentifier>{4dad548b-c9e3-4905-9d7b-9e69b9aa3a4a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -413,6 +419,9 @@
     </ClCompile>
     <ClCompile Include="24L-6177.cpp">
       <Filter>Source Files\SECOND SEMESTER\LAB 13</Filter>
+    </ClCompile>
+    <ClCompile Include="L1 Q3.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

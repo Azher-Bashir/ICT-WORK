@@ -160,6 +160,7 @@
     <ClCompile Include="24L6177.cpp" />
     <ClCompile Include="24L6177%282%29.cpp" />
     <ClCompile Include="History.cpp" />
+    <ClCompile Include="L1 Q3.cpp" />
     <ClCompile Include="L1 Task1.cpp" />
     <ClCompile Include="L1 Task4.cpp" />
     <ClCompile Include="L11 TASK 2.cpp" />
