@@ -133,6 +133,7 @@
     <ClCompile Include="24L-6150\main.cpp" />
     <ClCompile Include="24L-6150\Transaction.cpp" />
     <ClCompile Include="24L-6150\Vehicle.cpp" />
+    <ClCompile Include="3A1 Q1.cpp" />
     <ClCompile Include="EXTRA QUESTION.cpp" />
     <ClCompile Include="faiz.cpp" />
     <ClCompile Include="01.cpp" />

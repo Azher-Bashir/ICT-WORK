@@ -73,6 +73,12 @@
     <Filter Include="Source Files\SECOND SEMESTER\ASSIGNMENT 02\hasssam">
       <UniqueIdentifier>{4c28a820-82f2-472c-a9a9-0ee2b3c0ce65}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER">
+      <UniqueIdentifier>{6f7e215e-5549-42b3-a497-466dac3d1b2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER\ASSIGNMENT 1">
+      <UniqueIdentifier>{8155b7ea-0a5a-45e2-8fd1-4650611c47ec}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -284,6 +290,9 @@
     </ClCompile>
     <ClCompile Include="EXTRA QUESTION.cpp">
       <Filter>Source Files\SECOND SEMESTER</Filter>
+    </ClCompile>
+    <ClCompile Include="3A1 Q1.cpp">
+      <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
