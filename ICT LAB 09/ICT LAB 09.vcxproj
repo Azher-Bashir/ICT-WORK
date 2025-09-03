@@ -180,6 +180,7 @@
     <ClCompile Include="L14 TASK 2.cpp" />
     <ClCompile Include="L14 TASK 3.cpp" />
     <ClCompile Include="L1 Task2.cpp" />
+    <ClCompile Include="L2 Q1.cpp" />
     <ClCompile Include="L2 task 1.cpp" />
     <ClCompile Include="L2.cpp" />
     <ClCompile Include="L3 Task 3.cpp" />
