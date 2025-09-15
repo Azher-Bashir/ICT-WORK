@@ -291,7 +291,7 @@
     <ClCompile Include="EXTRA QUESTION.cpp">
       <Filter>Source Files\SECOND SEMESTER</Filter>
     </ClCompile>
-    <ClCompile Include="3A1 Q1.cpp">
+    <ClCompile Include="3A1 Q1%28main%29.cpp">
       <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1</Filter>
     </ClCompile>
     <ClCompile Include="3A1 Q2.cpp">
@@ -358,6 +358,12 @@
     </ClInclude>
     <ClInclude Include="hassam assignment 2\sparsematrix.h">
       <Filter>Source Files\SECOND SEMESTER\ASSIGNMENT 02\hasssam</Filter>
+    </ClInclude>
+    <ClInclude Include="3A1 Q1.h">
+      <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1</Filter>
+    </ClInclude>
+    <ClInclude Include="3A1 Q2.h">
+      <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

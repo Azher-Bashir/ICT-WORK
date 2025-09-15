@@ -133,7 +133,7 @@
     <ClCompile Include="24L-6150\main.cpp" />
     <ClCompile Include="24L-6150\Transaction.cpp" />
     <ClCompile Include="24L-6150\Vehicle.cpp" />
-    <ClCompile Include="3A1 Q1.cpp" />
+    <ClCompile Include="3A1 Q1%28main%29.cpp" />
     <ClCompile Include="3A1 Q2.cpp" />
     <ClCompile Include="EXTRA QUESTION.cpp" />
     <ClCompile Include="faiz.cpp" />
@@ -207,6 +207,8 @@
     <ClInclude Include="24L-6150\List.h" />
     <ClInclude Include="24L-6150\Transaction.h" />
     <ClInclude Include="24L-6150\Vehicle.h" />
+    <ClInclude Include="3A1 Q1.h" />
+    <ClInclude Include="3A1 Q2.h" />
     <ClInclude Include="fdeclare.h" />
     <ClInclude Include="hassam assignment 2\sparsematrix.h" />
     <ClInclude Include="PF_Assigment.h" />
