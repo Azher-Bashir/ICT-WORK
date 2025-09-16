@@ -147,8 +147,10 @@
     <ClCompile Include="fdeclare.cpp" />
     <ClCompile Include="function.cpp" />
     <ClCompile Include="hassam assignment 2\sparsematrix.cpp" />
+    <ClCompile Include="Hospital.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Show room.cpp" />
+    <ClCompile Include="singly_list.cpp" />
     <ClCompile Include="sparse_matrix.cpp" />
     <ClCompile Include="ENCAPSULATION.cpp" />
     <ClCompile Include="EXAMPLE.cpp" />
@@ -211,8 +213,10 @@
     <ClInclude Include="3A1 Q2.h" />
     <ClInclude Include="fdeclare.h" />
     <ClInclude Include="hassam assignment 2\sparsematrix.h" />
+    <ClInclude Include="Hospital.h" />
     <ClInclude Include="PF_Assigment.h" />
     <ClInclude Include="FUNCTIONS.h" />
+    <ClInclude Include="singly_list.h" />
     <ClInclude Include="sparse.h" />
     <ClInclude Include="sparse_matrix.h" />
     <ClInclude Include="VehicleRentalSystem_2\VehicleRentalSystem\Client.h" />
