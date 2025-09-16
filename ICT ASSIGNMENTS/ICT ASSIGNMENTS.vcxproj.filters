@@ -294,7 +294,7 @@
     <ClCompile Include="3A1 Q1%28main%29.cpp">
       <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1</Filter>
     </ClCompile>
-    <ClCompile Include="3A1 Q2.cpp">
+    <ClCompile Include="3A1 Q2%28main%29.cpp">
       <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1</Filter>
     </ClCompile>
   </ItemGroup>
