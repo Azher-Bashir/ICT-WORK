@@ -115,6 +115,9 @@
     <Filter Include="Source Files\THIRD SEMESTER\LAB 3">
       <UniqueIdentifier>{ea560cd4-5846-4db3-a297-0ca1b0035c58}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER\LAB 4%28OEL%29">
+      <UniqueIdentifier>{5e26a3cd-53fb-453c-9b71-832f9d1edffd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -438,6 +441,12 @@
     <ClCompile Include="L3 Q2.cpp">
       <Filter>Source Files\THIRD SEMESTER\LAB 3</Filter>
     </ClCompile>
+    <ClCompile Include="Voter.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 4%28OEL%29</Filter>
+    </ClCompile>
+    <ClCompile Include="L4%28main%29.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 4%28OEL%29</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
@@ -495,6 +504,9 @@
     </ClInclude>
     <ClInclude Include="manager.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD</Filter>
+    </ClInclude>
+    <ClInclude Include="Voter.h">
+      <Filter>Source Files\THIRD SEMESTER\LAB 4%28OEL%29</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

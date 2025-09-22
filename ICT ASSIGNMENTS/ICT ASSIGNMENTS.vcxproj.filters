@@ -82,6 +82,9 @@
     <Filter Include="Source Files\THIRD SEMESTER\ASSIGNMENT 1\HUSSNIAN">
       <UniqueIdentifier>{485bb31f-a331-4db5-a1e9-85abce5d047d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER\ASSIGNMENT 1\FAIZAN">
+      <UniqueIdentifier>{cbdf30a9-7710-43d9-99b4-67e135b2acc2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="QUESTION # 01 _ Fibonacci sequence.cpp">
@@ -306,6 +309,12 @@
     <ClCompile Include="Hospital.cpp">
       <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1\HUSSNIAN</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\-3rd SEMESTER\OODS %28Object Oriented Data Structures%29\ASSIGNMENTS\patient_list.cpp">
+      <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1\FAIZAN</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\-3rd SEMESTER\OODS (Object Oriented Data Structures)\ASSIGNMENTS\singly_list.cpp">
+      <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1\FAIZAN</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="sparse_matrix.h">
@@ -379,6 +388,12 @@
     </ClInclude>
     <ClInclude Include="Hospital.h">
       <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1\HUSSNIAN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\-3rd SEMESTER\OODS %28Object Oriented Data Structures%29\ASSIGNMENTS\patient_list.h">
+      <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1\FAIZAN</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\-3rd SEMESTER\OODS (Object Oriented Data Structures)\ASSIGNMENTS\singly_list.h">
+      <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 1\FAIZAN</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
