@@ -200,7 +200,9 @@
     <ClCompile Include="R 1.cpp" />
     <ClCompile Include="R 2 .cpp" />
     <ClCompile Include="reverse number.cpp" />
+    <ClCompile Include="reverse.cpp" />
     <ClCompile Include="right triangle.cpp" />
+    <ClCompile Include="SLLIST.cpp" />
     <ClCompile Include="static array.cpp" />
     <ClCompile Include="struct 1.cpp" />
     <ClCompile Include="STRUCT PRACTICE.cpp" />
@@ -210,6 +212,7 @@
     <ClCompile Include="struct3.cpp" />
     <ClCompile Include="STRUCT_23.cpp" />
     <ClCompile Include="task1.cpp" />
+    <ClCompile Include="text.cpp" />
     <ClCompile Include="this pointer.cpp" />
     <ClCompile Include="to draw a frame.cpp" />
     <ClCompile Include="WAJEEH PRACTICE 1.cpp" />
@@ -225,6 +228,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header.h" />
+    <ClInclude Include="SLLIST.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -441,10 +441,10 @@
     <ClCompile Include="L3 Q2.cpp">
       <Filter>Source Files\THIRD SEMESTER\LAB 3</Filter>
     </ClCompile>
-    <ClCompile Include="Voter.cpp">
+    <ClCompile Include="L4%28main%29.cpp">
       <Filter>Source Files\THIRD SEMESTER\LAB 4%28OEL%29</Filter>
     </ClCompile>
-    <ClCompile Include="L4%28main%29.cpp">
+    <ClCompile Include="Election.cpp">
       <Filter>Source Files\THIRD SEMESTER\LAB 4%28OEL%29</Filter>
     </ClCompile>
   </ItemGroup>
@@ -505,7 +505,7 @@
     <ClInclude Include="manager.h">
       <Filter>Source Files\SECOND SEMESTER\LAB 9 %28OEL%29\MUHAMMAD</Filter>
     </ClInclude>
-    <ClInclude Include="Voter.h">
+    <ClInclude Include="Election.h">
       <Filter>Source Files\THIRD SEMESTER\LAB 4%28OEL%29</Filter>
     </ClInclude>
   </ItemGroup>

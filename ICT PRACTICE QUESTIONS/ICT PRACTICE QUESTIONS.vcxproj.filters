@@ -52,6 +52,9 @@
     <Filter Include="Source Files\SECOND SEMESTER\EXTRA">
       <UniqueIdentifier>{bd309fbd-cd5e-4b58-807f-679b6e4ac400}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER">
+      <UniqueIdentifier>{a883a21d-014a-4f71-bfd9-734992317938}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -312,6 +315,15 @@
     <ClCompile Include="task1.cpp">
       <Filter>Source Files\SECOND SEMESTER\OOP</Filter>
     </ClCompile>
+    <ClCompile Include="reverse.cpp">
+      <Filter>Source Files\THIRD SEMESTER</Filter>
+    </ClCompile>
+    <ClCompile Include="SLLIST.cpp">
+      <Filter>Source Files\THIRD SEMESTER</Filter>
+    </ClCompile>
+    <ClCompile Include="text.cpp">
+      <Filter>Source Files\THIRD SEMESTER</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
@@ -336,6 +348,9 @@
   <ItemGroup>
     <ClInclude Include="header.h">
       <Filter>Source Files\SECOND SEMESTER\CLASSES%28STRT OF OOP%29</Filter>
+    </ClInclude>
+    <ClInclude Include="SLLIST.h">
+      <Filter>Source Files\THIRD SEMESTER</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
