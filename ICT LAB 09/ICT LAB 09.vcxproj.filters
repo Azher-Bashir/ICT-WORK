@@ -118,6 +118,9 @@
     <Filter Include="Source Files\THIRD SEMESTER\LAB 4%28OEL%29">
       <UniqueIdentifier>{5e26a3cd-53fb-453c-9b71-832f9d1edffd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER\LAB 5">
+      <UniqueIdentifier>{c046f0dd-874c-46fd-8f36-493ab3fb76d9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -447,6 +450,15 @@
     <ClCompile Include="Election.cpp">
       <Filter>Source Files\THIRD SEMESTER\LAB 4%28OEL%29</Filter>
     </ClCompile>
+    <ClCompile Include="L5 Q1%28main%29.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Slist.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">
@@ -507,6 +519,12 @@
     </ClInclude>
     <ClInclude Include="Election.h">
       <Filter>Source Files\THIRD SEMESTER\LAB 4%28OEL%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Slist.h">
+      <Filter>Source Files\THIRD SEMESTER\LAB 5</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>Source Files\THIRD SEMESTER\LAB 5</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

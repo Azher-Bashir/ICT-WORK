@@ -195,6 +195,7 @@
     <ClCompile Include="L3.cpp" />
     <ClCompile Include="L4 Task 1.cpp" />
     <ClCompile Include="L4.cpp" />
+    <ClCompile Include="L5 Q1%28main%29.cpp" />
     <ClCompile Include="L5 T1.cpp" />
     <ClCompile Include="L5 T2.cpp" />
     <ClCompile Include="L5.cpp" />
@@ -228,6 +229,8 @@
     <ClCompile Include="S2 L11 T3.cpp" />
     <ClCompile Include="S2 L12 T1.cpp" />
     <ClCompile Include="24L-6177.cpp" />
+    <ClCompile Include="Slist.cpp" />
+    <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Student.cpp" />
     <ClCompile Include="student1.cpp" />
     <ClCompile Include="StudentManager.cpp" />
@@ -254,6 +257,8 @@
     <ClInclude Include="lheader.h" />
     <ClInclude Include="manager.h" />
     <ClInclude Include="math.h" />
+    <ClInclude Include="Slist.h" />
+    <ClInclude Include="Stack.h" />
     <ClInclude Include="student.h" />
     <ClInclude Include="student1.h" />
     <ClInclude Include="StudentManager.h" />
