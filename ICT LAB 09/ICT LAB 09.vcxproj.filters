@@ -459,6 +459,12 @@
     <ClCompile Include="Stack.cpp">
       <Filter>Source Files\THIRD SEMESTER\LAB 5</Filter>
     </ClCompile>
+    <ClCompile Include="S3 L5 Q2.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 5</Filter>
+    </ClCompile>
+    <ClCompile Include="S3 L5 Q3.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 5</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="test.txt">

@@ -4,6 +4,9 @@
 //
 //template <typename T>
 //class Stack { //
+//private:
+//	List<T>* list;
+//	Node<T>* top;
 //public:
 //	// constructor , creates an empty stack
 //	Stack();
@@ -20,9 +23,6 @@
 //	//operation
 //	T Pop();
 //	//friend class List<T>;
-//private:
-//	List <T>* list;
-//	Node<T>* top;
 //};
 //
 //#endif

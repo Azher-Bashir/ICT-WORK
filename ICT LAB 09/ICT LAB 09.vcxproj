@@ -229,6 +229,8 @@
     <ClCompile Include="S2 L11 T3.cpp" />
     <ClCompile Include="S2 L12 T1.cpp" />
     <ClCompile Include="24L-6177.cpp" />
+    <ClCompile Include="S3 L5 Q2.cpp" />
+    <ClCompile Include="S3 L5 Q3.cpp" />
     <ClCompile Include="Slist.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Student.cpp" />
