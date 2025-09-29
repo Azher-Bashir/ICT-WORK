@@ -1,7 +1,7 @@
 //#include "Hospital.h"
 //
 //int main() {
-//    Node* a = new Node(101, "parveen", "leukemia");
+////    Node* a = new Node(101, "parveen", "leukemia");
 //    Node* b = new Node(304, "pervaiz", "bone disease");
 //    Node* c = new Node(302, "bushra", "aids");
 //    Node* d = new Node(606, "sahil", "cancer");

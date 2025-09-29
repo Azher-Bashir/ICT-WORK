@@ -128,8 +128,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\-3rd SEMESTER\OODS %28Object Oriented Data Structures%29\ASSIGNMENTS\patient_list.cpp" />
-    <ClCompile Include="..\..\..\..\-3rd SEMESTER\OODS (Object Oriented Data Structures)\ASSIGNMENTS\singly_list.cpp" />
+    <ClCompile Include="..\..\..\..\-3rd SEMESTER\OODS (Object Oriented Data Structures)\ASSIGNMENTS\VILLANA\main.cpp" />
+    <ClCompile Include="..\..\..\..\-3rd SEMESTER\OODS (Object Oriented Data Structures)\ASSIGNMENTS\VILLANA\mainQ1.cpp" />
+    <ClCompile Include="..\..\..\..\-3rd SEMESTER\OODS (Object Oriented Data Structures)\ASSIGNMENTS\VILLANA\source.cpp" />
+    <ClCompile Include="..\..\..\..\-3rd SEMESTER\OODS (Object Oriented Data Structures)\ASSIGNMENTS\VILLANA\sourceQ1.cpp" />
     <ClCompile Include="24L-6150\Customer.cpp" />
     <ClCompile Include="24L-6150\Date.cpp" />
     <ClCompile Include="24L-6150\main.cpp" />
@@ -206,8 +208,8 @@
     <ClCompile Include="wajeeh assignment 3 pf\SimpleMain.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\-3rd SEMESTER\OODS %28Object Oriented Data Structures%29\ASSIGNMENTS\patient_list.h" />
-    <ClInclude Include="..\..\..\..\-3rd SEMESTER\OODS (Object Oriented Data Structures)\ASSIGNMENTS\singly_list.h" />
+    <ClInclude Include="..\..\..\..\-3rd SEMESTER\OODS (Object Oriented Data Structures)\ASSIGNMENTS\VILLANA\header.h" />
+    <ClInclude Include="..\..\..\..\-3rd SEMESTER\OODS (Object Oriented Data Structures)\ASSIGNMENTS\VILLANA\headerQ1.h" />
     <ClInclude Include="24L-6150\Customer.h" />
     <ClInclude Include="24L-6150\Date.h" />
     <ClInclude Include="24L-6150\List.h" />
