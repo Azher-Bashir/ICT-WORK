@@ -46,21 +46,19 @@
 //        head = h;
 //    }
 //
-//    void insert(Node* pbefore, Node* pnew) {
-//        Node* temp;
+//    void insert(Node* pnew, Node* pbefore) {
 //        if (head == nullptr) {
 //            head = pnew;
 //        }
-//        else if (head && !pbefore) {
+//        if (head && !pbefore) {
 //            pnew->setnext(head);
 //            head = pnew;
 //        }
-//        else {
+//        else if (head && pbefore) {
 //            pnew->setnext(pbefore->getnext());
-//            pbefore->setnext(pnew);
+//                pbefore->setnext(pnew);
 //        }
 //    }
-//
 //    void printList() {
 //        Node* temp = head;
 //        while (temp) {
