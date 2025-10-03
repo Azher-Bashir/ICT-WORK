@@ -324,6 +324,9 @@
     <ClCompile Include="text.cpp">
       <Filter>Source Files\THIRD SEMESTER</Filter>
     </ClCompile>
+    <ClCompile Include="Postfix.cpp">
+      <Filter>Source Files\THIRD SEMESTER</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">

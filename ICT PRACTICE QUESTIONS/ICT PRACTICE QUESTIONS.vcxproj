@@ -166,6 +166,7 @@
     <ClCompile Include="P2.cpp" />
     <ClCompile Include="palindrome..cpp" />
     <ClCompile Include="pattern question.cpp" />
+    <ClCompile Include="Postfix.cpp" />
     <ClCompile Include="practice 2 gcr.cpp" />
     <ClCompile Include="practice problem number 2.cpp" />
     <ClCompile Include="practice1.cpp" />
