@@ -55,6 +55,9 @@
     <Filter Include="Source Files\THIRD SEMESTER">
       <UniqueIdentifier>{a883a21d-014a-4f71-bfd9-734992317938}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Header Files\THIRD SEMESTER">
+      <UniqueIdentifier>{f30bc6ed-6a33-4c97-b7ee-2a6cc89859ed}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -327,6 +330,18 @@
     <ClCompile Include="Postfix.cpp">
       <Filter>Source Files\THIRD SEMESTER</Filter>
     </ClCompile>
+    <ClCompile Include="DEF SINGLY LIST.h">
+      <Filter>Header Files\THIRD SEMESTER</Filter>
+    </ClCompile>
+    <ClCompile Include="SINGLY NODE.h">
+      <Filter>Header Files\THIRD SEMESTER</Filter>
+    </ClCompile>
+    <ClCompile Include="SINGLYLIST.h">
+      <Filter>Header Files\THIRD SEMESTER</Filter>
+    </ClCompile>
+    <ClCompile Include="ROW MAJOR.cpp">
+      <Filter>Source Files\THIRD SEMESTER</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
@@ -354,6 +369,9 @@
     </ClInclude>
     <ClInclude Include="SLLIST.h">
       <Filter>Source Files\THIRD SEMESTER</Filter>
+    </ClInclude>
+    <ClInclude Include="DEF OF SINGLY NODE.h">
+      <Filter>Header Files\THIRD SEMESTER</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

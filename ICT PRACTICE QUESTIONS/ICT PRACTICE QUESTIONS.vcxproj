@@ -149,12 +149,16 @@
     <ClCompile Include="COMPARISON B\W STRUCT AND CLASS.cpp" />
     <ClCompile Include="COMPOSITION.cpp" />
     <ClCompile Include="CONSTRUXCTOR exp.cpp" />
+    <ClCompile Include="DEF SINGLY LIST.h" />
     <ClCompile Include="draw a frame using nested for and ifelse.cpp" />
     <ClCompile Include="dry run.cpp" />
     <ClCompile Include="ENCAPSULATION.cpp" />
     <ClCompile Include="Encryption key.cpp" />
     <ClCompile Include="encryption.cpp" />
     <ClCompile Include="chapter 8 exercise 6.cpp" />
+    <ClCompile Include="ROW MAJOR.cpp" />
+    <ClCompile Include="SINGLYLIST.h" />
+    <ClCompile Include="SINGLY NODE.h" />
     <ClCompile Include="merge.cpp" />
     <ClCompile Include="P 1.cpp" />
     <ClCompile Include="P 10.cpp" />
@@ -228,6 +232,7 @@
     <Text Include="unreversed_number.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="DEF OF SINGLY NODE.h" />
     <ClInclude Include="header.h" />
     <ClInclude Include="SLLIST.h" />
   </ItemGroup>
