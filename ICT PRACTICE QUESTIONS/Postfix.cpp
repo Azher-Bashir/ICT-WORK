@@ -373,7 +373,6 @@
 //		c = str[i];
 //		
 //		if (isspace(c))continue;
-//		//else if (c >= '0' || c <= '9')
 //		if(isdigit(c))
 //		{
 //			stk.push(c - '0');
