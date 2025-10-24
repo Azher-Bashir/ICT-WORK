@@ -156,6 +156,7 @@
     <ClCompile Include="Encryption key.cpp" />
     <ClCompile Include="encryption.cpp" />
     <ClCompile Include="chapter 8 exercise 6.cpp" />
+    <ClCompile Include="24L-0711.cpp" />
     <ClCompile Include="ROW MAJOR.cpp" />
     <ClCompile Include="SINGLYLIST.h" />
     <ClCompile Include="SINGLY NODE.h" />
@@ -226,6 +227,8 @@
   <ItemGroup>
     <Text Include="average.txt" />
     <Text Include="data.txt" />
+    <Text Include="matrix1.txt" />
+    <Text Include="matrix2.txt" />
     <Text Include="name.txt" />
     <Text Include="number.txt" />
     <Text Include="sentence.txt" />

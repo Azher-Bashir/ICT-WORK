@@ -234,6 +234,7 @@
     <ClCompile Include="S3 L6 Q1.cpp" />
     <ClCompile Include="S3 L6 Q3.cpp" />
     <ClCompile Include="S3 L7 Q1.cpp" />
+    <ClCompile Include="S3 L8 Q1.cpp" />
     <ClCompile Include="Slist.cpp" />
     <ClCompile Include="Stack.cpp" />
     <ClCompile Include="Student.cpp" />

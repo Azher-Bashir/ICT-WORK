@@ -127,6 +127,9 @@
     <Filter Include="Source Files\THIRD SEMESTER\LAB 7">
       <UniqueIdentifier>{814dcd4c-88cf-4e34-bb66-f901f9957122}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER\LAB 8">
+      <UniqueIdentifier>{d15cd385-ecaf-4e6d-93a4-81d6aba6d209}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -479,6 +482,9 @@
     </ClCompile>
     <ClCompile Include="S3 L7 Q1.cpp">
       <Filter>Source Files\THIRD SEMESTER\LAB 7</Filter>
+    </ClCompile>
+    <ClCompile Include="S3 L8 Q1.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 8</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

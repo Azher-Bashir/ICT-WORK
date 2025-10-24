@@ -58,6 +58,9 @@
     <Filter Include="Header Files\THIRD SEMESTER">
       <UniqueIdentifier>{f30bc6ed-6a33-4c97-b7ee-2a6cc89859ed}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER\NewFilter1">
+      <UniqueIdentifier>{11401111-f1a6-4812-a7c7-0d6270ac7bef}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -342,6 +345,9 @@
     <ClCompile Include="ROW MAJOR.cpp">
       <Filter>Source Files\THIRD SEMESTER</Filter>
     </ClCompile>
+    <ClCompile Include="24L-0711.cpp">
+      <Filter>Source Files\THIRD SEMESTER\NewFilter1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
@@ -361,6 +367,12 @@
     </Text>
     <Text Include="average.txt">
       <Filter>Source Files\SECOND SEMESTER\RAFAY ALI KHAN</Filter>
+    </Text>
+    <Text Include="matrix1.txt">
+      <Filter>Source Files\THIRD SEMESTER\NewFilter1</Filter>
+    </Text>
+    <Text Include="matrix2.txt">
+      <Filter>Source Files\THIRD SEMESTER\NewFilter1</Filter>
     </Text>
   </ItemGroup>
   <ItemGroup>
