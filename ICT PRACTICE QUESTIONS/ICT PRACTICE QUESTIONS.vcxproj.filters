@@ -61,6 +61,9 @@
     <Filter Include="Source Files\THIRD SEMESTER\NewFilter1">
       <UniqueIdentifier>{11401111-f1a6-4812-a7c7-0d6270ac7bef}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER\MID-II PRACTICE QUESTIONS OF TREE">
+      <UniqueIdentifier>{fa11f8b3-9706-4136-afa2-7af6a370d639}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="P1.cpp">
@@ -347,6 +350,9 @@
     </ClCompile>
     <ClCompile Include="24L-0711.cpp">
       <Filter>Source Files\THIRD SEMESTER\NewFilter1</Filter>
+    </ClCompile>
+    <ClCompile Include="All codes.cpp">
+      <Filter>Source Files\THIRD SEMESTER\MID-II PRACTICE QUESTIONS OF TREE</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -162,6 +162,7 @@
     <ClCompile Include="24L6177.cpp" />
     <ClCompile Include="24L6177%282%29.cpp" />
     <ClCompile Include="History.cpp" />
+    <ClCompile Include="naya.cpp" />
     <ClCompile Include="S3 L1 Q3.cpp" />
     <ClCompile Include="L1 Task1.cpp" />
     <ClCompile Include="L1 Task4.cpp" />
@@ -182,6 +183,9 @@
     <ClCompile Include="L14 TASK 2.cpp" />
     <ClCompile Include="L14 TASK 3.cpp" />
     <ClCompile Include="L1 Task2.cpp" />
+    <ClCompile Include="S3 L10 Q1.cpp" />
+    <ClCompile Include="S3 L10 Q2.cpp" />
+    <ClCompile Include="S3 L10 Q3.cpp" />
     <ClCompile Include="S3 L2 Q1.cpp" />
     <ClCompile Include="S3 L2 Q2.cpp" />
     <ClCompile Include="L2 task 1.cpp" />

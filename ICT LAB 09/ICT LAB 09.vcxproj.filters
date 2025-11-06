@@ -130,6 +130,9 @@
     <Filter Include="Source Files\THIRD SEMESTER\LAB 8">
       <UniqueIdentifier>{d15cd385-ecaf-4e6d-93a4-81d6aba6d209}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\THIRD SEMESTER\LAB 10">
+      <UniqueIdentifier>{ddc78b7b-a172-4f79-96ee-f79b539376c5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="all in one.cpp">
@@ -485,6 +488,18 @@
     </ClCompile>
     <ClCompile Include="S3 L8 Q1.cpp">
       <Filter>Source Files\THIRD SEMESTER\LAB 8</Filter>
+    </ClCompile>
+    <ClCompile Include="naya.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="S3 L10 Q1.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 10</Filter>
+    </ClCompile>
+    <ClCompile Include="S3 L10 Q2.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 10</Filter>
+    </ClCompile>
+    <ClCompile Include="S3 L10 Q3.cpp">
+      <Filter>Source Files\THIRD SEMESTER\LAB 10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

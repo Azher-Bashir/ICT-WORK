@@ -132,6 +132,7 @@
     <ClCompile Include="02.cpp" />
     <ClCompile Include="03.cpp" />
     <ClCompile Include="23.cpp" />
+    <ClCompile Include="All codes.cpp" />
     <ClCompile Include="Armstrong number..cpp" />
     <ClCompile Include="ARRAYS.cpp" />
     <ClCompile Include="CALCULATOR WITH DIFFERENT DATA TYPES.cpp" />
