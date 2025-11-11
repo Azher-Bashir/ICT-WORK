@@ -354,6 +354,12 @@
     <ClCompile Include="All codes.cpp">
       <Filter>Source Files\THIRD SEMESTER\MID-II PRACTICE QUESTIONS OF TREE</Filter>
     </ClCompile>
+    <ClCompile Include="practice for traversal.cpp">
+      <Filter>Source Files\THIRD SEMESTER\MID-II PRACTICE QUESTIONS OF TREE</Filter>
+    </ClCompile>
+    <ClCompile Include="GRAPHS.cpp">
+      <Filter>Source Files\THIRD SEMESTER\MID-II PRACTICE QUESTIONS OF TREE</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">

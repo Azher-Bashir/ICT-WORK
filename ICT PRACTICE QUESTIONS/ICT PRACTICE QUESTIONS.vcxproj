@@ -158,6 +158,8 @@
     <ClCompile Include="encryption.cpp" />
     <ClCompile Include="chapter 8 exercise 6.cpp" />
     <ClCompile Include="24L-0711.cpp" />
+    <ClCompile Include="GRAPHS.cpp" />
+    <ClCompile Include="practice for traversal.cpp" />
     <ClCompile Include="ROW MAJOR.cpp" />
     <ClCompile Include="SINGLYLIST.h" />
     <ClCompile Include="SINGLY NODE.h" />
