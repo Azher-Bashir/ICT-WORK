@@ -1,4 +1,3 @@
 1234 Ali Ahmed HR 36000
 1233 Ahmed Khan Sales 15000
-12 aj ja softech 1000
-
+1235 Zakiya Irfan Marketing 40000

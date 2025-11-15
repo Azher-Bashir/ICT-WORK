@@ -183,6 +183,7 @@
     <ClCompile Include="L14 TASK 2.cpp" />
     <ClCompile Include="L14 TASK 3.cpp" />
     <ClCompile Include="L1 Task2.cpp" />
+    <ClCompile Include="S3 L11 Q1.cpp" />
     <ClCompile Include="S3 L10 Q1.cpp" />
     <ClCompile Include="S3 L10 Q2.cpp" />
     <ClCompile Include="S3 L10 Q3.cpp" />

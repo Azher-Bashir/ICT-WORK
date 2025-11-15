@@ -7,12 +7,8 @@
 //
 //using namespace std;
 //
-//// Function declarations
-//void clearInputLine();
-//void ensureSampleFile(const string& filename);
 //void loadFromFile(const string& filename, class EmployeeBST& bst);
 //
-//// Employee as a simple class (fields public to keep code easy to read).
 //class Employee
 //{
 //public:
@@ -24,12 +20,8 @@
 //
 //    Employee();
 //    Employee(int i, const string& f, const string& l, const string& d, int s);
-//
-//    // Return a printable single-line representation (same format as file).
 //    string toString() const;
 //};
-//
-//// Node in the binary search tree.
 //class Node
 //{
 //public:
@@ -39,15 +31,11 @@
 //
 //    Node(const Employee& e);
 //};
-//
-//// Binary search tree keyed by Employee.id
 //class EmployeeBST
 //{
 //public:
 //    EmployeeBST();
 //    ~EmployeeBST();
-//
-//    // Public API functions
 //    bool insert(const Employee& e);
 //    Employee* search(int id);
 //    bool remove(int id);
@@ -57,8 +45,6 @@
 //
 //private:
 //    Node* root;
-//
-//    // Recursive helper function declarations
 //    void destroy(Node* n);
 //    void inOrder(Node* n);
 //    void reverseInOrder(Node* n);
@@ -66,4 +52,4 @@
 //    Node* removeNode(Node* n, int id, bool& removed);
 //};
 //
-//#endif // EMPLOYEEDATA_H
+//#endif

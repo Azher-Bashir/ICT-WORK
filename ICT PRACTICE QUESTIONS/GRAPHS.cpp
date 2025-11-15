@@ -35,7 +35,7 @@
 //				}
 //			}
 //		}
-//		return num_edges;
+//		return num_edges / 2;
 //	}
 //	//int getNumVertex();
 //	void insertEdge(int from_v, int to_v)

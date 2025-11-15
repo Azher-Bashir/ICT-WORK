@@ -1,4 +1,4 @@
-1 Azher Bashir HR 50000
-1233 Ahmed Khan Sales 15000
-1234 Ali Ahmed HR 36000
-1235 Zakiya Irfan Marketing 40000
+6023 Waleed Naeem EE 250000
+6028 Villana . CS 45000
+6150 Hussnain Tahir SE 50000
+6155 Azher Bashir EE 40000
