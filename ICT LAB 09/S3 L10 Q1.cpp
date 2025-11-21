@@ -19,17 +19,17 @@
 //
 //	bool insert(const DT data)
 //	{
-//		if (last == size - 1)  // heap full for 0-based indexing
+//		if (last == - 1)  // heap full for 0-based indexing
 //			return false;
 //
 //		last++;
 //		arr[last] = data;
 //
 //		int child = last;
-//		int parentIndex = (child - 1) / 2;
+//		//int parentIndex = (child - 1) / 2;
 //		while (child > 0)
 //		{
-//			parentIndex = (child - 1) / 2;
+//			int parentIndex = (child - 1) / 2;
 //			if (arr[parentIndex] < arr[child])
 //			{
 //				swap(arr[parentIndex], arr[child]);

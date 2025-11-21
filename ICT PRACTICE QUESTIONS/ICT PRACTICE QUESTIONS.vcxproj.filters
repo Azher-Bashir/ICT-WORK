@@ -360,6 +360,18 @@
     <ClCompile Include="GRAPHS.cpp">
       <Filter>Source Files\THIRD SEMESTER\MID-II PRACTICE QUESTIONS OF TREE</Filter>
     </ClCompile>
+    <ClCompile Include="itteravive traversal if a binary tree.cpp">
+      <Filter>Source Files\THIRD SEMESTER\MID-II PRACTICE QUESTIONS OF TREE</Filter>
+    </ClCompile>
+    <ClCompile Include="MAX HEAP.cpp">
+      <Filter>Source Files\THIRD SEMESTER\MID-II PRACTICE QUESTIONS OF TREE</Filter>
+    </ClCompile>
+    <ClCompile Include="S3 Q2 OODS C.cpp">
+      <Filter>Source Files\THIRD SEMESTER</Filter>
+    </ClCompile>
+    <ClCompile Include="S3 QUIZ2 OODS B1.cpp">
+      <Filter>Source Files\THIRD SEMESTER</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="unreversed_number.txt">
@@ -396,6 +408,9 @@
     </ClInclude>
     <ClInclude Include="DEF OF SINGLY NODE.h">
       <Filter>Header Files\THIRD SEMESTER</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartHospitalStructures.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

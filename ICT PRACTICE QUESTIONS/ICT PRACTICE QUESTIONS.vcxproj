@@ -159,8 +159,12 @@
     <ClCompile Include="chapter 8 exercise 6.cpp" />
     <ClCompile Include="24L-0711.cpp" />
     <ClCompile Include="GRAPHS.cpp" />
+    <ClCompile Include="itteravive traversal if a binary tree.cpp" />
+    <ClCompile Include="MAX HEAP.cpp" />
     <ClCompile Include="practice for traversal.cpp" />
     <ClCompile Include="ROW MAJOR.cpp" />
+    <ClCompile Include="S3 Q2 OODS C.cpp" />
+    <ClCompile Include="S3 QUIZ2 OODS B1.cpp" />
     <ClCompile Include="SINGLYLIST.h" />
     <ClCompile Include="SINGLY NODE.h" />
     <ClCompile Include="merge.cpp" />
@@ -241,6 +245,7 @@
     <ClInclude Include="DEF OF SINGLY NODE.h" />
     <ClInclude Include="header.h" />
     <ClInclude Include="SLLIST.h" />
+    <ClInclude Include="SmartHospitalStructures.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
