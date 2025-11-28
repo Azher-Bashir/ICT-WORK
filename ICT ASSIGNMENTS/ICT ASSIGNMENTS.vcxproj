@@ -138,6 +138,7 @@
     <ClCompile Include="3A1 Q2%28main%29.cpp" />
     <ClCompile Include="6150source.cpp" />
     <ClCompile Include="app_driver.cpp" />
+    <ClCompile Include="delivery main.cpp" />
     <ClCompile Include="EmployeeData.cpp" />
     <ClCompile Include="EmployeeDirectory.cpp" />
     <ClCompile Include="EXTRA QUESTION.cpp" />
@@ -156,7 +157,6 @@
     <ClCompile Include="Hospital.cpp" />
     <ClCompile Include="main..cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="Shipment.cpp" />
     <ClCompile Include="Show room.cpp" />
     <ClCompile Include="singly_list.cpp" />
     <ClCompile Include="sparse_matrix.cpp" />
@@ -219,10 +219,12 @@
     <ClInclude Include="24L-6150\Vehicle.h" />
     <ClInclude Include="3A1 Q1.h" />
     <ClInclude Include="3A1 Q2.h" />
+    <ClInclude Include="DeliveryApp.h" />
     <ClInclude Include="EmployeeData.h" />
     <ClInclude Include="EmployeeDirectory.h" />
     <ClInclude Include="employee_tree.h" />
     <ClInclude Include="fdeclare.h" />
+    <ClInclude Include="Graph.h" />
     <ClInclude Include="hassam assignment 2\sparsematrix.h" />
     <ClInclude Include="Hospital.h" />
     <ClInclude Include="PF_Assigment.h" />

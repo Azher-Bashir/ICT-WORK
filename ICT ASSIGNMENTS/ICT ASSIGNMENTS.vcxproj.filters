@@ -342,7 +342,7 @@
     <ClCompile Include="app_driver.cpp">
       <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 2\HUSSNAIN</Filter>
     </ClCompile>
-    <ClCompile Include="Shipment.cpp">
+    <ClCompile Include="delivery main.cpp">
       <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 3</Filter>
     </ClCompile>
   </ItemGroup>
@@ -429,6 +429,12 @@
       <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 2\HUSSNAIN</Filter>
     </ClInclude>
     <ClInclude Include="Shipment.h">
+      <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 3</Filter>
+    </ClInclude>
+    <ClInclude Include="Graph.h">
+      <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 3</Filter>
+    </ClInclude>
+    <ClInclude Include="DeliveryApp.h">
       <Filter>Source Files\THIRD SEMESTER\ASSIGNMENT 3</Filter>
     </ClInclude>
   </ItemGroup>
