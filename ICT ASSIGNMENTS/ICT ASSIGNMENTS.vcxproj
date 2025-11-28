@@ -156,6 +156,7 @@
     <ClCompile Include="Hospital.cpp" />
     <ClCompile Include="main..cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Shipment.cpp" />
     <ClCompile Include="Show room.cpp" />
     <ClCompile Include="singly_list.cpp" />
     <ClCompile Include="sparse_matrix.cpp" />
@@ -226,6 +227,7 @@
     <ClInclude Include="Hospital.h" />
     <ClInclude Include="PF_Assigment.h" />
     <ClInclude Include="FUNCTIONS.h" />
+    <ClInclude Include="Shipment.h" />
     <ClInclude Include="singly_list.h" />
     <ClInclude Include="sparse.h" />
     <ClInclude Include="sparse_matrix.h" />

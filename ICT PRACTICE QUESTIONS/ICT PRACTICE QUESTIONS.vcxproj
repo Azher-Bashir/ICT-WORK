@@ -132,6 +132,8 @@
     <ClCompile Include="02.cpp" />
     <ClCompile Include="03.cpp" />
     <ClCompile Include="23.cpp" />
+    <ClCompile Include="24L-0711_Q1.cpp" />
+    <ClCompile Include="24L-0711_Q2.cpp" />
     <ClCompile Include="All codes.cpp" />
     <ClCompile Include="Armstrong number..cpp" />
     <ClCompile Include="ARRAYS.cpp" />
